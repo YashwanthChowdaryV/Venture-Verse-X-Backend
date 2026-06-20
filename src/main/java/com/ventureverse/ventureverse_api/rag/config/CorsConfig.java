@@ -19,8 +19,8 @@ public class CorsConfig {
         config.setAllowedOrigins(Arrays.asList(
                 "http://localhost:5173", // Vite default
                 "http://localhost:3000", // React default
-                "http://localhost:8080" // Spring Boot (for testing)
-        ));
+                "http://localhost:8080", // Spring Boot (for testing)
+                "https://venture-verse-x.vercel.app"));
 
         // Allow all HTTP methods
         config.setAllowedMethods(Arrays.asList(

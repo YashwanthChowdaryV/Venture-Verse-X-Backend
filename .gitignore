@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 ### Application Secrets ###
-src/main/resources/application.properties
+#src/main/resources/application.properties
 .env
 .env.*
 

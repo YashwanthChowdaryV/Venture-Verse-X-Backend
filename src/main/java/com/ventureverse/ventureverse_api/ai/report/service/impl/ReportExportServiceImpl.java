@@ -6,6 +6,7 @@ import com.ventureverse.ventureverse_api.entities.StartupReport;
 import com.ventureverse.ventureverse_api.repositories.StartupReportRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 @Service
 @RequiredArgsConstructor
@@ -17,10 +18,11 @@ public class ReportExportServiceImpl
     private final PdfGenerator pdfGenerator;
 
     @Override
+    @Transactional(readOnly = true)
     public byte[] exportReport(Long reportId) {
 
         StartupReport report = startupReportRepository
-                .findById(reportId)
+                .findByIdWithRelations(reportId)
                 .orElseThrow(() -> new RuntimeException(
                         "Report not found"));
 

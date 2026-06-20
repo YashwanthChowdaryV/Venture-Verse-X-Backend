@@ -13,38 +13,34 @@ public class CorsConfig {
 
     @Bean
     public CorsFilter corsFilter() {
+
         CorsConfiguration config = new CorsConfiguration();
 
-        // Allow frontend origins
-        config.setAllowedOrigins(Arrays.asList(
-                "http://localhost:5173", // Vite default
-                "http://localhost:3000", // React default
-                "http://localhost:8080", // Spring Boot (for testing)
+        config.setAllowedOriginPatterns(Arrays.asList(
+                "http://localhost:5173",
+                "http://localhost:3000",
+                "http://localhost:8080",
                 "https://venture-verse-x.vercel.app"));
 
-        // Allow all HTTP methods
         config.setAllowedMethods(Arrays.asList(
-                "GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH"));
+                "GET",
+                "POST",
+                "PUT",
+                "DELETE",
+                "PATCH",
+                "OPTIONS"));
 
-        // Allow all headers
-        config.setAllowedHeaders(Arrays.asList(
-                "Origin", "Content-Type", "Accept", "Authorization",
-                "X-Requested-With", "Access-Control-Request-Method",
-                "Access-Control-Request-Headers"));
+        config.addAllowedHeader("*");
 
-        // Allow credentials (cookies, authorization headers)
+        config.addExposedHeader("*");
+
         config.setAllowCredentials(true);
 
-        // Expose headers that the frontend can read
-        config.setExposedHeaders(Arrays.asList(
-                "Access-Control-Allow-Origin",
-                "Access-Control-Allow-Credentials"));
-
-        // Cache preflight requests for 1 hour
         config.setMaxAge(3600L);
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-        source.registerCorsConfiguration("/api/**", config);
+
+        source.registerCorsConfiguration("/**", config);
 
         return new CorsFilter(source);
     }

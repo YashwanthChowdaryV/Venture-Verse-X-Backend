@@ -1,0 +1,67 @@
+﻿TITLE: Marketplace Archetypes
+DOCUMENT_ID: 258
+CATEGORY: Startup Archetypes & Pattern Intelligence
+SUBCATEGORY: Startup Classification
+DIFFICULTY: Expert
+PERSONAS: Investor, Analyst, VentureVerse Agent
+
+CORE CONCEPT
+
+Marketplace Archetypes are the distinct categories of two-sided platforms that connect buyers and sellers, each with fundamentally different liquidity dynamics, network effects, capital requirements, and growth patterns. The core concept is that marketplaces are not a single business model but a family of related models that differ in supply characteristics, demand characteristics, transaction frequency, and geographic constraints. Classifying marketplaces correctly is essential for understanding the chicken-and-egg problem, the path to liquidity, and the defensibility of the network. The failure mode is "Marketplace as Uniform": applying the same growth strategy and capital allocation to all marketplaces. VentureVerse agents use marketplace archetype classification to identify the specific dynamics that determine success or failure for each archetype.
+
+ARCHETYPE FRAMEWORK
+
+The Marketplace Archetype framework classifies companies across four primary dimensions. Supply Side Dimension: Asset-Heavy (suppliers own or manage physical assets -- Uber drivers with cars, Airbnb hosts with homes) vs. Asset-Light (suppliers provide services or digital goods -- Upwork freelancers, Etsy creators). Asset-Heavy marketplaces have higher supplier acquisition costs but higher barriers to multi-homing. Demand Side Dimension: High-Frequency (daily or weekly transactions -- food delivery, ride-hailing) vs. Low-Frequency (monthly or annual transactions -- home services, luxury rentals). High-frequency marketplaces have higher retention but require constant liquidity. Transaction Complexity Dimension: Simple (standardized transactions with low variance -- food delivery, ride-hailing) vs. Complex (custom transactions requiring negotiation or assessment -- home renovation, enterprise services). Complex transactions have higher take rates but lower automation potential. Geographic Dimension: Local (supply and demand must be in the same location -- ride-hailing, food delivery) vs. Global (supply and demand can be anywhere -- freelance marketplaces, digital asset marketplaces). Local marketplaces must solve the chicken-and-egg problem city by city; global marketplaces can scale faster but face more competition.
+
+ARCHETYPE CLASSIFICATION MODEL
+
+The classification model operates through a sequential process. First, determine the supply side: Asset-Heavy or Asset-Light. Second, determine the demand frequency: High-Frequency or Low-Frequency. Third, determine the transaction complexity: Simple or Complex. Fourth, determine the geographic constraint: Local or Global. The combination produces sixteen possible archetypes. The most common venture-scale archetypes are: Asset-Heavy + High-Frequency + Simple + Local (Uber, DoorDash), Asset-Heavy + Low-Frequency + Simple + Global (Airbnb), Asset-Light + High-Frequency + Simple + Global (e-commerce marketplaces), Asset-Light + Low-Frequency + Complex + Global (Upwork, Fiverr). Edge cases include hybrid marketplaces (marketplace + SaaS, marketplace + fintech) and marketplaces transitioning between archetypes.
+
+SUCCESS PATTERNS
+
+Local + Asset-Heavy success pattern: achieve liquidity city by city, subsidize the supply side initially, build brand and habit on the demand side, expand to adjacent categories once liquidity is achieved. Global + Asset-Light success pattern: aggregate supply from a long tail of providers, invest in trust and quality mechanisms, build search and matching algorithms, expand to adjacent services. Simple Transaction success pattern: automate the entire transaction, minimize human intervention, optimize for volume and take rate. Complex Transaction success pattern: provide tools for suppliers to differentiate, invest in trust and verification, take higher rates for higher value transactions. Common across archetypes: the most successful marketplaces achieve liquidity in a focused market before expanding, correctly identify which side to subsidize, and build trust mechanisms that reduce transaction risk.
+
+FAILURE PATTERNS
+
+Liquidity Failure: failing to achieve the minimum density of supply and demand for transactions to occur reliably. Most common in Local marketplaces that expand too quickly. Subsidy Failure: subsidizing the wrong side, subsidizing both sides indefinitely, or failing to achieve positive unit economics when subsidies are reduced. Multi-Homing Failure: the marketplace cannot prevent suppliers or buyers from using competitors simultaneously, eroding network effects. Disintermediation Failure: buyers and sellers go around the marketplace after the initial transaction. Complex Transaction Failure: attempting to automate transactions that require human judgment, resulting in poor matches and low satisfaction. Geographic Expansion Failure: expanding to new cities before achieving liquidity in the initial market.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Liquidity Rate. Above 80% of demand-side requests matched within the expected time window is strong. Warning: below 50%. Benchmark 2: Take Rate. Simple transactions: 15-30%. Complex transactions: 20-40%. Asset-Heavy: 20-30%. Asset-Light: 10-25%. Warning: take rate declining or below archetype benchmark. Benchmark 3: Gross Merchandise Volume Growth. Above 50% year-over-year is strong for growth-stage. Warning: below 20%. Benchmark 4: Buyer Retention. High-Frequency: above 40% at 90 days. Low-Frequency: above 20% at 12 months. Warning: below archetype benchmarks. Benchmark 5: Supplier Retention. Asset-Heavy: above 40% at 12 months. Asset-Light: above 30% at 12 months. Warning: below benchmarks. Benchmark 6: Contribution Margin. Above 10% of GMV is healthy. Warning: negative. Benchmark 7: Multi-Homing Rate. Below 20% on both sides is strong. Warning: above 40%.
+
+REAL-WORLD EXAMPLES
+
+Uber (Asset-Heavy + High-Frequency + Simple + Local): the canonical local marketplace. Airbnb (Asset-Heavy + Low-Frequency + Simple + Global): global marketplace for accommodations. Upwork (Asset-Light + Low-Frequency + Complex + Global): freelance marketplace for complex services. DoorDash (Asset-Heavy + High-Frequency + Simple + Local): local food delivery marketplace. Etsy (Asset-Light + Low-Frequency + Simple + Global): marketplace for handmade goods. Each example illustrates a distinct archetype combination with different dynamics.
+
+COMMON MISCLASSIFICATIONS
+
+The first misclassification is "Marketplace vs. SaaS": classifying a SaaS company that connects users as a marketplace. The second is "Supply-Side Confusion": misclassifying whether the supply side is asset-heavy or asset-light. The third is "Frequency Miscalculation": overestimating transaction frequency based on power users rather than the median user. The fourth is "Geographic Scope Error": classifying a local marketplace as global or vice versa. The fifth is "Complexity Misjudgment": underestimating the complexity of transactions and the resulting support costs.
+
+COUNTERINTUITIVE INSIGHT
+
+The best marketplace is often not the one with the highest take rate. A marketplace that charges 15% and prevents multi-homing is more valuable than one that charges 30% but has high supplier churn and multi-homing. Take rate optimization without retention optimization destroys marketplace value.
+
+INVESTOR PERSPECTIVE
+
+Most attractive archetypes for venture: Local + Asset-Heavy + High-Frequency (strong network effects, high barriers), Global + Asset-Light + Complex (large TAM, high take rates). Moderate attractiveness: Global + Simple (lower barriers, more competition). Highest risk: Local + Low-Frequency (difficult to achieve habit and retention), Complex + Local (difficult to scale, high operational costs). Due diligence implications: for Local, assess city-level unit economics; for Global, assess multi-homing and disintermediation risk; for Complex, assess trust and quality mechanisms. Return profiles: Local + High-Frequency can generate the highest frequency and habit; Global + Complex can generate the highest take rates.
+
+ARCHETYPE DIAGNOSTICS
+
+Positive Signals: Clear archetype classification, liquidity above 80%, positive contribution margin, low multi-homing, high retention on both sides. Warning Signals: Liquidity below 50%, negative contribution margin, high multi-homing, low retention. Scaling Indicators: city-level economics for Local, category expansion for Global. Capital Efficiency Indicators: contribution margin trend, CAC payback by market. Moat Indicators: network effects, multi-homing barriers, trust and reputation systems. Risk Indicators: subsidy dependency, disintermediation, regulatory risk, geographic concentration.
+
+VENTUREVERSE CLASSIFICATION SIGNALS
+
+Classification Signals: supply-side asset intensity, demand frequency, transaction complexity, geographic constraint. Confidence Signals: clarity of archetype dimensions, stability over time. Risk Signals: liquidity below threshold, multi-homing above threshold, subsidy dependency. Growth Signals: GMV growth, take rate stability, buyer and supplier retention. Fundability Signals: contribution margin trajectory, capital efficiency. Recommendation Signals: archetype-specific growth strategy, appropriate capital allocation. Archetype Fit Signals: alignment between GTM strategy and archetype dynamics.
+
+ACTIONABLE TAKEAWAYS
+
+1. Classify every marketplace on all four dimensions before developing growth strategy. A Local Asset-Heavy marketplace requires a fundamentally different approach than a Global Asset-Light marketplace.
+2. Achieve liquidity in one market before expanding. The single most common marketplace failure is expanding before achieving liquidity.
+3. Identify which side is scarcer and subsidize that side. Do not subsidize both sides indefinitely. Have a path to positive unit economics when subsidies are reduced.
+4. Measure multi-homing on both sides. If suppliers or buyers are actively using competitors, the marketplace does not have a network effect moat.
+5. Monitor disintermediation risk. If buyers and sellers can easily transact without the marketplace, the take rate must be justified by value provided.
+6. For Local marketplaces, optimize city-level unit economics before expanding to new cities. A marketplace that is unprofitable in its first city will be unprofitable everywhere.
+7. For Complex marketplaces, invest in trust and quality mechanisms. The marketplace's value is in reducing transaction risk, not just in matching.
+8. Apply archetype-specific liquidity benchmarks. A High-Frequency marketplace needs higher match rates than a Low-Frequency marketplace.
+
+END OF DOCUMENT

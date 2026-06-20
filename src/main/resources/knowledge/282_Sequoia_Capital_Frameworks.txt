@@ -1,0 +1,67 @@
+﻿TITLE: Sequoia Capital Frameworks
+DOCUMENT_ID: 282
+CATEGORY: Investor & Founder Thought Leadership
+SUBCATEGORY: Investment Philosophy
+DIFFICULTY: Advanced
+PERSONAS: Founder, Investor, VentureVerse Agent
+
+CORE THESIS
+
+Sequoia Capital's investment philosophy, developed over five decades by Don Valentine, Michael Moritz, Doug Leone, Roelof Botha, and the Sequoia partnership, is that venture capital is about identifying and supporting founders who are building companies that can become category-defining, enduring businesses. The central thesis is that venture returns follow a power law: a small number of investments generate the vast majority of returns. Therefore, the firm's strategy is to identify the rare founders and companies that have the potential to be outliers and to support them with conviction, capital, and institutional knowledge. Sequoia does not seek to build a diversified portfolio of good companies; it seeks to invest in the small number of companies that can become great. This philosophy matters because it has produced the most consistent venture returns in history, backing companies that now represent over twenty percent of NASDAQ's total value.
+
+FRAMEWORK OVERVIEW
+
+Sequoia's investment framework operates through several interconnected concepts. The "Why Now?" Question: Sequoia asks why a particular opportunity is available today that was not available before. The answer must identify specific technological, regulatory, or behavioral changes that create a window of opportunity. Founder Exceptionalism: Sequoia invests in founders who are not just good but exceptional -- founders with steep learning curves, relentless execution, and the ability to attract extraordinary talent. The firm's due diligence focuses intensively on founder references and trajectory. Market Size and Structure: Sequoia invests in markets that are large, growing, and structurally attractive. The market must be large enough to support a category-defining company. Defensibility and Moats: Sequoia evaluates whether the company has or can build structural advantages that will protect it from competition. The firm's thinking on moats has been heavily influenced by Hamilton Helmer's 7 Powers framework. The "Crucible Moment": Sequoia looks for evidence that the company has survived a difficult challenge and emerged stronger. This demonstrates founder resilience and business model durability. The "Sequoia Network": the firm leverages its network of founders, executives, and relationships to help portfolio companies hire talent, secure customers, and navigate challenges.
+
+MENTAL MODELS
+
+Sequoia's mental model views startups as potential category-defining companies, not as small businesses that will grow linearly. The firm thinks in terms of power laws: the distribution of outcomes is extremely skewed, and the objective is to find the outliers. This mental model produces a distinctive approach to risk: the greatest risk is not losing money on a failed investment but missing a generational company. Sequoia would rather lose money on ten failed investments than miss one Stripe or Airbnb. The mental model for evaluation is comparative: Sequoia compares every investment to the best companies it has seen. The question is not "is this a good company?" but "could this be one of the best companies we have ever seen?" The mental model for support is that Sequoia provides "the unspoken advantage": the network, knowledge, and reputation that help portfolio companies succeed in ways that are not directly attributable to the firm.
+
+DECISION FRAMEWORKS
+
+Sequoia's decision framework is structured around the investment memo and the partnership discussion. The sponsoring partner writes a detailed memo that addresses the "Why Now?" question, the founder evaluation, the market analysis, the competitive analysis, the financial analysis, and the risk assessment. The memo must make a clear argument for why this investment could generate exceptional returns. The partnership then discusses the memo, with every partner encouraged to challenge the thesis. The decision is made by the partnership, not by the sponsoring partner alone. Sequoia's framework for valuation is return-based: the firm models the exit value required to generate a 10x return and evaluates whether that exit is achievable given the market size and competitive dynamics. Sequoia's framework for follow-on investment is based on performance, not on sunk cost. The firm will invest more in companies that are executing well and will walk away from companies that are not, regardless of prior investment. Sequoia's framework for founder support is to provide help without taking control. The firm's partners serve as board members and advisors, not as operators.
+
+APPLICATION IN STARTUPS
+
+For founders, Sequoia's framework provides a lens for evaluating their own businesses. Founders should ask: "Why now? What specific changes make my company possible today?" They should evaluate their own founder-market fit and learning velocity. They should assess their market size and structure. They should identify their moats and defensibility. For investors, Sequoia's framework provides a template for investment evaluation: assess the founder, the market, the timing, the product, the competition, and the financials. The "Why Now?" question should be central to every investment thesis. For product development, Sequoia emphasizes building products that become essential infrastructure for customers, creating switching costs and defensibility. For growth, Sequoia emphasizes finding the repeatable, scalable growth engine before investing heavily in expansion.
+
+KEY PRINCIPLES
+
+"Why Now?": the most important question in venture capital. Founder Exceptionalism: invest in extraordinary founders, not good ones. Market Scale: the market must be large enough for a category-defining outcome. Defensibility: build structural moats that protect against competition. Power Law Returns: a small number of investments generate the majority of returns. Conviction Over Diversification: invest with conviction in the best opportunities. The Crucible Moment: resilience through difficulty is a leading indicator of success. The Unspoken Advantage: the network and knowledge of the firm compound portfolio company success.
+
+REAL-WORLD EXAMPLES
+
+Sequoia's investment in Stripe exemplified the "Why Now?" framework. The firm recognized that the shift to online commerce, the rise of developer-centric startups, and the inadequacy of existing payment infrastructure created a window for a new payments company. Sequoia's investment in Airbnb exemplified the "Founder Exceptionalism" framework. Despite the company's struggles and near-death experiences, the firm bet on Brian Chesky's exceptional learning velocity and resilience. Sequoia's investment in WhatsApp exemplified the "Market Scale" framework. The firm recognized that messaging was a global market with network effects that could produce a category-defining company. Sequoia's investment in Snowflake exemplified the "Defensibility" framework, recognizing the company's architectural advantage and data network effects. The framework has also had failures: Sequoia passed on early investments in companies that later became enormous, demonstrating that even the best framework produces false negatives.
+
+COMMON MISINTERPRETATIONS
+
+The most common misinterpretation is that Sequoia only invests in companies that are already successful. In reality, many of Sequoia's best investments were made when the company was struggling or unproven. Sequoia invested in Airbnb during a near-death experience, in Stripe when it had minimal revenue, and in WhatsApp when it had no business model. Another misinterpretation is that Sequoia's framework is a checklist. The firm's partners emphasize that the framework is a guide for thinking, not a formula for decision-making. Judgment, pattern recognition, and partnership discussion are essential. A third misinterpretation is that Sequoia's success is primarily due to brand and deal flow. While brand and deal flow matter, the firm's investment discipline -- asking "Why Now?", evaluating founders intensively, and investing with conviction -- is the foundation of its returns.
+
+COUNTERINTUITIVE INSIGHT
+
+Sequoia's most counterintuitive practice is that the firm often invests when a company appears to be struggling. The "Crucible Moment" framework means that Sequoia views difficulty not as a negative signal but as a test of founder and business model resilience. The companies that survive near-death experiences often emerge stronger, and Sequoia's willingness to invest during these moments has produced some of its best returns.
+
+INVESTOR PERSPECTIVE
+
+For investors, Sequoia's framework provides a model for venture investing. The "Why Now?" question should be central to every investment thesis. Founder evaluation should be intensive, with 8-15 reference calls. Market analysis should be bottom-up, not top-down. Valuation should be return-based, not comparable-based. Portfolio construction should be conviction-weighted, not diversified. The most important lesson from Sequoia is that venture returns come from identifying and supporting outliers, not from building a diversified portfolio of good companies. This requires the courage to invest with conviction when the opportunity is exceptional and the discipline to pass when it is not.
+
+FRAMEWORK DIAGNOSTICS
+
+Positive Signals: clear "Why Now?" thesis, exceptional founder, large market, structural moats, evidence of resilience, strong references. Warning Signals: vague timing rationale, adequate but not exceptional founder, small market, no moats, no evidence of resilience, mixed references. Failure Signals: no "Why Now?", weak founder, market too small, no defensibility, no resilience, negative references. Risk Indicators: founder-market mismatch, competitive vulnerability, market timing risk. Growth Indicators: founder learning velocity, market adoption rate, moat strengthening. Execution Indicators: founder delivery on commitments, team quality, operational discipline.
+
+VENTUREVERSE REASONING SIGNALS
+
+VentureVerse agents should apply the Sequoia framework when evaluating investments at all stages. Founder Signals: learning velocity, reference enthusiasm, resilience evidence, recruiting magnetism. Market Signals: "Why Now?" thesis clarity, market size bottom-up, structural attractiveness. Product Signals: product-market fit evidence, defensibility characteristics, switching costs. Growth Signals: organic growth, efficient acquisition, repeatable engine. Investment Signals: return potential, valuation justification, portfolio fit. Risk Signals: founder-market mismatch, competitive vulnerability, market timing risk. Strategic Signals: category-defining potential, moat trajectory, platform potential.
+
+ACTIONABLE TAKEAWAYS
+
+1. For founders: answer the "Why Now?" question. What specific changes make your company possible today that were not present before?
+2. For founders: build structural moats. Do not compete on features alone. Build network effects, switching costs, scale economies, or brand.
+3. For investors: conduct 8-15 reference calls for every founder. The founder's references are the most important diligence data.
+4. For investors: model the exit value required for a 10x return. If it is not achievable within the TAM, the valuation is too high.
+5. For both: look for the crucible moment. Has the company survived a difficult challenge? Resilience is a leading indicator of success.
+6. For VentureVerse agents: apply the Sequoia framework as a primary evaluation model for all investment decisions.
+7. For VentureVerse agents: weight the "Why Now?" analysis heavily. A weak timing thesis is a leading indicator of investment failure.
+8. For VentureVerse agents: evaluate founders on trajectory steepness, not current position. The founder who is improving fastest is the best bet.
+
+END OF DOCUMENT

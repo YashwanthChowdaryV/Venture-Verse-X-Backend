@@ -1,0 +1,66 @@
+﻿TITLE: Technical Due Diligence
+DOCUMENT_ID: 227
+CATEGORY: Venture Capital Due Diligence & Investment Intelligence
+SUBCATEGORY: Diligence Process
+DIFFICULTY: Advanced
+STAGE: All Stages
+PERSONAS: Investor, Venture Analyst, CTO
+
+CORE CONCEPT
+
+Technical Due Diligence is the process of evaluating a startup's technology, engineering organization, and technical strategy to assess whether the technology enables or constrains future growth. The core concept is that technical diligence is not a code review; it is an assessment of whether the technology can scale to support the company's ambitions. The failure mode for investors is "Technical Diligence as a Checkbox": treating technical diligence as a perfunctory review by a technical partner rather than a deep assessment of the technology's scalability, security, architecture, and the team's ability to execute. For investors, technical diligence is critical for technology-driven startups. A product with great market traction built on a crumbling technical foundation is a time bomb.
+
+INVESTMENT FRAMEWORK & MECHANICS
+
+The Technical Due Diligence framework operates through five dimensions. Architecture and Scalability: is the system architected to scale? Is it monolithic or service-oriented? Can it handle 10x, 100x the current load? What are the scaling bottlenecks? Code Quality and Technical Debt: what is the state of the codebase? How much technical debt has been accumulated? What is the testing coverage? How long does it take to ship a feature? Security and Compliance: is the system secure? Have there been security incidents? What security practices are in place? Is the company compliant with relevant regulations (SOC 2, HIPAA, GDPR)? Infrastructure and Operations: how is the system deployed and operated? What is the uptime? What is the MTTR? What is the deployment frequency? Team and Process: is the engineering team capable? Is the CTO a technical leader or just the best engineer? What are the development processes? How is technical debt managed?
+
+The operational mechanism is the "Technical Diligence Assessment": the technical reviewer examines the codebase, architecture diagrams, infrastructure configuration, security practices, and team structure, and interviews the CTO and key engineers. The mental model is "technology is an asset if it enables growth; it is a liability if it constrains it." The decision process: the technical reviewer produces a report assessing each dimension, identifying risks, and recommending either investment (with or without conditions) or pass.
+
+DUE DILIGENCE FRAMEWORK
+
+The technical diligence process involves: documentation review (architecture diagrams, technical roadmap, incident post-mortems, security policies), code review (sampling the codebase for quality, testing, and documentation), infrastructure review (cloud architecture, deployment pipelines, monitoring), team interviews (CTO, key engineers, product managers), and external assessment (penetration tests, security audits if applicable). Key diligence questions: "How is your system architected, and what are the scaling bottlenecks? How do you manage technical debt? What is your testing coverage? What is your deployment frequency and MTTR? How many security incidents have you had, and how did you handle them? How many engineers do you have, and what is your hiring plan? What keeps your CTO up at night?" Conviction-building signals: a well-architected system, a disciplined engineering team, manageable technical debt, strong security practices.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Deployment Frequency. Elite: multiple times per day. High: once per day to once per week. Medium: once per week to once per month. Low: less than once per month. Warning: low performer. Benchmark 2: Mean Time to Recover (MTTR). Elite: under 1 hour. High: under 1 day. Warning: above 1 day. Benchmark 3: Testing Coverage. Above 70% for critical paths is strong. Warning: below 30%. Benchmark 4: Technical Debt Allocation. 15-25% of engineering capacity allocated to debt reduction. Warning: below 10%. Benchmark 5: Engineering Team Size and Structure. Teams of 5-9 engineers with clear missions. Warning: monolithic team above 12 engineers. Benchmark 6: Security Posture. SOC 2 Type II, regular penetration tests, incident response plan. Warning: no security certifications, no penetration tests.
+
+INVESTMENT DECISION ANALYSIS
+
+The bull case: the technology is well-architected, the team is strong, technical debt is managed, and the technology can scale to support the company's growth. The base case: the technology is adequate, there is manageable technical debt, and the team can address scaling challenges as they arise. The bear case: the technology is fragile, technical debt is severe, the team is weak, and the technology will constrain growth and require significant investment to fix. The return profile: technology problems are a leading cause of startup failure. Strong technical foundations correlate with better outcomes. The portfolio fit: technical risk should be explicitly assessed and priced into the investment.
+
+REAL-WORLD EXAMPLE
+
+The technical diligence that preceded a16z's investment in GitHub in 2012 exemplified effective technical assessment. GitHub was growing rapidly, but the technical diligence revealed that the underlying architecture (a monolithic Rails application) was struggling to scale. The diligence identified this as a manageable risk: the team was strong, the scaling challenges were understood, and the investment could fund the architectural evolution. The outcome: GitHub successfully scaled its architecture, and the company was acquired by Microsoft for 7.5 billion dollars. The investor lesson: technical diligence identified a risk but also assessed the team's ability to address it. The investment was made with a clear understanding of the technical challenges.
+
+COMMON MISTAKES
+
+The first mistake is "Technical Diligence as a Perfunctory Review": treating technical diligence as a quick check rather than a deep assessment. The second mistake is "Code Review as Diligence": focusing on code quality without assessing architecture, scalability, and security. The third mistake is "Ignoring the Team": evaluating the technology without evaluating the team that built it and will evolve it. The fourth mistake is "No External Assessment": relying entirely on the company's representations without independent verification. The fifth mistake is "Technical Debt Denial": accepting the CTO's claim that technical debt is manageable without independent verification.
+
+COUNTERINTUITIVE INSIGHT
+
+The best technical diligence finding is not "the code is beautiful." It is "the team understands their technical challenges and has a credible plan to address them." A startup with messy code and a strong team that knows what to fix is a better investment than one with clean code and a weak team that will not be able to scale it.
+
+INVESTMENT COMMITTEE PERSPECTIVE
+
+Positive IC signals: well-architected system; strong engineering team; manageable technical debt; strong security practices; credible scaling plan. Red flags: fragile architecture; weak team; severe technical debt; poor security; no scaling plan. Questions partners ask: "What will break first as the company scales? How much technical debt is there, and what is the plan to address it? Is the CTO a technical leader or just the best engineer? What happens if the system goes down for a day? How long would it take a new engineer to become productive?" The evidence that changes a partner's vote: a discovery of severe, hidden technical debt; a finding that the engineering team is much weaker than represented; or confirmation that the technical foundation is stronger than expected.
+
+DILIGENCE DIAGNOSTICS
+
+Positive Signals: Strong architecture; capable team; managed debt; good security; scaling plan. Warning Signals: Fragile architecture; weak team; severe debt; poor security; no plan. Critical Risks: System cannot scale, security vulnerabilities, key engineer dependency, unrecoverable technical debt. Evidence Gaps: no code review, no architecture review, no security assessment. Conviction Indicators: strong team, manageable debt, credible plan, good practices. Deal Breakers: system that cannot scale to projected needs, unrecoverable technical debt, security failures, CTO who is not capable of scaling the team.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate technical diligence on architecture, team, and scalability. Positive Signals: Strong architecture; capable team; managed debt; good security. Warning Signals: Fragile architecture; weak team; severe debt; poor security. Scoring Signals: Technical Quality Score based on: architecture (30%), team (25%), technical debt (20%), security (15%), operations (10%). Founder Indicators: CTO capability, engineering leadership quality. Market Indicators: technology relevance to market requirements. Execution Indicators: deployment frequency, MTTR, feature velocity. Risk Indicators: scaling bottlenecks, security vulnerabilities, key person dependencies. Return Indicators: technology as an enabler or constraint on growth. Exit Indicators: technology defensibility, IP portfolio. Investment Readiness Indicators: technology scalability, team capability, security posture.
+
+ACTIONABLE TAKEAWAYS
+
+1. Conduct technical diligence for every technology-driven investment. Do not skip it because the market or team seems strong.
+2. Evaluate the CTO as a leader, not just an engineer. Can they scale the team? Do they manage technical debt? Do they communicate effectively?
+3. Assess the architecture for scalability. What will break when the company has 10x the users or data?
+4. Review the codebase, but do not get lost in the details. The goal is to assess the engineering culture and practices, not to find every bug.
+5. Ask about security incidents. Every company has them. The question is how they handled them and what they learned.
+6. Understand the technical debt situation. Is it tracked? Is there a plan? What percentage of capacity is allocated to it?
+7. Conduct an external assessment where appropriate (penetration test, architecture review by an independent expert).
+8. For investment committees: Require a Technical Diligence Report for every technology-driven investment. An investment made without technical diligence is a process failure.
+
+END OF DOCUMENT

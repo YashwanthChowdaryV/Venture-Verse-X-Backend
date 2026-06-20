@@ -1,0 +1,62 @@
+﻿TITLE: Product Sunsetting
+DOCUMENT_ID: 090
+CATEGORY: Product & Customer Intelligence
+SUBCATEGORY: Product Strategy
+DIFFICULTY: Advanced
+STAGE: All Stages
+PERSONAS: Founder, Product Manager, Investor
+
+CORE CONCEPT
+
+Product sunsetting (or end-of-life) is the strategic decision to discontinue a product, feature, or service, and the process of managing the transition for existing customers. The core concept is that sunsetting is a necessary part of product strategy -- not every product succeeds, and resources committed to a failing or non-strategic product are resources not available for more promising opportunities. The failure mode is "Sunsetting Avoidance": keeping a product alive indefinitely out of loyalty to existing customers or fear of their reaction, draining engineering, support, and product resources that could be deployed more effectively elsewhere. A second failure mode is "Abrupt Sunsetting": discontinuing a product with insufficient notice, inadequate migration support, and poor communication, destroying customer trust and damaging the company's reputation. For investors, a startup's willingness to sunset underperforming products is a signal of strategic discipline. A company that cannot kill its darlings will diffuse its focus and dilute its resources.
+
+FRAMEWORK & MECHANICS
+
+The Product Sunsetting framework operates through four phases: Evaluation, Decision, Transition, and Closure. Evaluation: the product is assessed against criteria including strategic alignment, revenue contribution, growth trajectory, resource consumption, customer satisfaction, and competitive position. Decision: the leadership team makes the explicit decision to sunset, documenting the rationale, the timeline, the migration plan, and the communication strategy. Transition: existing customers are notified with sufficient lead time (typically 6-12 months for enterprise products, 1-3 months for consumer features), provided with migration tools and support, and offered alternatives (another company product, a partner product, or data export). Closure: the product is shut down, the team is reallocated, and a post-mortem is conducted.
+
+The operational mechanism is the "Sunsetting Decision Matrix": products are scored on Strategic Alignment (1-10) and Performance (1-10). Products in the low-alignment, low-performance quadrant are sunset candidates. Products in the low-alignment, high-performance quadrant may be spun out or sold. Products in the high-alignment, low-performance quadrant may be reinvested in. The mental model is "sunsetting is resource reallocation, not failure." The goal is to maximize the impact of the company's limited resources. A product that consumes 20% of engineering capacity and generates 2% of revenue is a drag on the company, not an asset. The decision process: the leadership team reviews the product portfolio at least annually, identifies sunset candidates, and makes the decision with input from the product, engineering, sales, and customer success teams.
+
+PRODUCT EVALUATION FRAMEWORK
+
+Healthy sunsetting execution: a clear decision framework with explicit criteria; sufficient notice to customers (6-12 months for enterprise); a migration plan with tools and support; transparent, empathetic communication; a post-mortem that captures learnings. Unhealthy: no framework for sunsetting decisions; products are kept alive indefinitely; sunsetting decisions are made without a transition plan; customers are notified with insufficient notice; communication is defensive or opaque. PMF indicators: a product that is being sunsetted never achieved or lost PMF. Retention indicators: customers who are well-supported through a sunset transition are more likely to remain with the company for other products. Customer satisfaction indicators: satisfaction with the sunsetting process itself -- communication quality, migration support, timeline reasonableness. Product risk indicators: a product that is clearly failing but not being sunsetted consumes resources that could be used for higher-impact work.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Sunset Notice Period. Enterprise: 6-12 months minimum. Consumer: 1-3 months. Warning: less than the minimum. Benchmark 2: Migration Completion Rate. The percentage of customers who successfully migrate to an alternative. Above 80% is strong. Warning: below 50%. Benchmark 3: Customer Retention Post-Sunset. The percentage of sunset customers who remain customers of the company (using another product). Above 50% is strong. Warning: below 20%. Benchmark 4: Resource Reallocation Impact. The impact of the resources freed by the sunset. Should be measurable and positive. Benchmark 5: Sunset Decision Cadence. The product portfolio should be reviewed for sunset candidates at least annually. Benchmark 6: Post-Mortem Completion. Every sunset should include a documented post-mortem with learnings.
+
+REAL-WORLD EXAMPLE
+
+Google's sunsetting of Google Reader in 2013 is a cautionary tale. Google Reader had a passionate user base, but Google decided to sunset the product to focus resources on Google+. The sunset was announced with 3 months' notice, which the user community considered insufficient. The outcome: Google Reader was shut down, and the user backlash was significant, damaging Google's reputation with early adopters and developers. The lesson: the sunset decision may have been strategically correct, but the execution -- the notice period, the communication, the lack of a clear migration path -- damaged trust. A well-executed sunset preserves customer relationships; a poorly executed one destroys them.
+
+COMMON MISTAKES
+
+The first mistake is "Sunsetting Without a Plan": deciding to sunset a product without a migration plan for existing customers. The second mistake is "Insufficient Notice": providing less than the standard notice period, leaving customers scrambling. The third mistake is "No Migration Support": expecting customers to figure out their own migration without tools, documentation, or support. The fourth mistake is "Defensive Communication": communicating the sunset as a positive development ("we're excited to announce...") rather than acknowledging the impact on customers. The fifth mistake is "No Post-Mortem": moving on without capturing the learnings from why the product did not succeed.
+
+COUNTERINTUITIVE INSIGHT
+
+A well-executed sunset can increase customer trust, not decrease it. When customers see that the company handles the end-of-life process with transparency, empathy, and support, they trust the company more with their business, not less. The sunset is a test of the company's character.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: a clear framework for sunsetting decisions; a history of well-executed sunsets; resources visibly reallocated to higher-impact work; a product portfolio that is actively managed. Red flags: no sunsetting framework; products kept alive indefinitely; a portfolio of zombie products; no post-mortems from past sunsets. Due diligence questions: "When was the last time you sunsetted a product or feature?" "What is your process for deciding to sunset a product?" "How do you manage the transition for existing customers?" "What did you learn from your last sunset?" "How do you ensure the resources freed by a sunset are reallocated effectively?"
+
+PRODUCT DIAGNOSTICS
+
+Positive Signals: Clear sunset framework; well-executed past sunsets; resources reallocated effectively; post-mortems conducted; product portfolio actively managed. Warning Signals: No framework; zombie products; no past sunsets despite underperforming products; no post-mortems. Critical Thresholds: Products that are clearly failing but consuming significant resources with no sunset decision. Leading Indicators: product performance trends, resource allocation data. Lagging Indicators: customer retention post-sunset, resource reallocation impact. Root Causes of sunset failure: emotional attachment, fear of customer reaction, no decision framework. Corrective Actions: establish a sunset framework; create a transition plan; communicate transparently; provide migration support.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate product sunsetting as a signal of strategic discipline. Positive Signals: Clear sunset framework; well-executed sunsets; active portfolio management; post-mortems. Warning Signals: No framework; zombie products; no sunsets despite underperformers. Scoring Signals: Sunset Maturity Score based on: framework (30%), past execution (30%), portfolio management (20%), post-mortems (20%). Risk Indicators: Zombie products consuming 20%+ of resources; no sunset framework. PMF Indicators: Products being sunsetted lost or never achieved PMF. Retention Indicators: Customer retention post-sunset. Customer Understanding Indicators: Customer feedback on the sunsetting process.
+
+ACTIONABLE TAKEAWAYS
+
+1. Establish a sunsetting decision framework with explicit criteria: strategic alignment, revenue contribution, growth, resource consumption, customer satisfaction.
+2. Review your product portfolio at least annually for sunset candidates. Identify products that are consuming disproportionate resources for their contribution.
+3. For any sunset candidate, develop a transition plan: notice period, migration tools and documentation, support resources, and a communication strategy.
+4. Provide the standard notice period for your market: 6-12 months for enterprise products, 1-3 months for consumer features.
+5. Communicate the sunset with transparency and empathy. Acknowledge the impact on customers. Explain the rationale. Provide clear next steps.
+6. Build migration tools that make it easy for customers to export their data or transition to an alternative. The quality of the migration experience determines the quality of the retained relationship.
+7. Conduct a post-mortem after every sunset. Document the reasons the product did not succeed, the lessons learned, and how the learnings will inform future product decisions.
+8. For investors: Request the product portfolio review and the sunset framework. A company that cannot articulate how it decides to discontinue products is not managing its portfolio actively.
+
+END OF DOCUMENT

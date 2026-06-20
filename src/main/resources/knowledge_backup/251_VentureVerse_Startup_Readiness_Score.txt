@@ -1,0 +1,67 @@
+﻿TITLE: VentureVerse Startup Readiness Score
+DOCUMENT_ID: 251
+CATEGORY: VentureVerse Proprietary Intelligence
+SUBCATEGORY: Readiness Assessment
+DIFFICULTY: Expert
+PERSONAS: Investor Agent, Due Diligence Agent, Founder Agent
+
+CORE CONCEPT
+
+The VentureVerse Startup Readiness Score (SRS) is the composite assessment of whether a startup has achieved the milestones, built the capabilities, and reduced the risks necessary to justify investment at a given stage. The core concept is that the SRS is distinct from the VIS. The VIS measures overall investability; the SRS measures stage-specific readiness. A startup can have a high VIS (strong founder, attractive market) but a low SRS (has not validated product-market fit, no repeatable go-to-market). The SRS answers the question: "Is this company ready for this amount of capital at this stage?" The failure mode is "Stage Mismatch": investing at a valuation or check size that assumes milestones the company has not achieved. VentureVerse agents use the SRS to calibrate investment stage, check size, and instrument selection.
+
+VENTUREVERSE FRAMEWORK
+
+The Startup Readiness framework operates through five stage gates. Discovery Gate: has the company validated the problem and customer? Criteria: 50+ customer interviews, problem validation rate above 60%, identified target customer segment. Validation Gate: has the company validated the solution and willingness to pay? Criteria: Ellis PMF score above 40%, retention curves flattening, initial customers paying. Efficiency Gate: has the company validated the unit economics and go-to-market? Criteria: CAC payback under 12 months (SMB) or 24 months (enterprise), Magic Number above 0.75x, NRR above 100%. Scale Gate: is the company ready to deploy significant capital for growth? Criteria: multiple acquisition channels at scale, management team capable of next stage, unit economics improving with scale. Each gate is assessed as Passed, Not Passed, or Insufficient Evidence. The SRS is the percentage of gates passed, adjusted for the company's current stage. A Seed company that has passed the Discovery Gate scores 100; has passed Discovery and is progressing on Validation scores 75; has not passed Discovery scores below 30.
+
+SCORING METHODOLOGY
+
+Each gate is scored based on objective, measurable criteria. The Discovery Gate requires: interview count (above 50 scores 100; below 20 scores below 30), problem validation rate (above 60% scores 100; below 30% scores below 30), customer segment definition (specific and validated scores 100; vague scores below 30). The Validation Gate requires: Ellis PMF score (above 40% scores 100; below 25% scores below 30), retention (Smile Curve scores 100; Frown Curve scores below 30), paying customers (above 10 scores 100; zero scores below 10). The Efficiency Gate requires: CAC payback, Magic Number, NRR as defined. The Scale Gate requires: channel diversity, management team, unit economics trajectory. The SRS is calculated as: SRS = (Sum of Gate Scores for gates applicable to current stage) / (Number of applicable gates). For a Seed company, only the Discovery and Validation gates are applicable. For a Series A company, Discovery, Validation, and Efficiency are applicable. For a Growth company, all five gates are applicable. Gates that are not applicable are excluded.
+
+WEIGHTING MODEL
+
+The SRS applies equal weight to all applicable gates. However, within each gate, the criteria weights vary. In the Validation Gate, retention carries 40% weight, Ellis PMF score carries 35%, and paying customers carries 25%. The weighting model is calibrated to the predictive validity of each criterion for the relevant stage transition. The SRS also includes a "gate dependency" rule: if a prior gate is not passed, subsequent gates are not assessed. A company that has not passed Discovery cannot be assessed on Validation. This prevents false readiness signals from companies that skipped stages.
+
+INPUT SIGNALS
+
+Positive signals: gates passed with strong evidence, objective metrics meeting thresholds, evidence from multiple independent sources. Negative signals: gates not passed, metrics below thresholds, evidence missing or company-reported only. Missing signals for a gate result in "Insufficient Evidence" status. Contradictory signals (e.g., strong Ellis score but weak retention) trigger a gate-specific review.
+
+DECISION LOGIC
+
+SRS above 80: Ready (the company has achieved the milestones appropriate for its stage). SRS 65-80: Mostly Ready (some gaps, but investable with milestone conditions). SRS 50-65: Partially Ready (significant gaps; investment should be structured with tranches tied to milestone achievement). SRS 35-50: Not Ready (the company has not achieved the prerequisites for its stage; investment should be Seed-stage instruments even if the company is seeking Series A). SRS below 35: Premature (the company is too early for institutional investment; recommend waiting or Seed-stage instruments). The SRS informs the VIS: a low SRS reduces the effective VIS through a stage-alignment penalty. The SRS also informs instrument selection: low SRS suggests convertible instruments; high SRS supports priced rounds.
+
+REAL-WORLD APPLICATION
+
+Consider a startup seeking Series A: Discovery Gate passed (score 90, strong problem validation). Validation Gate passed (score 85, Ellis score 42%, Smile Curve). Efficiency Gate partially passed (score 60, CAC payback 16 months, NRR 105%, Magic Number 0.6x). Scale Gate not applicable (not assessed). The SRS is (90+85+60)/3 = 78, placing it in the Mostly Ready range. The recommendation is investable with milestone conditions: achieve CAC payback under 12 months and Magic Number above 0.75x within 2 quarters.
+
+COMMON SCORING ERRORS
+
+The first error is "Stage Inflation": accepting the company's claimed stage without objective verification. The second is "Gate Skipping": assessing later gates when prior gates are not passed. The third is "Metric Shopping": the company presenting the best metric from the best cohort. The fourth is "Evidence Substitution": accepting narrative evidence when objective metrics are available. The fifth is "Readiness by Funding": assuming that having raised a Seed round means the company is Series A ready.
+
+COUNTERINTUITIVE INSIGHT
+
+A startup that raises a Series A without passing the Efficiency Gate is not a Series A company; it is a Seed company with Series A capital. The SRS identifies this mismatch and recommends Seed-stage instruments and expectations, regardless of the round label. The round label does not determine readiness; the metrics do.
+
+INVESTMENT INTERPRETATION
+
+The SRS is a stage-alignment assessment. A high SRS indicates that the company has achieved the milestones appropriate for its stage and the proposed investment. The SRS should be interpreted alongside the VIS. A company with a high VIS but a low SRS may be an exceptional opportunity that is not yet ready for the proposed investment stage. The appropriate response may be to invest with Seed instruments rather than Series A, or to wait until readiness improves.
+
+SYSTEM DIAGNOSTICS
+
+Positive Signals: All applicable gates passed with strong evidence, objective metrics, multiple sources. Warning Signals: Gates not passed, metrics below thresholds, evidence missing, company-reported only. Confidence Indicators: evidence quality for each gate, metric coverage. Data Quality Indicators: independent vs. company-reported. Model Risk Indicators: gate threshold calibration, stage definition. Recommendation Reliability Indicators: historical correlation between SRS and stage-appropriate outcomes.
+
+VENTUREVERSE AGENT REASONING
+
+The Due Diligence Agent computes the SRS from gate assessments. It determines which gates are applicable based on the company's claimed stage and the proposed investment. It evaluates each gate against objective criteria and calculates the SRS. The Investor Agent uses the SRS to calibrate investment stage, check size, and instrument selection. When the SRS and VIS conflict (e.g., high VIS but low SRS), the conflict is flagged for resolution. The Due Diligence Agent provides a narrative explanation of the SRS, including which gates are passed, which are not, and the specific evidence.
+
+ACTIONABLE IMPLEMENTATION
+
+1. Implement the SRS as a stage-gate assessment pipeline with five gates.
+2. Define objective, measurable criteria for each gate with clear thresholds.
+3. Implement the gate dependency rule: prior gates must be passed before later gates are assessed.
+4. Build the stage determination logic: which gates are applicable based on claimed stage and proposed investment.
+5. Implement the SRS calculation with equal gate weighting and within-gate criteria weighting.
+6. Build the stage-alignment penalty for the VIS.
+7. Implement the instrument selection recommendation based on SRS.
+8. Deploy back-testing to validate gate criteria and thresholds against stage transition outcomes.
+
+END OF DOCUMENT

@@ -1,0 +1,62 @@
+﻿TITLE: Public Relations
+DOCUMENT_ID: 113
+CATEGORY: Growth & Go-To-Market
+SUBCATEGORY: Brand
+DIFFICULTY: Intermediate
+STAGE: Seed to Growth
+PERSONAS: Founder, Growth Leader, Investor
+
+CORE CONCEPT
+
+Public Relations (PR) is the strategic communication practice of building relationships with journalists, analysts, and influencers to earn media coverage that builds brand awareness, credibility, and trust. The core concept is that PR is earned attention, not paid attention. A positive story in a trusted publication has credibility that advertising cannot buy. The failure mode is "PR as Press Releases": treating PR as a series of press releases announcing company news rather than as a strategic function that builds relationships, crafts narratives, and positions the company within broader industry conversations. For investors, a startup's PR capability is a signal of brand-building sophistication. A company that consistently earns media coverage from respected publications has a brand advantage that reduces CAC and builds trust.
+
+FRAMEWORK & MECHANICS
+
+The PR framework operates through the "Earned Media Flywheel": Narrative (the company develops a compelling narrative about the problem it solves, the change it represents, and why it matters -- the narrative is not about the product; it is about the transformation the product enables), Relationships (the PR team builds relationships with journalists, analysts, and influencers who cover the company's industry), News (the company creates news -- funding announcements, product launches, data reports, customer stories, executive hires, opinion pieces on industry trends), Coverage (journalists write stories based on the narrative and the news, providing third-party credibility), and Amplification (the coverage is amplified through the company's own channels, attracting more attention and building the company's reputation).
+
+The operational mechanism is the "PR Calendar": the PR team plans the company's news and story pipeline on a quarterly basis, aligning PR activities with product launches, company milestones, and industry events. The mental model is "PR is a relationship business." Journalists are not a distribution channel; they are partners who need compelling stories that serve their readers. The decision process: the PR team identifies the publications and journalists that reach the target audience, develops relationships with them, and pitches stories that are genuinely newsworthy.
+
+GROWTH EVALUATION FRAMEWORK
+
+Healthy PR execution: a documented PR strategy with a clear narrative; relationships with journalists in the company's industry; a quarterly PR calendar; media coverage from respected publications; the company is part of broader industry conversations. Unhealthy: no PR strategy; PR limited to press releases; no journalist relationships; no media coverage; the company is invisible in industry conversations. Growth quality indicators: the volume of media coverage; the quality of publications; the sentiment of coverage; the impact of coverage on website traffic and brand search. Growth sustainability indicators: the number of journalist relationships; the frequency of inbound media inquiries.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Media Mentions. The number of times the company is mentioned in target publications per quarter. Should be growing. Benchmark 2: Share of Voice. The company's percentage of total media coverage in its category. Above 10% is meaningful. Benchmark 3: Publication Quality. The percentage of coverage in tier-1 publications (top 20 publications in the industry). Above 20% is strong. Benchmark 4: Sentiment Score. The percentage of coverage that is positive. Above 80% is strong. Warning: below 60%. Benchmark 5: PR-Attributed Traffic. The percentage of website traffic driven by PR coverage. Above 5% is strong. Benchmark 6: Inbound Media Inquiries. The number of journalist inquiries the company receives per quarter. Should be growing.
+
+REAL-WORLD EXAMPLE
+
+Stripe's PR strategy is a benchmark for B2B startups. Stripe has built relationships with journalists at the Wall Street Journal, Bloomberg, TechCrunch, and other top publications. The company's PR is not limited to product announcements; Stripe publishes data reports, economic analyses, and thought leadership pieces that position the company as an authority on the internet economy. The outcome: Stripe has earned consistent, positive media coverage that has built its brand and reduced its reliance on paid acquisition. The investor lesson: Stripe's PR is not about promoting the product; it is about shaping the conversation around the industry the product serves.
+
+COMMON MISTAKES
+
+The first mistake is "PR as Press Releases": treating PR as a function that writes and distributes press releases rather than one that builds relationships and crafts narratives. The second mistake is "No Narrative": pitching stories without a compelling narrative that makes the company newsworthy. The third mistake is "Spray and Pray": sending the same pitch to hundreds of journalists without personalization or relevance. The fourth mistake is "No Measurement": conducting PR without measuring the impact on brand awareness, website traffic, or customer acquisition. The fifth mistake is "PR Only for Fundraising": using PR only when the company is raising money, missing the opportunity to build brand over time.
+
+COUNTERINTUITIVE INSIGHT
+
+The best PR is not about the company; it is about the industry. A data report, a trend analysis, or a contrarian opinion on the industry's direction is more newsworthy than a product announcement. The company earns coverage by being a voice in the industry conversation, not by talking about itself.
+
+INVESTOR PERSPECTIVE
+
+Positive PR signals: a documented PR strategy; a clear narrative; relationships with journalists; consistent media coverage; the company is part of industry conversations. Red flags: no PR strategy; no narrative; no journalist relationships; no media coverage; the company is invisible. Due diligence questions: "What is your PR strategy, and what is your narrative?" "How do you build relationships with journalists?" "Show me your media coverage over the last 12 months." "How do you measure the impact of PR on your business?" "What industry conversations is your company leading or participating in?"
+
+GROWTH DIAGNOSTICS
+
+Positive Signals: Documented strategy; clear narrative; journalist relationships; consistent coverage; industry voice. Warning Signals: No strategy; no narrative; no relationships; no coverage; invisible. Critical Thresholds: No media coverage in 6+ months; no journalist relationships. Leading Indicators: journalist relationship development, pitch acceptance rate, media inquiry volume. Lagging Indicators: media mentions, share of voice, PR-attributed traffic. Root Causes of PR failure: no strategy, no narrative, no relationships, treating PR as press releases. Corrective Actions: develop a narrative; build journalist relationships; create a PR calendar; invest in thought leadership.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate PR as a brand-building and credibility-generating function. Positive Signals: Documented strategy; clear narrative; journalist relationships; consistent coverage; industry voice. Warning Signals: No strategy; no narrative; no relationships; no coverage; invisible. Scoring Signals: PR Score based on: media coverage (30%), narrative quality (25%), journalist relationships (25%), industry voice (20%). Risk Indicators: No coverage in 6+ months; no journalist relationships; no narrative. Growth Indicators: Media mentions trend; share of voice trend. Distribution Indicators: PR-attributed traffic and customers. Acquisition Indicators: CAC of PR-influenced customers. Retention Indicators: Brand awareness impact on retention.
+
+ACTIONABLE TAKEAWAYS
+
+1. Develop a clear narrative: what is the change your company represents, and why does it matter? The narrative is not about your product; it is about the transformation.
+2. Build relationships with 10-20 journalists who cover your industry. Follow their work, engage with them on social media, and understand what stories they value.
+3. Create a quarterly PR calendar that aligns with your product launches, company milestones, and industry events. Do not wait for news to happen; plan it.
+4. Pitch stories that are genuinely newsworthy: data reports, trend analyses, customer transformations, executive perspectives on industry shifts.
+5. Measure the impact of PR: track media mentions, share of voice, sentiment, and the traffic and customers driven by PR coverage.
+6. Do not use PR only for fundraising. Consistent PR over years builds brand; sporadic PR around funding events does not.
+7. Train your executives for media interviews. A poorly handled interview can damage the brand; a well-handled one can be a force multiplier.
+8. For investors: Request the PR strategy, media coverage log, and PR impact metrics. A founder who cannot produce these has not built a PR capability.
+
+END OF DOCUMENT

@@ -1,0 +1,58 @@
+TITLE: Customer Health Scores
+DOCUMENT_ID: 071
+CATEGORY: Metrics & Financial Intelligence
+SUBCATEGORY: Customer Analytics
+DIFFICULTY: Advanced
+STAGE: Efficiency / Scale
+PERSONAS: Founder, Investor, Venture Analyst, CFO
+
+CORE CONCEPT
+
+A Customer Health Score is a composite metric that predicts the likelihood of customer churn or expansion by aggregating multiple behavioral, demographic, and financial signals into a single score per customer. The formula is proprietary to each company but typically follows the structure: Health Score = w1(Product Usage) + w2(Engagement Breadth) + w3(Support Health) + w4(Financial Health) + w5(Sentiment), where each component is weighted based on its predictive power. The core concept is that churn is predictable — customers exhibit leading indicators of disengagement (declining usage, reduced login frequency, fewer support interactions, delayed payments) before they cancel. A well-constructed Health Score detects these signals early, enabling proactive intervention. The failure mode is "Health Score as Reporting": building a Health Score that is tracked but not acted upon, or that lacks predictive power because the components are not empirically validated against actual churn outcomes. For investors, a company that has built a validated, predictive Health Score has demonstrated operational maturity and customer-centricity. A company that cannot identify at-risk customers before they churn is operating reactively.
+
+FRAMEWORK & MECHANICS
+
+The Customer Health Score framework operates through a "Leading Indicator" model. The Health Score is constructed by identifying the behavioral and demographic variables that correlate most strongly with churn, using logistic regression or machine learning models on historical data. The standard components include: Product Usage Depth (frequency and breadth of core feature usage — e.g., number of workflows created, reports generated, messages sent), Product Usage Breadth (adoption of multiple features or products — single-product users have higher churn risk than multi-product users), Engagement Recency (days since last login or last meaningful action — a user who has not logged in for 14 days is at higher risk than one who logged in yesterday), Support Health (number of open support tickets, ticket severity, time to resolution — a customer with a critical unresolved ticket is at elevated risk), Financial Health (payment timeliness, credit holds, usage relative to plan limits — a customer approaching plan limits may expand; one consistently near limits without upgrading may churn), Sentiment (NPS score, CSAT scores, survey responses — a Detractor is at higher risk than a Promoter), and Firmographic Fit (company size, industry, use case alignment — a customer whose profile matches the ideal customer profile has lower risk).
+
+The operational mechanism is the "Health Score Triage": customers are segmented into Green (healthy, score above threshold), Yellow (at risk, score in middle range), and Red (critical, score below threshold). Green customers receive standard engagement (regular check-ins, product updates). Yellow customers receive proactive outreach from Customer Success to diagnose issues and increase engagement. Red customers receive escalation — a Customer Success Manager or executive reaches out to understand the problem and attempt to save the relationship. The mental model is "the Health Score is an early warning system." Like a smoke detector, it alerts the team to problems before they become fires. The decision process: if Red accounts represent more than 10% of revenue, the company has a systemic retention problem. If the Health Score is not predictive (Red accounts do not churn at higher rates than Green), the model must be recalibrated.
+
+METRIC INTERPRETATION FRAMEWORK
+
+A healthy Health Score profile: the Health Score distribution is skewed toward Green (70%+ of customers are healthy); Red accounts represent less than 10% of revenue; the Health Score is predictive — Red accounts churn at 3x+ the rate of Green accounts; the Health Score detects churn risk at least 30 days before the churn event. An unhealthy profile: the Health Score is not predictive; Red accounts do not churn at higher rates; the distribution is skewed toward Yellow or Red; the Health Score is a reporting metric, not an operational tool. Investors interpret a validated Health Score as a signal of operational maturity. A company that can predict churn and intervene proactively will have structurally lower churn than a company that reacts to churn after it occurs.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Health Score Predictive Power. The churn rate for Red accounts should be 3x+ the churn rate for Green accounts. If the ratio is below 2x, the model is not sufficiently predictive. Warning threshold: Red and Green accounts have similar churn rates — the model is not working. Benchmark 2: Health Score Distribution. Green: 70%+ of accounts. Yellow: 15-25%. Red: below 10%. Warning threshold: Red above 15% of accounts indicates a systemic health problem. Benchmark 3: Early Warning Window. The Health Score should predict churn at least 30 days before the event. A prediction window of 60-90 days is best-in-class and enables meaningful intervention. Benchmark 4: Intervention Effectiveness. The percentage of Red accounts that are moved to Yellow or Green after CS intervention. Above 50% is strong; below 25% indicates interventions are not effective. Benchmark 5: Health Score Coverage. The percentage of customer revenue covered by the Health Score. Above 90% is expected for enterprise businesses; lower for SMB where data is sparse. Benchmark 6: Health Score Refresh Frequency. The score should be recalculated at least weekly. A score that is updated only monthly may miss rapid deterioration.
+
+REAL-WORLD EXAMPLE
+
+Gainsight, the customer success platform, both uses and enables Customer Health Scores. Gainsight's own customer success team uses Health Scores to manage its customer base, demonstrating the methodology it sells. The Health Score aggregates product usage data, support ticket data, NPS data, and firmographic data to identify at-risk customers. When a customer's Health Score drops to Yellow, the CSM receives an alert and a playbook for intervention. The outcome: Gainsight has maintained strong gross retention rates (above 90%) in the competitive customer success software market, in part through its own use of Health Score-driven intervention. The lesson: the Health Score is only as valuable as the intervention it triggers. Gainsight's Health Score is integrated into a workflow that prompts specific actions, not just a dashboard that is observed.
+
+COMMON MISTAKES
+
+The first mistake is "Health Score Without Validation": building a Health Score model without back-testing it against actual churn data to confirm it is predictive. The second mistake is "Health Score as Static": building the model once and not recalibrating it as the product, customer base, and churn drivers evolve. The third mistake is "Health Score Without Action": tracking the Health Score without linking it to specific CS interventions and measuring intervention effectiveness. The fourth mistake is "Over-Complexity": including too many variables with unclear predictive power, creating a black box that the CS team does not trust or understand. The fifth mistake is "Health Score Without Segmentation": applying the same model to enterprise and SMB customers, when churn drivers differ significantly between segments.
+
+COUNTERINTUITIVE INSIGHT
+
+A customer with a high Health Score can be a higher churn risk than one with a moderate score if the high-scoring customer is approaching a renewal with heightened expectations that the product may not meet. The Health Score must incorporate event-based risks (upcoming renewal, leadership change, competitor engagement) in addition to behavioral metrics.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: A validated, predictive Health Score; Red accounts below 10% of revenue; intervention effectiveness above 50%; Health Score integrated into CS workflows; model recalibrated regularly. Red flags: No Health Score; a Health Score that is not predictive; Red accounts above 15% of revenue; Health Score tracked but not acted upon; no measurement of intervention effectiveness. Due diligence questions: "How do you identify at-risk customers before they churn?" "Show me the predictive power of your Health Score — do Red accounts actually churn at higher rates?" "What is your intervention process when an account's Health Score declines?" "How often do you recalibrate the model?"
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate Customer Health Scores as a signal of operational maturity and retention capability. Positive Signals: Validated predictive model; Red accounts below 10% of revenue; early warning window of 30+ days; intervention effectiveness above 50%; model recalibrated regularly. Warning Signals: No Health Score; non-predictive model; Red accounts above 15%; no intervention process; model never recalibrated. Scoring Signals: Health Score Maturity Score based on: predictive power (35%), operational integration (30%), intervention effectiveness (20%), model maintenance (15%). Risk Indicators: Health Score not predictive of churn; Red accounts growing as a percentage of revenue; intervention effectiveness below 20%. Growth Indicators: Green accounts growing as a percentage of revenue; Health Score distribution improving over time.
+
+ACTIONABLE TAKEAWAYS
+
+1. Build a Health Score model using historical churn data: identify the variables that correlate most strongly with churn, weight them, and validate the model against a holdout dataset.
+2. Segment your customers into Green (healthy), Yellow (at risk), and Red (critical) based on Health Score thresholds. Track the percentage of revenue in each segment monthly.
+3. Implement a triage process: Green accounts receive standard engagement; Yellow receive proactive CS outreach; Red receive escalation within 48 hours.
+4. Measure intervention effectiveness: what percentage of Red accounts are moved to Yellow or Green after CS intervention? If below 30%, redesign the intervention playbook.
+5. Recalibrate the Health Score model quarterly as the product, customer base, and churn drivers evolve. A model built 2 years ago may not reflect current patterns.
+6. Track the early warning window: how many days before churn does the Health Score decline? If the window is less than 30 days, invest in earlier-warning signals.
+7. Report the Health Score distribution and intervention effectiveness to the board quarterly.
+8. For investors: Request the Health Score methodology and the validation data. A founder who cannot demonstrate that their Health Score is predictive has not built an operational retention system.
+
+END OF DOCUMENT

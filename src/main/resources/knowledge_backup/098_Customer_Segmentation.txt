@@ -1,0 +1,62 @@
+﻿TITLE: Customer Segmentation
+DOCUMENT_ID: 098
+CATEGORY: Product & Customer Intelligence
+SUBCATEGORY: Customer Discovery
+DIFFICULTY: Intermediate
+STAGE: All Stages
+PERSONAS: Founder, Product Manager, Investor
+
+CORE CONCEPT
+
+Customer Segmentation is the practice of dividing a market into distinct groups of customers who share similar needs, behaviors, or characteristics, and who will respond similarly to a product offering. The core concept is that not all customers are the same, and a product that tries to serve everyone serves no one well. Effective segmentation enables the company to focus its product development, marketing, and sales efforts on the segments where it has the strongest PMF and the highest potential for venture-scale returns. The failure mode is "Average Customer Fallacy": designing for the "average" customer, who does not actually exist, resulting in a product that is mediocre for everyone. For investors, a startup's segmentation quality is a signal of strategic clarity. A company that can describe its target segment with behavioral and situational specificity has a clear go-to-market strategy; a company that describes its market as "everyone" or "small businesses" has not done the work.
+
+FRAMEWORK & MECHANICS
+
+The Customer Segmentation framework integrates demographic, firmographic, behavioral, and needs-based segmentation. Demographic (consumer: age, income, education, location) and Firmographic (B2B: company size, industry, revenue, employee count) are the traditional bases but are insufficient alone. Behavioral segmentation groups customers by how they use the product -- frequency, depth, features used, willingness to pay. Needs-Based segmentation, the most powerful, groups customers by the job they are trying to accomplish (Jobs To Be Done).
+
+The operational mechanism is the "Segmentation Analysis": the company analyzes its customer base to identify clusters of customers with similar behaviors and outcomes. The analysis typically reveals that a specific segment (e.g., "mid-market technology companies with 50-500 employees using the product for cross-team collaboration") has significantly higher retention, expansion, and NPS than other segments. This is the "High-PMF Segment." The mental model is "find the segment where you are a must-have, and dominate it before expanding." The decision process: the company identifies its high-PMF segment, focuses its product and go-to-market on that segment, and explicitly chooses not to serve other segments until the core segment is dominated.
+
+PRODUCT EVALUATION FRAMEWORK
+
+Healthy segmentation execution: segments are defined with behavioral and situational specificity (5+ criteria); the high-PMF segment is identified and documented; product roadmap is prioritized for the high-PMF segment; marketing and sales are targeted to the high-PMF segment; the company explicitly articulates the segments it is not serving. Unhealthy: segments are defined only by demographics or firmographics; no high-PMF segment identified; product roadmap tries to serve all segments; marketing and sales are untargeted; the company cannot articulate who it is not serving. PMF indicators: the high-PMF segment has significantly better retention, NPS, and expansion than other segments. Retention indicators: retention by segment -- the high-PMF segment should have the highest retention. Customer satisfaction indicators: NPS by segment. Product risk indicators: feature requests from low-PMF segments that are pulling the product away from the core segment.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Segment Definition Specificity. The target segment should be defined by at least 5 behavioral and situational criteria. Warning: fewer than 3 criteria. Benchmark 2: Segment Retention Variance. The retention rate of the best segment vs. the worst segment. A ratio above 3x indicates the company has a clear high-PMF segment. Benchmark 3: Segment Revenue Concentration. The percentage of revenue from the high-PMF segment. Above 60% is focused; below 30% is unfocused. Benchmark 4: Segment NPS Variance. The NPS of the best segment vs. the worst. A gap above 30 points indicates a clear high-PMF segment. Benchmark 5: Segment Expansion Rate. The expansion rate of the high-PMF segment should be above 40%. Warning: below 20%. Benchmark 6: Explicit Non-Target Segments. The company should be able to name at least 3 specific segments it is choosing not to serve.
+
+REAL-WORLD EXAMPLE
+
+Slack's initial customer segmentation was precise: technology companies with 10-500 employees that used multiple SaaS tools and valued asynchronous communication. Slack did not initially target large enterprises, non-technology industries, or companies with a single-location, in-person culture. This segmentation enabled Slack to build a product that was deeply loved by its target segment and to dominate that segment before expanding. The outcome: Slack achieved a .7B acquisition by Salesforce. The lesson: Slack's segmentation was specific and behavioral, not vague and demographic. The company knew exactly who it was building for and who it was not.
+
+COMMON MISTAKES
+
+The first mistake is "Everyone is Our Customer": refusing to segment, claiming the product is for everyone. The second mistake is "Demographic-Only Segmentation": segmenting by company size or industry without understanding the behavioral differences within those segments. The third mistake is "Segment Averaging": averaging the metrics of a high-PMF segment with a low-PMF segment and concluding the product is doing fine. The fourth mistake is "Feature Creep from Non-Target Segments": building features for customers outside the target segment, diluting the product. The fifth mistake is "No Explicit Non-Targets": being unable to articulate which segments the company is choosing not to serve.
+
+COUNTERINTUITIVE INSIGHT
+
+The most profitable segmentation decision is often the segment you choose not to serve. A company that explicitly says "we do not serve enterprise customers with more than 5,000 employees" or "we do not serve companies outside North America" makes a strategic trade-off that enables it to dominate the segment it does serve.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: a target segment defined with 5+ behavioral criteria; a high-PMF segment identified with data; product roadmap focused on the core segment; explicit non-target segments articulated. Red flags: "everyone is our customer"; segments defined only by demographics; no high-PMF segment identified; roadmap trying to serve everyone; no explicit non-targets. Due diligence questions: "Who is your target customer? Define them with behavioral specificity." "What segment has your highest retention and NPS?" "What segments are you explicitly not serving?" "How does your product roadmap reflect your segmentation?" "How do you handle feature requests from customers outside your target segment?"
+
+PRODUCT DIAGNOSTICS
+
+Positive Signals: Specific segment definition; high-PMF segment identified; roadmap focused; explicit non-targets. Warning Signals: Vague definition; no high-PMF segment; roadmap unfocused; no non-targets. Critical Thresholds: "Everyone" as target; no segment-level retention data. Leading Indicators: segment-level activation, engagement, and satisfaction. Lagging Indicators: segment-level retention, NPS, and expansion. Root Causes of poor segmentation: fear of narrowing, no segment-level analytics, product trying to be everything. Corrective Actions: analyze segment-level data; identify the high-PMF segment; focus the roadmap; articulate non-targets.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate customer segmentation as a signal of strategic clarity. Positive Signals: Specific, behavioral segment definition; high-PMF segment identified; roadmap focused; explicit non-targets. Warning Signals: Vague segment; no high-PMF segment; roadmap unfocused; no non-targets. Scoring Signals: Segmentation Maturity Score based on: definition specificity (30%), high-PMF identification (30%), roadmap focus (20%), explicit non-targets (20%). Risk Indicators: "Everyone" as target; no segment-level data. PMF Indicators: High-PMF segment retention and NPS. Retention Indicators: Retention by segment. Customer Understanding Indicators: Segment definition specificity.
+
+ACTIONABLE TAKEAWAYS
+
+1. Define your target segment with at least 5 behavioral and situational criteria. "Small businesses" is not a segment; "restaurants with 5-20 employees in urban areas that use delivery platforms" is.
+2. Analyze your customer base by segment: calculate retention, NPS, expansion, and LTV/CAC for each segment. Identify the high-PMF segment.
+3. Focus your product roadmap on the high-PMF segment for the next 12-24 months. Explicitly deprioritize features for other segments.
+4. Articulate the segments you are choosing not to serve. This is as important as articulating who you do serve.
+5. Align your marketing and sales efforts with your target segment. If your target is mid-market technology companies, your marketing should speak their language.
+6. When a customer outside your target segment requests a feature, have a process for evaluating whether it serves the target segment. If it does not, say no.
+7. Review your segmentation quarterly. As you dominate your core segment, you may choose to expand to an adjacent segment.
+8. For investors: Request the segment-level retention and NPS data and the explicit target and non-target segments. A company that cannot produce these has not done segmentation.
+
+END OF DOCUMENT

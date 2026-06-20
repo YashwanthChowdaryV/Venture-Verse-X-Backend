@@ -1,0 +1,67 @@
+﻿TITLE: Healthtech Archetypes
+DOCUMENT_ID: 260
+CATEGORY: Startup Archetypes & Pattern Intelligence
+SUBCATEGORY: Startup Classification
+DIFFICULTY: Expert
+PERSONAS: Investor, Analyst, VentureVerse Agent
+
+CORE CONCEPT
+
+Healthtech Archetypes are the distinct categories of healthcare technology companies, each with fundamentally different stakeholder dynamics, regulatory requirements, sales cycles, and evidence requirements. The core concept is that healthcare is not a single market but a collection of related markets with different buyers (providers, payers, patients, life sciences), different payment models (fee-for-service, value-based care, consumer-pay), and different regulatory regimes (FDA, HIPAA, CMS). Classifying healthtech startups correctly is essential for understanding the stakeholder dynamics that determine adoption. The failure mode is "Healthtech as Enterprise SaaS": applying the same evaluation framework to healthtech that works for enterprise software, missing the unique structural characteristics of healthcare. VentureVerse agents use healthtech archetype classification to apply the appropriate evaluation frameworks.
+
+ARCHETYPE FRAMEWORK
+
+The Healthtech Archetype framework classifies companies across three primary dimensions. Primary Customer Dimension: who pays? Provider (hospitals, health systems, physician practices), Payer (insurance companies, government programs, employers), Patient (direct-to-consumer), Life Sciences (pharma, biotech, medical device), or Multi-Stakeholder (serving multiple customer types). Value Proposition Dimension: Clinical (improving patient outcomes), Operational (improving efficiency, reducing costs), Financial (reducing costs, managing risk), or Engagement (improving patient or provider experience). Regulatory Intensity Dimension: High (FDA clearance required, clinical trials), Medium (HIPAA compliance, quality reporting), or Low (wellness, administrative tools). The combination defines the archetype.
+
+ARCHETYPE CLASSIFICATION MODEL
+
+The classification model operates through a sequential process. First, identify the primary customer who pays. Second, identify the primary value proposition. Third, determine the regulatory intensity. Primary archetypes include: Provider Clinical (Provider + Clinical + High) -- medical devices, diagnostics, AI for radiology. Provider Operational (Provider + Operational + Medium) -- scheduling, workflow, EHR optimization. Payer Financial (Payer + Financial + Medium) -- claims processing, risk adjustment, care management. Patient Engagement (Patient + Engagement + Low) -- wellness apps, telemedicine, patient portals. Life Sciences SaaS (Life Sciences + Operational/Clinical + Medium) -- clinical trial software, real-world evidence, R&D tools. Multi-Stakeholder Platform (Multi-Stakeholder + Multiple + Medium/High) -- connecting providers, payers, and patients.
+
+SUCCESS PATTERNS
+
+Provider Operational success pattern: integrate with existing EHR systems, demonstrate measurable efficiency improvements, sell to health system leadership with ROI case. Life Sciences SaaS success pattern: build deep domain expertise, align with regulatory requirements (FDA 21 CFR Part 11), achieve high switching costs through workflow integration. Payer Financial success pattern: demonstrate ROI through cost reduction or quality improvement, navigate procurement cycles, build data network effects. Patient Engagement success pattern: achieve high engagement and retention, build consumer brand, navigate toward enterprise or reimbursement revenue models. Provider Clinical success pattern: generate rigorous clinical evidence (RCTs), obtain FDA clearance where required, navigate multi-stakeholder purchasing, build relationships with key opinion leaders.
+
+FAILURE PATTERNS
+
+Stakeholder Misalignment: building a product that benefits one stakeholder but requires another to pay, without a viable business model. Regulatory Failure: failing to obtain required clearances, non-compliance with HIPAA, adverse regulatory actions. Clinical Evidence Failure: making clinical claims without adequate evidence, losing credibility with providers and payers. EHR Integration Failure: building a provider-facing product that does not integrate with existing EHR systems. Consumer-Only Failure: building a consumer health product with high CAC and low retention, no path to enterprise or reimbursement. Sales Cycle Exhaustion: underestimating the length and complexity of healthcare sales cycles, running out of runway before achieving revenue.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Sales Cycle Length. Provider: 6-18 months. Payer: 3-12 months. Patient: days to weeks. Life Sciences: 6-18 months. Warning: above 24 months for enterprise. Benchmark 2: Gross Margin. Software healthtech: 70-85%. Services healthtech: 30-50%. Warning: below 50% for software. Benchmark 3: Net Revenue Retention. Above 100% healthy; above 115% strong. Warning: below 100%. Benchmark 4: Clinical Evidence Level. RCT is strongest; observational is moderate; none is weak. Warning: clinical claims without evidence. Benchmark 5: Regulatory Clearance Status. FDA-cleared products have a barrier to entry. Warning: products requiring clearance that do not have it. Benchmark 6: Provider Adoption Rate. Above 30% of target providers is strong. Warning: below 10%. Benchmark 7: Patient Engagement Rate. DAU/MAU above 20% for health apps. Warning: below 10%.
+
+REAL-WORLD EXAMPLES
+
+Veeva (Life Sciences + Operational + Medium): the canonical life sciences SaaS. Doximity (Provider + Engagement + Medium): professional network for physicians. Teladoc (Patient + Clinical + Medium): telemedicine platform. Olive AI (Provider + Operational + Medium): AI for healthcare administration. Tempus (Provider + Clinical + High): AI for precision medicine. Each example illustrates different customer, value proposition, and regulatory combinations.
+
+COMMON MISCLASSIFICATIONS
+
+The first misclassification is "Healthtech as SaaS": applying SaaS metrics without accounting for healthcare-specific dynamics. The second is "Regulatory Underestimation": assuming a product does not require regulatory clearance when it does. The third is "Stakeholder Confusion": misidentifying the primary customer. The fourth is "Clinical vs. Operational": confusing a clinical product with an operational one. The fifth is "Consumer vs. Enterprise": misclassifying a consumer health product as having enterprise potential.
+
+COUNTERINTUITIVE INSIGHT
+
+The most successful healthtech companies often do not try to disrupt healthcare. They work within the existing system, align with existing incentives, and integrate with existing infrastructure. The startups that attempt to bypass the healthcare system fail; those that navigate it succeed.
+
+INVESTOR PERSPECTIVE
+
+Most attractive archetypes: Life Sciences SaaS (SaaS-like economics, regulatory moat), Provider Operational (large TAM, measurable ROI), Payer Financial (recurring revenue, data network effects). Moderate: Provider Clinical (large TAM but long timelines and evidence requirements). Highest risk: Consumer-Only (high CAC, low retention, difficult monetization). Due diligence implications: for Provider, assess EHR integration and sales cycle; for Clinical, assess regulatory pathway and evidence; for Consumer, assess engagement and enterprise path. Return profiles: Life Sciences SaaS generates the most predictable SaaS-like returns; Provider Clinical requires the largest outcomes to justify the timelines and capital.
+
+ARCHETYPE DIAGNOSTICS
+
+Positive Signals: Clear stakeholder alignment, regulatory clarity, evidence appropriate for claims, EHR integration where needed, metrics above benchmarks. Warning Signals: Stakeholder misalignment, regulatory ambiguity, unsubstantiated claims, no EHR integration. Scaling Indicators: for Provider, health system adoption; for Payer, covered lives; for Patient, engagement and retention. Capital Efficiency Indicators: CAC payback aligned with segment. Moat Indicators: regulatory clearance, clinical evidence, EHR integration depth, data network effects. Risk Indicators: regulatory actions, stakeholder conflicts, evidence gaps.
+
+VENTUREVERSE CLASSIFICATION SIGNALS
+
+Classification Signals: primary customer, value proposition type, regulatory intensity, clinical evidence level. Confidence Signals: regulatory clarity, stakeholder alignment clarity. Risk Signals: regulatory exposure, stakeholder misalignment, evidence gaps. Growth Signals: customer adoption, revenue growth, patient engagement. Fundability Signals: regulatory standing, evidence quality, sales cycle maturity. Recommendation Signals: archetype-specific investment structure and timeline expectations. Archetype Fit Signals: alignment between product and healthcare system dynamics.
+
+ACTIONABLE TAKEAWAYS
+
+1. Classify every healthtech startup by primary customer, value proposition, and regulatory intensity. The evaluation framework for a Life Sciences SaaS is different from a Provider Clinical startup.
+2. Map the stakeholder incentives. Who benefits? Who pays? Are the incentives aligned? If not, the business model has a structural problem.
+3. Assess the regulatory pathway early. Does the product require FDA clearance? If so, build the regulatory strategy into the timeline and budget.
+4. For Provider products, assess EHR integration. A product that does not integrate with existing EHRs will face significant adoption barriers.
+5. For Clinical products, assess the evidence plan. Clinical claims require clinical evidence. The level of evidence required depends on the claim.
+6. For Consumer products, have a path to enterprise or reimbursement. Consumer-only healthtech is a difficult business model.
+7. Hire healthcare domain expertise. The CEO or clinical leader must have deep healthcare experience. Technology talent alone is insufficient.
+8. Apply archetype-specific risk factors and timeline expectations. Healthcare sales cycles are longer, evidence requirements are higher, and regulatory barriers are significant.
+
+END OF DOCUMENT

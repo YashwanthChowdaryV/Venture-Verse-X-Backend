@@ -1,0 +1,70 @@
+﻿TITLE: Key Person Risk
+DOCUMENT_ID: 176
+CATEGORY: Risk, Failure & Resilience
+SUBCATEGORY: Organizational Risk
+DIFFICULTY: Intermediate
+STAGE: All Stages
+PERSONAS: Founder, Investor, Board Member
+
+CORE CONCEPT
+
+Key Person Risk is the vulnerability created when a startup depends on one or a few individuals whose departure, incapacitation, or disengagement would cripple the company's ability to operate. The core concept is that key person dependency is a structural weakness that concentrates existential risk in individuals rather than distributing it across systems, teams, and institutional knowledge. The failure mechanism is that the key person leaves, burns out, or becomes unable to function, and the company discovers that critical knowledge, relationships, or capabilities were not documented or transferred. For investors, key person risk is one of the most important risks to evaluate, particularly at the Seed and Series A stages where the company may depend entirely on the founders. A company where "the founder is the company" is a company that is one person away from failure.
+
+FAILURE FRAMEWORK & MECHANICS
+
+The Key Person Risk framework, derived from business continuity planning and organizational resilience, operates through three dimensions: Dependency Mapping (identifying which individuals are critical to which functions and what would happen if they were unavailable), Knowledge Transfer (documenting critical knowledge and transferring it to other individuals), and Succession Planning (identifying and developing potential successors for key roles). The framework identifies the types of key person dependency: Technical Dependency (only one person understands the codebase, architecture, or infrastructure), Relationship Dependency (only one person owns the key customer, partner, or investor relationships), Vision Dependency (only one person holds the company's vision and strategy), and Operational Dependency (only one person knows how to perform critical operational tasks).
+
+The operational mechanism is the "Key Person Dependency Audit": the company identifies every function and the individuals critical to it, assesses the severity of the dependency, and develops mitigation plans. The mental model is "key person risk is a bus factor problem." How many people would have to be hit by a bus before the company could not function? A bus factor of 1 is critical; a bus factor of 3+ is resilient. The decision process: the board and leadership team assess key person dependencies, prioritize the most critical, and implement mitigation.
+
+RISK EVALUATION FRAMEWORK
+
+The probability of a key person departure is elevated in startups due to burnout, founder conflict, competitive poaching, and the intense pressure of startup life. The severity of key person risk is highest when the key person is a founder with unique technical knowledge, customer relationships, or strategic vision. The detectability is high: key person dependencies are visible if the board and leadership team look for them. The mitigation is knowledge transfer, documentation, and succession planning. Recovery potential from a key person loss depends on whether the knowledge and relationships have been transferred before the departure.
+
+EARLY WARNING INDICATORS
+
+Leading indicators: the key person is the only one who can answer certain questions, the key person is involved in every decision, the company cannot function when the key person takes vacation, the key person resists documenting or delegating their work, and the key person shows signs of burnout or disengagement. Lagging indicators: the key person leaves, the company experiences disruption, key customers or partners express concern. Hidden signals: the key person says "I'll document that later," the key person is the only person in meetings with key customers or partners, and the organization has a culture of deference to the key person. Founder signals: the founder saying "the company would not exist without me," the founder refusing to take vacation because "things would fall apart," and the founder being unable to name a potential successor.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Bus Factor. The number of people whose simultaneous departure would cripple a critical function. Above 3 is resilient. Warning: 2. Critical: 1. Benchmark 2: Key Person Vacation Test. The company should be able to function for at least 2 weeks without any single person. Warning: the company cannot function for 1 week without a key person. Critical: the company cannot function for 1 day. Benchmark 3: Knowledge Documentation Coverage. Above 80% of critical knowledge should be documented. Warning: below 50%. Critical: below 20%. Benchmark 4: Succession Readiness. Every key role should have an identified potential successor. Warning: key roles without successors. Critical: CEO without a successor. Benchmark 5: Key Person Equity Vesting. Key persons should have equity that vests over 4 years with a 1-year cliff. Warning: key persons with fully vested equity and no retention incentives. Benchmark 6: Key Person Relationship Breadth. The number of people who own key customer, partner, or investor relationships. Warning: any relationship owned by a single person. Critical: the majority of key relationships owned by a single person.
+
+REAL-WORLD EXAMPLE
+
+The key person risk at Apple when Steve Jobs was CEO is the canonical example. Jobs was a visionary leader, but his health problems created significant key person risk for the company. Apple's stock price was sensitive to news about Jobs's health, and the company was criticized for insufficient disclosure and succession planning. The outcome: Apple eventually disclosed Jobs's health issues and Tim Cook was identified as the successor. When Jobs stepped down in 2011 and passed away shortly after, the transition to Cook was relatively smooth because succession planning had been done. The investor lesson: Apple's key person risk was real and material, and the company's initial failure to address it created uncertainty. The eventual succession planning mitigated the risk.
+
+COMMON MISTAKES
+
+The first mistake is "Founder as the Company": the founder being so central that the company cannot function without them. The second mistake is "No Documentation": critical knowledge residing only in people's heads. The third mistake is "No Vacation Test": never testing whether the company can function without key people. The fourth mistake is "Deference Culture": the organization deferring to key people rather than building distributed capability. The fifth mistake is "No Succession Planning": failing to identify and develop successors for key roles.
+
+COUNTERINTUITIVE INSIGHT
+
+The best way to reduce key person risk is for the key person to make themselves unnecessary. A founder who builds systems, documents knowledge, and develops successors has not diminished their value; they have multiplied it by enabling the organization to function without them. The most valuable founder is the one the company no longer depends on for daily operations.
+
+INVESTOR PERSPECTIVE
+
+Positive key person signals: bus factor above 3; company can function without any single person; knowledge documented; successors identified; key person takes vacation. Red flags: bus factor of 1; company cannot function without the founder; knowledge not documented; no successors; key person never takes vacation. Due diligence questions: "What happens to the company if the CEO is unavailable for a month?" "Who knows the codebase besides the CTO?" "What critical knowledge is documented, and what is only in people's heads?" "Who could step into each key role if needed?" "When was the last time each key person took a disconnected vacation?"
+
+FAILURE DIAGNOSTICS
+
+Positive Signals: Bus factor above 3; vacation test passed; knowledge documented; successors identified; key person takes vacation. Warning Signals: Bus factor of 2; vacation test borderline; knowledge partially documented; some successors; key person rarely takes vacation. Critical Signals: Bus factor of 1; company cannot function without founder; knowledge not documented; no successors; key person never takes vacation. Root Causes: founder centrality, no documentation culture, no delegation, no succession planning. Failure Probability: high if a key person with a bus factor of 1 leaves unexpectedly. Failure Severity: can be existential at early stages. Failure Velocity: immediate upon key person departure if unmitigated.
+
+RESILIENCE & RECOVERY FRAMEWORK
+
+Recovery from a key person loss requires: immediate assessment of the gaps left by the departure, rapid knowledge transfer from the departing person if possible, bringing in external expertise if necessary, and honest communication with the team, customers, and investors. Turnaround indicators: the company stabilizes within 1-3 months, critical functions continue without disruption. Resilience signals: a company that has survived a key person departure and built systems to prevent recurrence. Survival depends on: whether the key person's knowledge and relationships have been transferred and whether the company has the resources to manage the transition.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate key person risk through dependency mapping and resilience testing. Positive Signals: Bus factor above 3; vacation test passed; knowledge documented; successors identified. Warning Signals: Bus factor of 2; vacation test borderline; knowledge partially documented. Risk Indicators: Bus factor of 1 for critical functions; knowledge not documented; no successors. Failure Indicators: Key person departure with bus factor of 1; company disruption after departure. Recovery Indicators: Company stabilizes after departure; knowledge gaps filled. Governance Indicators: Board oversight of key person risk; succession planning. Leadership Indicators: Founder willingness to delegate and document. Resilience Indicators: Previous key person loss survived and learned from. Survival Indicators: Knowledge transfer completeness; succession readiness.
+
+ACTIONABLE TAKEAWAYS
+
+1. Conduct a key person dependency audit: identify every function and the individuals critical to it. Calculate your bus factor for each function.
+2. Test your vacation readiness: have each key person take a 2-week disconnected vacation. Identify what breaks and fix it.
+3. Document critical knowledge: every process, relationship, and piece of institutional knowledge that currently exists only in someone's head.
+4. Develop successors for every key role. The successor does not need to be ready today, but they must be identified and being developed.
+5. Distribute key relationships: no customer, partner, or investor relationship should be owned by a single person.
+6. Ensure key persons have equity vesting that incentivizes retention. Fully vested key persons with no retention incentives are a flight risk.
+7. Model the impact of a key person departure. What would happen to revenue, product development, and operations? Build mitigation plans.
+8. For investors: Request the key person dependency assessment and the succession plan. A founder who cannot articulate what happens if they leave has not managed key person risk.
+
+END OF DOCUMENT

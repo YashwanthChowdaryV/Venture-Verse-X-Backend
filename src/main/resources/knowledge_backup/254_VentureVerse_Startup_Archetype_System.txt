@@ -1,0 +1,67 @@
+﻿TITLE: VentureVerse Startup Archetype System
+DOCUMENT_ID: 254
+CATEGORY: VentureVerse Proprietary Intelligence
+SUBCATEGORY: Classification Framework
+DIFFICULTY: Expert
+PERSONAS: Investor Agent, Strategy Agent, Due Diligence Agent
+
+CORE CONCEPT
+
+The VentureVerse Startup Archetype System (SAS) is the classification framework that maps every startup to a specific archetype based on its business model, go-to-market motion, market structure, and growth characteristics. The core concept is that startups of different archetypes should be evaluated against different benchmarks, have different risk profiles, and require different investment approaches. A SaaS startup with product-led growth should not be evaluated against the same benchmarks as a SaaS startup with enterprise sales, even though both are SaaS. The SAS enables VentureVerse agents to apply archetype-specific scoring models, benchmarks, and recommendations. The failure mode for startup evaluation is "One-Size-Fits-All": applying the same framework to all startups regardless of their fundamental differences. VentureVerse agents use the SAS to calibrate evaluation to the specific characteristics of each startup.
+
+VENTUREVERSE FRAMEWORK
+
+The Startup Archetype System classifies startups across three primary dimensions. Business Model Archetype: what is the fundamental economic model? Types include: SaaS (subscription software), Marketplace (two-sided platform), Transactional (per-transaction revenue), Advertising (attention monetization), Hardware (physical product), Services (human-delivered), and Hybrid (combination). Go-to-Market Archetype: how does the company acquire customers? Types include: Product-Led Growth (self-serve, freemium, viral), Sales-Led (enterprise, mid-market, SMB sales), Marketing-Led (content, paid acquisition, brand), Partner-Led (channel, reseller, ecosystem), and Community-Led (user community, open source). Market Structure Archetype: what is the competitive landscape? Types include: Winner-Take-All (network effects, single dominant player), Oligopoly (few players), Fragmented (many players, no dominant), and Niche (small, specialized market). The combination of these three dimensions defines the startup's archetype. For example: "SaaS + Product-Led Growth + Fragmented" is a different archetype from "SaaS + Enterprise Sales + Oligopoly."
+
+SCORING METHODOLOGY
+
+Each archetype has an associated Archetype Profile that specifies: the relevant benchmarks (e.g., PLG SaaS has different CAC benchmarks than Enterprise SaaS), the relevant risk factors (e.g., Marketplace has chicken-and-egg risk; SaaS has churn risk), the expected metric ranges (e.g., NRR expectations vary by archetype), and the typical investment profile (e.g., PLG SaaS typically has lower initial capital requirements than Enterprise SaaS). The SAS scores a startup's fit to its archetype: how well does the startup's execution align with the archetype's requirements? A PLG SaaS with high organic acquisition and strong self-serve conversion scores high on archetype fit. A PLG SaaS with heavy sales dependency scores low. The Archetype Fit Score is calculated as the weighted average of alignment scores across the archetype's key characteristics. The Archetype Fit Score ranges from 0-100, with scores above 80 indicating strong alignment.
+
+WEIGHTING MODEL
+
+The SAS applies archetype-specific weights to all VentureVerse scoring models. For PLG SaaS, the Customer Validation Score carries higher weight (emphasizing organic acquisition and self-serve conversion). For Enterprise SaaS, the Founder Evaluation Matrix carries higher weight (emphasizing leadership range and sales capability). For Marketplaces, the Market Opportunity Score carries higher weight (emphasizing liquidity potential and network effects). The SAS also adjusts the VIS weights: each archetype has a specific VIS weight profile that reflects the archetype's success factors. The weighting model is calibrated through analysis of which factors most predict success within each archetype.
+
+INPUT SIGNALS
+
+The SAS classification is determined from: business model data (revenue model, pricing structure, margin profile), go-to-market data (acquisition channels, sales motion, organic vs. paid mix), and market structure data (competitor count, market share distribution, network effects). The Archetype Fit Score uses additional signals: for PLG, activation rate, organic percentage, viral coefficient; for Enterprise, win rate, ACV, sales cycle length; for Marketplace, liquidity rate, take rate, GMV growth.
+
+DECISION LOGIC
+
+The SAS classifies each startup into a primary archetype and, if applicable, a secondary archetype. The primary archetype determines the evaluation framework. The Archetype Fit Score determines how well the startup is executing within its archetype. SAS classification above 90% confidence is applied automatically; lower confidence triggers human review. Archetype Fit below 50 triggers a strategy review: is the startup executing the wrong GTM for its business model? Archetype Fit below 30 triggers a recommendation to reconsider the GTM strategy.
+
+REAL-WORLD APPLICATION
+
+Consider a startup with SaaS business model, product-led growth GTM, and a fragmented market. The SAS classifies it as "SaaS + PLG + Fragmented." The archetype profile specifies: benchmark NRR above 110%, organic acquisition above 40%, CAC payback under 6 months. The startup's actual metrics: NRR 108%, organic acquisition 35%, CAC payback 8 months. The Archetype Fit Score is 72, indicating adequate alignment with room for improvement. The recommendation is to improve organic acquisition and CAC payback to align with PLG benchmarks.
+
+COMMON SCORING ERRORS
+
+The first error is "Archetype Misclassification": classifying a startup into the wrong archetype. The second is "Archetype Rigidity": forcing a startup into a single archetype when it has hybrid characteristics. The third is "Benchmark Mismatch": applying benchmarks from one archetype to another. The fourth is "Archetype Drift": failing to detect when a startup is shifting archetypes. The fifth is "False Precision": over-relying on archetype classification when the startup defies easy categorization.
+
+COUNTERINTUITIVE INSIGHT
+
+The most common archetype failure is not having the wrong archetype but executing it poorly. A PLG SaaS with heavy sales dependency is not a PLG company; it is a sales company with a PLG aspiration. The SAS identifies this misalignment and recommends either changing the GTM to match the aspiration or accepting the reality and optimizing for sales-led growth.
+
+INVESTMENT INTERPRETATION
+
+The SAS is a classification and calibration tool. It ensures that startups are evaluated against appropriate benchmarks and that investment recommendations reflect archetype-specific dynamics. The SAS should be interpreted alongside the VIS. A high VIS with a low Archetype Fit Score may indicate a startup that is performing well by general metrics but is misaligned with its archetype's success factors, creating long-term risk.
+
+SYSTEM DIAGNOSTICS
+
+Positive Signals: Clear archetype classification, high Archetype Fit Score, metrics aligned with archetype benchmarks. Warning Signals: Ambiguous classification, low Archetype Fit, metrics misaligned with archetype. Confidence Indicators: classification confidence, data completeness for classification. Data Quality Indicators: metric availability for archetype assessment. Model Risk Indicators: archetype boundary cases, hybrid startups. Recommendation Reliability Indicators: historical correlation between Archetype Fit and outcomes within archetype.
+
+VENTUREVERSE AGENT REASONING
+
+The Strategy Agent performs the SAS classification and computes the Archetype Fit Score. It maintains the Archetype Profiles and their associated benchmarks, weights, and risk factors. The Investor Agent uses the SAS to calibrate the VIS weights and benchmarks. The Due Diligence Agent uses the SAS to prioritize diligence areas relevant to the archetype. When the SAS classification is uncertain, the Strategy Agent escalates for human review. The Strategy Agent provides a narrative explanation of the SAS classification, the Archetype Fit Score, and the implications for evaluation and investment.
+
+ACTIONABLE IMPLEMENTATION
+
+1. Implement the SAS as a classification pipeline: business model, GTM, and market structure to primary and secondary archetypes.
+2. Define Archetype Profiles for all common archetype combinations with specific benchmarks, weights, and risk factors.
+3. Build the Archetype Fit Score calculation based on alignment with archetype characteristics.
+4. Implement archetype-specific VIS weight profiles.
+5. Build the archetype drift detection: monitor for shifts in business model, GTM, or market structure.
+6. Implement the Strategy Agent reasoning layer with archetype classification and fit assessment.
+7. Integrate the SAS into all VentureVerse scoring models for archetype-specific calibration.
+8. Deploy back-testing to validate archetype classification and fit against outcomes within each archetype.
+
+END OF DOCUMENT

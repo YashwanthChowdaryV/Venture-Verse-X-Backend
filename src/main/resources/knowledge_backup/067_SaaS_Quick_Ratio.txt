@@ -1,0 +1,62 @@
+TITLE: SaaS Quick Ratio
+DOCUMENT_ID: 067
+CATEGORY: Metrics & Financial Intelligence
+SUBCATEGORY: Growth Efficiency
+DIFFICULTY: Intermediate
+STAGE: Validation / Efficiency
+PERSONAS: Founder, Investor, Venture Analyst, CFO
+
+CORE CONCEPT
+
+The SaaS Quick Ratio is a measure of a company's revenue growth efficiency that compares the revenue added (from new customers and expansion) to the revenue lost (from churn and contraction). The formula: SaaS Quick Ratio = (New MRR + Expansion MRR) / (Churned MRR + Contraction MRR). A Quick Ratio of 4:1 means the company adds $4 in new and expansion revenue for every $1 lost to churn and contraction. The core concept is that the Quick Ratio measures the "leverage" of the growth engine. A high Quick Ratio means the company's revenue base is growing efficiently — the additions overwhelm the losses. A low Quick Ratio means the company is losing nearly as much as it gains, requiring ever-increasing new customer acquisition just to maintain revenue. The failure mode is "Quick Ratio Without Action": tracking the metric without diagnosing the components when the ratio declines. A declining Quick Ratio can be driven by declining New MRR, declining Expansion MRR, increasing Churned MRR, or increasing Contraction MRR — each requires a different intervention. For investors, the Quick Ratio is a concise measure of revenue growth quality. A Quick Ratio above 4:1 is characteristic of a healthy, capital-efficient growth engine.
+
+FRAMEWORK & MECHANICS
+
+The SaaS Quick Ratio framework was developed by Social+Capital Partnership (now Social Capital) as a measure of revenue growth quality. The framework operates with a simple formula: Quick Ratio = (New MRR + Expansion MRR) / (Churned MRR + Contraction MRR). The components are drawn from the MRR waterfall. A Quick Ratio of 1:1 means the company is treading water — new and expansion revenue exactly offset churned and contracted revenue. A Quick Ratio below 1:1 means the company's revenue base is shrinking. A Quick Ratio of 4:1+ is the benchmark for a healthy growth engine.
+
+The operational mechanism is the "Quick Ratio Decomposition": when the Quick Ratio declines, the company decomposes the numerator (New MRR + Expansion MRR) and the denominator (Churned MRR + Contraction MRR) to identify the specific driver. Is New MRR declining? Is Churned MRR increasing? The decomposition reveals the corrective action. The mental model is "the Quick Ratio is the gear ratio of the revenue engine." A high gear ratio means the engine is efficient — each rotation of the acquisition and expansion gears produces more forward motion than the friction from churn and contraction. The decision process: if the Quick Ratio is above 4:1, the company has an efficient growth engine and can consider increasing investment. If the Quick Ratio is between 2:1 and 4:1, the engine is functional but could be improved. If the Quick Ratio is below 2:1, the engine is inefficient and requires diagnosis and correction.
+
+METRIC INTERPRETATION FRAMEWORK
+
+A healthy Quick Ratio: above 4:1 is excellent; 3-4:1 is strong; 2-3:1 is acceptable; below 2:1 is concerning; below 1:1 is critical (the revenue base is shrinking). The Quick Ratio should be stable or improving. A declining Quick Ratio indicates the growth engine is becoming less efficient. Investors interpret the Quick Ratio as a quick diagnostic of revenue growth quality. A company with a Quick Ratio of 5:1 is adding revenue 5x faster than it is losing it — the revenue base is compounding efficiently. A company with a Quick Ratio of 1.5:1 is losing nearly as much as it is gaining — the revenue base is growing but with significant friction. Founders should react to a declining Quick Ratio by identifying which component is driving the decline and taking corrective action.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Quick Ratio Absolute Level. Above 4:1: excellent. 3-4:1: strong. 2-3:1: acceptable. Below 2:1: concerning. Below 1:1: revenue base shrinking. Warning threshold: below 2:1 for 3+ consecutive months. Benchmark 2: Quick Ratio Trend. The Quick Ratio should be stable or improving. A declining Quick Ratio for 3+ months requires diagnosis. Benchmark 3: Quick Ratio by Stage. At the Validation stage, a Quick Ratio of 2:1+ is acceptable. At the Efficiency stage, 3:1+ is expected. At Scale, 4:1+ is characteristic of a best-in-class growth engine. Benchmark 4: Quick Ratio and NRR. A Quick Ratio above 3:1 is correlated with NRR above 100%. The Quick Ratio measures total growth efficiency; NRR measures existing customer revenue retention. Benchmark 5: Quick Ratio and Growth Rate. A high Quick Ratio with a low growth rate indicates the company is not investing enough in new customer acquisition. The Quick Ratio must be interpreted alongside the growth rate.
+
+REAL-WORLD EXAMPLE
+
+Zoom's Quick Ratio during its 2017-2019 pre-IPO period was exceptionally high, likely above 5:1, driven by very strong New MRR (rapid customer acquisition as video conferencing adoption accelerated) and strong Expansion MRR (existing customers expanding their deployments), with very low churn (the product was mission-critical and had high switching costs). The outcome: Zoom's efficient growth engine enabled it to achieve profitability while growing 100%+ annually, a combination that drove exceptional public market demand. The lesson: Zoom's high Quick Ratio was a signal that the company's growth was capital-efficient — each dollar of growth was not being offset by losses, allowing the company to compound revenue without the "leaky bucket" that plagues many high-growth SaaS companies.
+
+COMMON MISTAKES
+
+The first mistake is "Quick Ratio Without Component Analysis": tracking the Quick Ratio without decomposing the numerator and denominator when it declines, missing the specific driver. The second mistake is "Quick Ratio as a Standalone Metric": evaluating the Quick Ratio in isolation without considering the absolute growth rate or the stage of the company. The third mistake is "Quick Ratio Gaming": manipulating the metric by deferring churn recognition or accelerating expansion recognition in a given period. The fourth mistake is "Quick Ratio Without Cohort Context": a Quick Ratio that is strong but driven by a single large expansion or a single month of exceptional New MRR, masking an underlying trend of declining efficiency. The fifth mistake is "Quick Ratio Confusion with the Accounting Quick Ratio": the SaaS Quick Ratio is distinct from the accounting Quick Ratio (current assets / current liabilities).
+
+COUNTERINTUITIVE INSIGHT
+
+A Quick Ratio that is too high (above 8:1) may indicate the company is underinvesting in growth. A company adding $8 in new and expansion revenue for every $1 lost is extremely efficient, but if the absolute growth rate is modest, the company may be harvesting its existing customer base rather than aggressively acquiring new customers. The optimal Quick Ratio balances growth efficiency with growth velocity.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: Quick Ratio above 4:1; Quick Ratio stable or improving; Quick Ratio trend aligned with growth rate; Quick Ratio components understood and managed. Red flags: Quick Ratio below 2:1; Quick Ratio declining for 3+ months; Quick Ratio driven by a single large deal or a single exceptional month; Quick Ratio components not understood. Due diligence questions: "What is your Quick Ratio, and how has it trended over the last 12 months?" "What drives the numerator and denominator of your Quick Ratio?" "If your Quick Ratio declined to 1.5:1, what would you change?" "How does your Quick Ratio inform your growth investment decisions?"
+
+FINANCIAL DIAGNOSTICS
+
+Positive Signals: Quick Ratio above 4:1; stable or improving; component-level understanding; integration with growth decisions. Warning Signals: Quick Ratio below 2:1; declining; driven by a single large deal; components not understood. Critical Thresholds: Quick Ratio below 1:1 (revenue base shrinking); Quick Ratio declining 1.0+ over 3 months. Leading Indicators: New MRR pipeline, expansion pipeline, churn indicators — these precede Quick Ratio changes. Lagging Indicators: the Quick Ratio itself, which reflects the combined effect of acquisition, expansion, and churn. Root Causes of Quick Ratio decline: New MRR declining (acquisition problem), Expansion MRR declining (expansion problem), Churned MRR increasing (retention problem), Contraction MRR increasing (pricing or value problem). Corrective Actions: address the specific component that is driving the decline.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate the Quick Ratio as a concise measure of revenue growth efficiency. Positive Signals: Quick Ratio above 4:1; stable or improving; component-level understanding; integrated with decisions. Warning Signals: Quick Ratio below 2:1; declining; no component analysis; driven by a single deal. Scoring Signals: Quick Ratio Health Score based on: absolute level (35%), trend (25%), component understanding (20%), integration with decisions (20%). Risk Indicators: Quick Ratio below 1:1; declining 1.0+ over 3 months; denominator growing faster than numerator. Growth Indicators: numerator growing while denominator is stable. Efficiency Indicators: Quick Ratio improving through numerator growth (preferable) rather than denominator reduction alone.
+
+ACTIONABLE TAKEAWAYS
+
+1. Calculate your SaaS Quick Ratio monthly: (New MRR + Expansion MRR) / (Churned MRR + Contraction MRR). Track the trend.
+2. When the Quick Ratio declines, decompose the numerator and denominator to identify the specific component driving the decline. Each component requires a different intervention.
+3. If your Quick Ratio is below 2:1, prioritize fixing the growth engine over increasing spend. A low Quick Ratio means additional spend will be inefficient.
+4. Benchmark your Quick Ratio against stage-appropriate expectations. A Quick Ratio of 2:1 is acceptable at Validation but concerning at Scale.
+5. Report the Quick Ratio to your board monthly alongside the component breakdown. The Quick Ratio is a leading indicator of revenue growth sustainability.
+6. Use the Quick Ratio as a gate for growth investment: if the Quick Ratio is above 4:1, increasing growth investment is justified; if below 2:1, diagnose and fix before increasing spend.
+7. Model the relationship between your Quick Ratio and your growth rate. A high Quick Ratio with a low growth rate indicates underinvestment in acquisition.
+8. For investors: Request the Quick Ratio trend and the component breakdown. A declining Quick Ratio, even if still above 4:1, is an early warning signal.
+
+END OF DOCUMENT

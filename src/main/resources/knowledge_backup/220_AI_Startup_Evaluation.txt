@@ -1,0 +1,242 @@
+﻿TITLE: AI Startup Evaluation
+
+DOCUMENT_ID: 220
+
+CATEGORY: AI Startup Intelligence
+
+SUBCATEGORY: Startup Evaluation
+
+DIFFICULTY: Advanced
+
+STAGE: Seed to Growth
+
+PERSONAS: Founder, Investor, AI Operator
+
+CORE CONCEPT
+
+AI Startup Evaluation is the systematic process of determining whether an AI company can become a durable, venture-scale business. The primary evaluation signal is not technological sophistication but whether the company can create sustainable value capture despite rapid model commoditization. Most AI startups can access similar models, APIs, and infrastructure. As a result, investors increasingly evaluate distribution, workflow ownership, proprietary data, economics, and defensibility rather than model quality alone. Successful AI companies build assets that strengthen as adoption increases. Failed companies depend on temporary technical advantages that disappear as the ecosystem evolves. The VentureVerse AI Startup Evaluation Framework helps founders, investors, and operators distinguish category leaders from AI wrappers and identify businesses capable of generating long-term competitive advantages.
+
+AI STARTUP FRAMEWORK & MECHANICS
+
+The VentureVerse AI Startup Evaluation Framework contains eight dimensions.
+
+Market Attractiveness:
+Size, growth, urgency.
+
+Product Value:
+Customer outcomes.
+
+Workflow Ownership:
+Operational importance.
+
+Data Advantage:
+Proprietary information assets.
+
+Distribution:
+Customer acquisition capability.
+
+Economics:
+Margin quality and efficiency.
+
+Defensibility:
+Competitive durability.
+
+Execution:
+Team effectiveness.
+
+A useful mental model is the AI Value Capture Equation.
+
+AI Value = Workflow Ownership + Data Advantage + Distribution Strength + Economic Efficiency
+
+The strongest AI startups score highly across multiple dimensions rather than relying on a single strength.
+
+Strategically, evaluation should focus on whether the company becomes more valuable as models improve globally.
+
+AI EVALUATION FRAMEWORK
+
+Evaluation should assess seven core questions.
+
+Is the market large enough?
+
+Does the product solve a meaningful problem?
+
+Can competitors replicate the solution?
+
+Does usage strengthen the business?
+
+Are margins sustainable?
+
+Can customer acquisition scale?
+
+Will the company remain valuable if model access becomes universal?
+
+Strong AI startups demonstrate positive answers across most dimensions. Weak startups depend on hype, temporary model advantages, or unsustainable economics.
+
+KEY METRICS & BENCHMARKS
+
+Gross Margin:
+Healthy: Above 70%
+
+Contribution Margin:
+Healthy: Above 60%
+
+Net Revenue Retention:
+Healthy: Above 110%
+
+Customer Retention:
+Healthy: Above 90%
+
+CAC Payback:
+Healthy: Below 18 Months
+
+Inference Cost as Revenue:
+Healthy: Below 15%
+
+Revenue Growth:
+Healthy: Above 50%
+
+These metrics provide a quantitative foundation for AI startup evaluation.
+
+ECONOMIC & MOAT ANALYSIS
+
+Data moats remain among the strongest sources of defensibility.
+
+Workflow moats create customer dependency.
+
+Distribution moats reduce acquisition costs.
+
+Ecosystem moats strengthen network effects.
+
+Trust moats improve enterprise adoption.
+
+Model commoditization reduces the value of pure technical differentiation.
+
+Margin durability depends on maintaining customer value while reducing infrastructure costs.
+
+The strongest AI startups own assets that remain valuable regardless of which foundation model leads the market.
+
+REAL-WORLD EXAMPLE
+
+Glean provides a strong example of an AI startup with durable characteristics.
+
+The company focused on enterprise knowledge retrieval and workflow integration rather than model ownership.
+
+Its value comes from organizational knowledge access, permissions systems, and enterprise integrations.
+
+As foundation models improve, Glean benefits automatically.
+
+The business becomes stronger because its competitive advantage resides in workflow ownership and proprietary enterprise context.
+
+The investor lesson is that sustainable value often comes from surrounding systems rather than core models.
+
+COMMON MISTAKES
+
+Many founders focus exclusively on model quality.
+
+Others underestimate distribution.
+
+Some ignore contribution margins.
+
+Many fail to build proprietary data assets.
+
+Investors identify these weaknesses through weak retention, low switching costs, and limited differentiation.
+
+COUNTERINTUITIVE INSIGHT
+
+The most important question in AI startup evaluation is often not "How good is the model?" but "What remains valuable if every competitor gets access to the same model tomorrow?"
+
+INVESTOR PERSPECTIVE
+
+Positive signals include strong retention, workflow ownership, proprietary data, efficient growth, and margin durability.
+
+Red flags include thin-wrapper positioning, model dependence, weak economics, and low switching costs.
+
+Key diligence questions include:
+
+What moat strengthens with scale?
+
+What cannot competitors replicate?
+
+How does value capture survive commoditization?
+
+Required evidence includes retention data, contribution margins, workflow adoption metrics, and customer references.
+
+AI STARTUP DIAGNOSTICS
+
+Positive Signals:
+Strong retention
+Data accumulation
+Workflow ownership
+
+Warning Signals:
+Model dependence
+Weak differentiation
+
+Leading Indicators:
+Usage growth
+Expansion revenue
+
+Lagging Indicators:
+Revenue growth
+Market share
+
+Model Risk:
+Provider concentration
+
+Economic Risk:
+Margin compression
+
+Competitive Risk:
+Commoditization
+
+Platform Risk:
+API dependence
+
+VENTUREVERSE EVALUATION SIGNALS
+
+Positive Signals:
+Multiple moats
+Strong economics
+
+Warning Signals:
+Thin wrappers
+Weak retention
+
+Scoring Signals:
+Market Score
+Moat Score
+Economics Score
+Execution Score
+
+AI Differentiation Indicators:
+Workflow superiority
+
+Distribution Indicators:
+Customer acquisition strength
+
+Data Advantage Indicators:
+Exclusive datasets
+
+Margin Indicators:
+Contribution margin
+
+Risk Indicators:
+Provider exposure
+
+Category Leadership Indicators:
+Market share
+Retention
+Expansion
+
+ACTIONABLE TAKEAWAYS
+
+1. Evaluate workflows before technology.
+2. Measure contribution margin monthly.
+3. Assess data moat strength quarterly.
+4. Track retention continuously.
+5. Reduce model-provider dependence.
+6. Benchmark distribution efficiency.
+7. Monitor moat durability.
+8. Focus on value capture, not model access.
+
+END OF DOCUMENT

@@ -1,0 +1,67 @@
+﻿TITLE: SaaS Startup Archetypes
+DOCUMENT_ID: 257
+CATEGORY: Startup Archetypes & Pattern Intelligence
+SUBCATEGORY: Startup Classification
+DIFFICULTY: Expert
+PERSONAS: Investor, Analyst, VentureVerse Agent
+
+CORE CONCEPT
+
+SaaS Startup Archetypes are the distinct categories of software-as-a-service companies, each with fundamentally different go-to-market motions, unit economics, growth patterns, and capital requirements. The core concept is that "SaaS" is not a single business model but a family of related models that differ in customer segment (SMB, mid-market, enterprise), go-to-market (product-led, sales-led, marketing-led), product scope (horizontal, vertical, infrastructure), and pricing (subscription, usage-based, hybrid). Classifying SaaS startups correctly is essential for applying appropriate benchmarks and identifying relevant risks. The failure mode is "SaaS as Uniform": evaluating all SaaS companies against the same benchmarks, missing the structural differences that determine outcomes. VentureVerse agents use SaaS archetype classification to calibrate evaluation frameworks to the specific characteristics of each SaaS archetype.
+
+ARCHETYPE FRAMEWORK
+
+The SaaS Startup Archetype framework classifies companies across three primary dimensions. Customer Segment Dimension: SMB (small and medium businesses, typically under 500 employees), Mid-Market (500-2000 employees), Enterprise (2000+ employees), or Mixed (serving multiple segments). Each segment has different CAC, churn, ACV, and sales cycle characteristics. Go-to-Market Dimension: Product-Led Growth (self-serve, freemium, viral acquisition), Sales-Led (outbound, inbound, channel), Marketing-Led (content, paid acquisition, community), or Hybrid (combination). Product Scope Dimension: Horizontal SaaS (serves a function across industries -- CRM, HR, collaboration), Vertical SaaS (serves a specific industry -- healthcare, legal, construction), Infrastructure SaaS (serves developers or IT -- databases, APIs, monitoring), or Platform SaaS (enables third-party development -- Salesforce, Shopify, ServiceNow). The combination of these three dimensions defines the SaaS archetype. For example, "Enterprise + Sales-Led + Horizontal" is a fundamentally different archetype from "SMB + PLG + Vertical."
+
+ARCHETYPE CLASSIFICATION MODEL
+
+The classification model operates through a sequential process. First, determine the dominant customer segment by revenue contribution and ACV. SMB: ACV below five thousand dollars, high volume, self-serve. Mid-Market: ACV five to fifty thousand dollars, moderate volume, mixed GTM. Enterprise: ACV above fifty thousand dollars, low volume, high-touch sales. Second, determine the dominant GTM by acquisition channel contribution. PLG: above 50% of customers from self-serve or organic channels. Sales-Led: above 50% from sales team. Marketing-Led: above 50% from paid acquisition or content. Hybrid: no channel above 50%. Third, determine the product scope by market definition and customer type. Horizontal: customers across many industries. Vertical: customers in a single industry. Infrastructure: customers are developers or IT. Platform: third-party developers build on the product. Edge cases: companies transitioning between segments (SMB to mid-market), companies with hybrid GTM, companies expanding from vertical to horizontal. The classification is updated as the company evolves.
+
+SUCCESS PATTERNS
+
+Enterprise + Sales-Led + Horizontal success pattern: land-and-expand with platform strategy, high ACV, high NRR (above 120%), long sales cycles compensated by high LTV. Examples: Salesforce, ServiceNow, Workday. SMB + PLG + Horizontal success pattern: viral or organic acquisition, low CAC, high volume, freemium conversion, expansion through usage-based pricing. Examples: Slack, Zoom, Dropbox. Mid-Market + Hybrid + Vertical success pattern: industry-specific product, domain expertise moat, embedded fintech, high switching costs. Examples: Procore, Toast, Squire. Infrastructure + PLG + Horizontal success pattern: developer-first, open source or freemium, consumption-based pricing, data network effects. Examples: Datadog, MongoDB, Stripe. Platform + Enterprise + Horizontal success pattern: ecosystem of third-party developers, high switching costs, multiple revenue streams. Examples: Salesforce, Shopify, ServiceNow.
+
+FAILURE PATTERNS
+
+SMB + Sales-Led failure pattern: applying enterprise sales motion to SMB customers, CAC exceeding LTV, unit economics never working. Enterprise + PLG failure pattern: attempting product-led growth without the product simplicity and self-serve capabilities required, low activation rates. Horizontal + No Platform failure pattern: horizontal SaaS without a platform strategy, vulnerable to vertical specialists and point solution competitors. Vertical + Small TAM failure pattern: vertical SaaS with TAM below five hundred million dollars, unable to generate venture-scale returns. Infrastructure + Cloud Dependency failure pattern: infrastructure SaaS that a cloud provider can offer as a native service. Pricing Mismatch failure pattern: subscription pricing for usage-based value, or vice versa, misaligning cost with customer value.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: NRR by Segment. SMB: above 90% acceptable, above 100% strong. Mid-Market: above 100% acceptable, above 110% strong. Enterprise: above 110% acceptable, above 120% strong. Benchmark 2: CAC Payback by Segment. SMB: under 6 months strong. Mid-Market: under 12 months strong. Enterprise: under 24 months strong. Benchmark 3: Gross Margin by Scope. Horizontal: above 75%. Vertical: above 70%. Infrastructure: above 70%. Platform: above 75%. Benchmark 4: Organic Acquisition by GTM. PLG: above 40% strong. Sales-Led: above 10% acceptable. Marketing-Led: above 20% strong. Benchmark 5: ACV by Segment. SMB: below five thousand dollars. Mid-Market: five to fifty thousand dollars. Enterprise: above fifty thousand dollars. Benchmark 6: Sales Cycle by Segment. SMB: days to weeks. Mid-Market: 1-3 months. Enterprise: 3-12 months. Benchmark 7: Rule of 40. Above 40% is strong for all archetypes at scale.
+
+REAL-WORLD EXAMPLES
+
+Salesforce (Enterprise + Sales-Led + Horizontal + Platform): the canonical enterprise SaaS platform. Slack (SMB + PLG + Horizontal): product-led growth with viral adoption within organizations. Veeva (Enterprise + Sales-Led + Vertical): vertical SaaS for life sciences with deep domain expertise. Datadog (Infrastructure + PLG + Horizontal): developer-first infrastructure with consumption-based pricing. Shopify (SMB + PLG + Platform): platform enabling third-party developers. Each example illustrates a distinct archetype combination.
+
+COMMON MISCLASSIFICATIONS
+
+The first misclassification is "Segment Inflation": classifying an SMB company as Mid-Market or a Mid-Market company as Enterprise based on aspiration rather than actual ACV and customer profile. The second is "GTM Confusion": classifying a company as PLG when paid acquisition dominates, or as Sales-Led when self-serve dominates. The third is "Scope Drift": failing to recognize when a Horizontal SaaS is adding Vertical capabilities or vice versa. The fourth is "Platform Pretender": classifying a SaaS as a Platform when third-party development is minimal. The fifth is "Archetype Rigidity": failing to recognize hybrid archetypes that combine characteristics of multiple categories.
+
+COUNTERINTUITIVE INSIGHT
+
+The highest-growth SaaS archetype is often not the one with the best unit economics. Enterprise SaaS has the best unit economics (high NRR, low churn) but grows slower than PLG SaaS. PLG SaaS has faster growth but lower initial monetization. The optimal archetype depends on the market structure and competitive dynamics, not on a universal ranking of archetypes.
+
+INVESTOR PERSPECTIVE
+
+Most attractive archetypes for venture: Enterprise + Vertical (domain moat, high switching costs), Infrastructure + PLG (developer love, data network effects), Platform (ecosystem moat). Moderate attractiveness: Enterprise + Horizontal (competitive, requires platform strategy), SMB + PLG (lower ACV, higher churn). Highest risk: SMB + Sales-Led (unit economics challenge), Infrastructure + Cloud Dependency. Due diligence implications: for Enterprise, assess sales leadership and enterprise readiness; for PLG, assess activation rate and organic acquisition; for Vertical, assess domain expertise and TAM. Return profiles: Enterprise generates the highest revenue per customer; PLG generates the fastest growth; Platform generates the most durable returns.
+
+ARCHETYPE DIAGNOSTICS
+
+Positive Signals: Clear archetype classification, metrics above archetype benchmarks, GTM aligned with segment, product scope appropriate for market. Warning Signals: Segment-GTM mismatch (SMB with enterprise sales), metrics below benchmarks, archetype drift without strategy update. Scaling Indicators: for Enterprise, sales team scalability; for PLG, organic acquisition growth; for Vertical, industry penetration. Capital Efficiency Indicators: CAC payback aligned with segment, burn multiple below 1.5x. Moat Indicators: for Enterprise, switching costs; for PLG, network effects; for Vertical, domain expertise; for Platform, ecosystem. Risk Indicators: segment mismatch, GTM inefficiency, scope creep, platform dependency.
+
+VENTUREVERSE CLASSIFICATION SIGNALS
+
+Classification Signals: ACV level, customer count, primary acquisition channel, industry concentration, developer ecosystem presence. Confidence Signals: clarity of segment, GTM, and scope; stability over time. Risk Signals: segment-GTM misalignment, metrics below archetype benchmarks, cloud platform dependency. Growth Signals: revenue growth relative to archetype, NRR relative to archetype. Fundability Signals: stage-appropriate metrics, archetype-appropriate capital requirements. Recommendation Signals: archetype-specific investment structure and terms. Archetype Fit Signals: alignment between execution and archetype success patterns.
+
+ACTIONABLE TAKEAWAYS
+
+1. Classify every SaaS startup on all three dimensions (Segment, GTM, Scope) before applying benchmarks. The benchmarks for an Enterprise Vertical SaaS are fundamentally different from an SMB Horizontal SaaS.
+2. Detect segment-GTM mismatch. An SMB company with an enterprise sales motion has a structural unit economics problem that must be addressed.
+3. For PLG companies, measure organic acquisition as the primary growth quality metric. Paid acquisition can mask PLG failure.
+4. For Enterprise companies, measure sales rep productivity and ramp time as the primary scalability metrics.
+5. For Vertical SaaS, validate the TAM bottom-up. Vertical markets are often smaller than they appear from top-down estimates.
+6. Monitor archetype drift. A company that is changing segments, GTM, or scope requires a different evaluation framework.
+7. For Platform companies, measure third-party developer activity as the primary ecosystem health metric. A platform without developers is a SaaS.
+8. Apply archetype-specific risk factors in the VentureVerse Risk Assessment Framework. Each archetype has unique risks that must be weighted accordingly.
+
+END OF DOCUMENT

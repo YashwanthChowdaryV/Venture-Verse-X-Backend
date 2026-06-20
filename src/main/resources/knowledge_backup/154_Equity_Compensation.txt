@@ -1,0 +1,66 @@
+﻿TITLE: Equity Compensation
+DOCUMENT_ID: 154
+CATEGORY: Team, Operations & Organizational Intelligence
+SUBCATEGORY: Compensation
+DIFFICULTY: Intermediate
+STAGE: All Stages
+PERSONAS: Founder, Operator, Investor
+
+CORE CONCEPT
+
+Equity Compensation is the practice of granting stock options, restricted stock units (RSUs), or other equity instruments to employees as part of their total compensation. The core concept is that equity compensation aligns the interests of employees with those of shareholders by giving employees a stake in the company's long-term success. It is the defining compensation mechanism of the startup ecosystem. The failure mode is "Equity as Afterthought": granting equity without a clear philosophy, without transparency about what the equity is worth, and without educating employees on how equity works. A second failure mode is "Equity as Replacement for Cash": paying below-market salaries and making up the difference with equity, which only works if the equity actually becomes valuable. For investors, a startup's equity compensation practices are a signal of how the company treats its people and how aligned the organization is around value creation. A company with a fair, transparent equity program has an aligned workforce; a company with opaque, unfair equity distribution has a resentful one.
+
+FRAMEWORK & MECHANICS
+
+The Equity Compensation framework operates through three components: the Equity Plan (the legal structure that enables equity grants -- typically a Stock Option Plan for private companies), the Grant Philosophy (the principles that determine who gets how much equity -- typically based on role, seniority, and the stage of the company), and the Equity Communication (how the company educates employees about their equity and its value). The standard equity instruments for private companies are: Incentive Stock Options (ISOs -- tax-advantaged for employees, available only to US employees), Non-Qualified Stock Options (NSOs -- available to non-US employees, contractors, and advisors), and Restricted Stock Units (RSUs -- more common at later-stage companies).
+
+The operational mechanism is the "Equity Grant Calculator": the company determines the equity grant for each role based on a formula that accounts for the role's level, the company's stage, and the market benchmark. The mental model is "equity is a partnership agreement." The company is offering the employee a share of the value they help create. The decision process: the company defines its equity philosophy, builds the grant calculator, communicates equity transparently, and refreshes grants as employees grow and the company scales.
+
+ORGANIZATIONAL EVALUATION FRAMEWORK
+
+Healthy equity compensation: a documented equity philosophy; a grant calculator that is consistently applied; employees understand their equity and its potential value; equity grants are refreshed as employees grow; the option pool is proactively managed. Unhealthy: no equity philosophy; grants are ad hoc and inconsistent; employees do not understand their equity; grants are not refreshed; the option pool is reactively managed. Execution quality indicators: offer acceptance rate, employee equity understanding, equity satisfaction. Leadership quality indicators: the fairness and transparency of equity distribution. Organizational maturity indicators: the evolution of the equity program from ad hoc to systematic.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Option Pool Size. 10-20% of fully diluted shares is standard for startups. Warning: below 10% (insufficient for future hiring) or above 25% (excessive dilution). Benchmark 2: Employee Equity Understanding. Above 80% of employees can explain how their equity works. Warning: below 50%. Benchmark 3: Equity Satisfaction. Above 70% of employees are satisfied with their equity package. Warning: below 50%. Benchmark 4: Grant Refresh Cadence. Employees should receive additional equity grants as they grow, typically every 2-4 years. Warning: no refresh program. Benchmark 5: Exercise Window. 90 days post-termination is the industry standard. Extended windows (5-10 years) are increasingly common and employee-friendly. Benchmark 6: 409A Valuation Currency. The 409A valuation should be updated at least annually. Warning: 409A older than 12 months.
+
+OPERATING MODEL IMPLICATIONS
+
+Equity compensation directly affects hiring, retention, and alignment. A fair, transparent equity program attracts talent; an opaque, unfair one repels it. The leadership implication: the founder must be the champion of the equity program. Equity is the mechanism by which the company shares its success with its people. The team implication: equity creates a shared sense of ownership. Employees who feel like owners act like owners. The governance implication: the board must approve equity grants and the option pool. The option pool is a governance mechanism that requires board oversight. The scalability implication: the equity program must evolve as the company scales. The ad hoc grants that work at 10 employees are inadequate at 100. The execution implication: equity is a retention tool. Employees who are fully vested with no refresh grants are at risk of leaving.
+
+REAL-WORLD EXAMPLE
+
+Stripe's equity compensation practices are a benchmark for startups. Stripe has been known for offering competitive equity packages, communicating equity transparently, and extending employee exercise windows. The outcome: Stripe's equity program has been a significant factor in its ability to attract and retain exceptional talent, contributing to its growth to a valuation above ninety-five billion dollars. The investor lesson: Stripe treats equity as a partnership, not as a cost. The company's willingness to share equity broadly has created an aligned, motivated workforce.
+
+COMMON MISTAKES
+
+The first mistake is "Equity as Mystery": granting equity without explaining how it works, what it is worth, or what must happen for it to become valuable. The second mistake is "No Refresh Grants": granting equity at hire and never refreshing it, leaving long-tenured employees fully vested with no ongoing equity incentive. The third mistake is "Ad Hoc Grants": granting equity inconsistently, creating unfairness and resentment. The fourth mistake is "90-Day Exercise Window": requiring employees to exercise options within 90 days of leaving, forcing them to choose between a large tax bill and forfeiting their equity. The fifth mistake is "No 409A": failing to obtain regular 409A valuations, making it impossible to price options correctly.
+
+COUNTERINTUITIVE INSIGHT
+
+The most generous equity grants are often the cheapest. Granting an additional 0.1% to an early employee at the Seed stage costs the company almost nothing in dilution and can create a level of loyalty and motivation that far exceeds the cost. Being stingy with equity is the most expensive compensation mistake a startup can make.
+
+INVESTOR PERSPECTIVE
+
+Positive equity signals: documented equity philosophy; consistent grant calculator; employee equity education; refresh grant program; extended exercise windows. Red flags: no equity philosophy; ad hoc grants; employees do not understand equity; no refresh grants; 90-day exercise windows without exception. Due diligence questions: "What is your equity philosophy, and how do you determine grant sizes?" "How do you educate employees about their equity?" "What is your refresh grant policy?" "What is your exercise window?" "When was your last 409A valuation?"
+
+OPERATIONAL DIAGNOSTICS
+
+Positive Signals: Documented philosophy; consistent grants; employee education; refresh grants; extended windows. Warning Signals: No philosophy; ad hoc grants; no education; no refreshes; short windows. Critical Thresholds: Option pool below 10%; 409A older than 12 months; equity satisfaction below 50%. Leading Indicators: offer acceptance rate, equity understanding, equity satisfaction. Lagging Indicators: employee retention, internal promotion rate. Root Causes of equity failure: no philosophy, no education, no refreshes, short exercise windows. Corrective Actions: document the philosophy; educate employees; implement refreshes; extend exercise windows.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate equity compensation as an alignment and retention mechanism. Positive Signals: Documented philosophy; consistent grants; employee education; refreshes; extended windows. Warning Signals: No philosophy; ad hoc grants; no education; no refreshes; short windows. Scoring Signals: Equity Score based on: philosophy clarity (25%), grant consistency (25%), employee education (25%), refresh program (25%). Risk Indicators: Option pool below 10%; 409A older than 12 months; equity satisfaction below 50%. Leadership Indicators: Founder championing of equity. Execution Indicators: Offer acceptance rate. Talent Indicators: Equity satisfaction; employee retention. Governance Indicators: Board oversight of option pool. Operational Maturity Indicators: Evolution of equity program.
+
+ACTIONABLE TAKEAWAYS
+
+1. Document your equity philosophy: how do you determine who gets how much equity? Create a grant calculator that is consistently applied.
+2. Educate every employee about their equity: how options work, what the 409A valuation is, what must happen for equity to become valuable.
+3. Implement a refresh grant program: employees should receive additional equity grants every 2-4 years as they grow with the company.
+4. Extend your exercise window beyond 90 days if possible. An extended window (2-10 years) is one of the most employee-friendly changes you can make.
+5. Obtain a 409A valuation at least annually. You cannot grant options without a current 409A.
+6. Communicate equity as a partnership. The company's success should be shared with the people who create it.
+7. Do not be stingy with equity. The cost of an additional 0.1% grant is far less than the cost of losing a great employee.
+8. For investors: Request the equity philosophy, grant calculator, and employee equity understanding data. A founder who cannot articulate their equity program has not built one.
+
+END OF DOCUMENT

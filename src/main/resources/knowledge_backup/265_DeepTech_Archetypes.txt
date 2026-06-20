@@ -1,0 +1,67 @@
+﻿TITLE: DeepTech Archetypes
+DOCUMENT_ID: 265
+CATEGORY: Startup Archetypes & Pattern Intelligence
+SUBCATEGORY: Startup Classification
+DIFFICULTY: Expert
+PERSONAS: Investor, Analyst, VentureVerse Agent
+
+CORE CONCEPT
+
+DeepTech Archetypes are the distinct categories of companies built on significant scientific or engineering breakthroughs, each with fundamentally different technology readiness levels, capital requirements, development timelines, and commercialization paths. The core concept is that DeepTech is not a single category but a collection of science-driven models that differ in the maturity of the underlying technology, the path from lab to market, and the capital required. Classifying DeepTech startups correctly is essential for understanding technology risk, timeline risk, and capital intensity. The failure mode is "DeepTech as SaaS": applying software evaluation frameworks to DeepTech companies, missing the fundamental differences in R&D requirements, regulatory pathways, and commercialization challenges. VentureVerse agents use DeepTech archetype classification to apply appropriate technology readiness assessments, capital requirement models, and timeline expectations.
+
+ARCHETYPE FRAMEWORK
+
+The DeepTech Archetype framework classifies companies across three primary dimensions. Technology Maturity Dimension: what is the Technology Readiness Level (TRL)? TRL 1-3 (Basic Research -- fundamental principles observed and reported), TRL 4-6 (Technology Development -- validated in lab environment), TRL 7-8 (System Demonstration -- demonstrated in operational environment), TRL 9 (Proven Technology -- proven in operational environment). Primary Domain Dimension: what scientific or engineering domain? Biotechnology and Life Sciences, Advanced Materials, Quantum Computing, Robotics and Autonomous Systems, Space Technology, Energy and Climate, Semiconductors and Hardware, or AI/ML (frontier models). Commercialization Path Dimension: Product (selling a physical or digital product), Platform (enabling others to build), Service (delivering a service enabled by the technology), or License (licensing IP). The combination defines the archetype.
+
+ARCHETYPE CLASSIFICATION MODEL
+
+The classification model operates through a sequential process. First, determine the TRL. Second, identify the primary domain. Third, determine the commercialization path. Primary archetypes include: TRL 7-9 + Product (companies with proven technology selling products -- quantum computing hardware, satellite manufacturing), TRL 4-6 + Platform (companies with demonstrated technology building platforms -- quantum computing cloud access, materials informatics), TRL 4-6 + Service (companies using advanced technology to deliver services -- AI drug discovery services, synthetic biology services), TRL 1-3 + License (early-stage IP licensing -- university spinouts, research lab spinouts). The TRL is the most important dimension because it determines the timeline and capital requirements.
+
+SUCCESS PATTERNS
+
+TRL 7-9 + Product success pattern: technology is proven, focus on manufacturing, distribution, and customer adoption; capital is for scaling production, not R&D. TRL 4-6 + Platform success pattern: technology is demonstrated, build a platform that makes the technology accessible, generate revenue while continuing R&D, create ecosystem. TRL 4-6 + Service success pattern: use the technology to deliver a service that customers pay for directly, generate revenue to fund continued R&D, transition from service to product over time. TRL 1-3 + License success pattern: develop IP, license to larger companies for commercialization, use licensing revenue to fund further research. Common across archetypes: the most successful DeepTech companies have a clear path from technology to revenue, manage the "valley of death" between R&D and commercialization, and attract patient capital aligned with the technology timeline.
+
+FAILURE PATTERNS
+
+Valley of Death: the company cannot bridge the gap between R&D funding and commercial revenue, runs out of capital before reaching TRL 7-9. Timeline Overrun: technology development takes longer than projected, capital requirements exceed estimates, investors lose patience. Commercialization Failure: technology works but cannot find a market, the product is too expensive, or the market is not ready. Manufacturing Scale-Up Failure: technology works at lab scale but cannot be manufactured at commercial scale at viable cost. Regulatory Failure: technology requires regulatory approval that is delayed or denied. Talent Gap: cannot attract the specialized scientific and engineering talent required.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Technology Readiness Level. TRL 7+ is required for venture-scale commercialization. Warning: below TRL 6 for product companies. Benchmark 2: Capital Required to First Revenue. Under fifty million dollars is venture-suitable for most DeepTech. Warning: above one hundred million dollars. Benchmark 3: Time to First Revenue. Under 3 years is strong; 3-5 years is acceptable. Warning: above 5 years. Benchmark 4: Gross Margin. DeepTech Products: 40-70%. DeepTech Platforms: 60-85%. DeepTech Services: 30-50%. Warning: below 30%. Benchmark 5: Intellectual Property Strength. Patent portfolio with freedom to operate is strong. Warning: weak IP or IP disputes. Benchmark 6: Technical Team Credentials. PhDs, industry experience, publication record. Strong team credentials are essential. Benchmark 7: Path to Cost Competitiveness. The technology's cost trajectory relative to incumbent alternatives. Should be on a path to cost competitiveness within 5 years.
+
+REAL-WORLD EXAMPLES
+
+Quantum Computing (TRL 4-6 + Platform): IonQ, Rigetti -- quantum computing accessible via cloud. Space Technology (TRL 7-9 + Product): SpaceX, Rocket Lab -- proven launch technology. Synthetic Biology (TRL 4-6 + Service): Ginkgo Bioworks -- organism engineering as a service. Nuclear Fusion (TRL 1-3 + License): Commonwealth Fusion Systems, TAE Technologies -- pre-commercial fusion energy. Robotics (TRL 7-9 + Product): Boston Dynamics, Anduril -- proven robotic systems. Each example illustrates different TRLs, domains, and commercialization paths.
+
+COMMON MISCLASSIFICATIONS
+
+The first misclassification is "TRL Overestimation": overestimating the technology readiness based on lab results rather than operational demonstration. The second is "DeepTech as SaaS": applying software timelines and capital requirements to DeepTech. The third is "Commercialization Optimism": assuming the path from technology to market is shorter and cheaper than it will be. The fourth is "Platform vs. Product Confusion": misclassifying a service business as a product business. The fifth is "IP Overestimation": overestimating the strength and defensibility of the IP portfolio.
+
+COUNTERINTUITIVE INSIGHT
+
+The most successful DeepTech companies are often not those with the most advanced technology. They are those that find the earliest path to revenue. A company with TRL 6 technology and a service business generating revenue is more investable than a company with TRL 3 technology and no revenue path for 5 years, regardless of how revolutionary the technology.
+
+INVESTOR PERSPECTIVE
+
+Most attractive archetypes: TRL 7-9 + Product (proven technology, scaling risk rather than R&D risk), TRL 4-6 + Service (revenue-generating, funds continued R&D). Moderate: TRL 4-6 + Platform (longer path, ecosystem risk). Highest risk: TRL 1-3 + License (early-stage, long timelines, uncertain commercialization). Due diligence implications: assess TRL rigorously with independent experts, model capital requirements to reach TRL 7-9, evaluate the commercialization path realistically, assess the IP portfolio. Return profiles: DeepTech requires larger outcomes to justify the longer timelines and higher capital requirements. The best DeepTech investments generate 20x+ returns.
+
+ARCHETYPE DIAGNOSTICS
+
+Positive Signals: TRL 7+, clear commercialization path, strong IP, experienced team, path to cost competitiveness. Warning Signals: TRL below 6, unclear commercialization, weak IP, inexperienced team, no cost trajectory. Scaling Indicators: manufacturing yields, customer adoption, unit cost trends. Capital Efficiency Indicators: capital to revenue ratio, gross margin trajectory. Moat Indicators: IP portfolio, technical complexity, regulatory barriers, talent advantages. Risk Indicators: TRL risk, timeline risk, capital risk, regulatory risk, market adoption risk.
+
+VENTUREVERSE CLASSIFICATION SIGNALS
+
+Classification Signals: TRL level, scientific domain, commercialization path, IP strength, team credentials. Confidence Signals: TRL assessment quality, commercialization evidence, IP validation. Risk Signals: low TRL, long timeline, high capital requirements, weak IP. Growth Signals: technology milestones achieved, customer adoption, revenue growth. Fundability Signals: capital requirements relative to fund size, timeline relative to fund life, syndication requirements. Recommendation Signals: archetype-appropriate capital structure (equity, grants, project finance) and timeline expectations. Archetype Fit Signals: alignment between technology maturity and commercialization strategy.
+
+ACTIONABLE TAKEAWAYS
+
+1. Classify every DeepTech startup by TRL, domain, and commercialization path. The evaluation framework for a TRL 8 Product company is fundamentally different from a TRL 3 Platform company.
+2. Assess TRL rigorously with independent technical experts. Do not accept the company's TRL assessment without validation.
+3. Model the capital required to reach TRL 7-9 and first revenue. If it exceeds available venture funding, the company needs alternative capital sources.
+4. Evaluate the commercialization path realistically. A great technology without a viable path to market is not a business.
+5. Assess the IP portfolio strength. DeepTech moats are primarily IP-based. Weak IP means weak defensibility.
+6. Align capital structure with technology timeline. Longer timelines require patient capital, grant funding, or corporate partnerships.
+7. Monitor technology milestones as the primary progress metric. In DeepTech, technology milestones are more important than revenue milestones in early stages.
+8. Apply archetype-specific capital efficiency expectations. A TRL 4 DeepTech company will be capital-inefficient by SaaS standards; that is expected and appropriate for the archetype.
+
+END OF DOCUMENT

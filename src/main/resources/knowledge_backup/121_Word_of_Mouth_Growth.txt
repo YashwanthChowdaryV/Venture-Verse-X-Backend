@@ -1,0 +1,62 @@
+﻿TITLE: Word of Mouth Growth
+DOCUMENT_ID: 121
+CATEGORY: Growth & Go-To-Market
+SUBCATEGORY: Organic Growth
+DIFFICULTY: Intermediate
+STAGE: Seed to Growth
+PERSONAS: Founder, Growth Leader, Investor
+
+CORE CONCEPT
+
+Word of Mouth (WOM) Growth is the organic spread of a product through customer recommendations, conversations, and advocacy, without explicit incentives or marketing campaigns. The core concept is that word of mouth is the highest-quality growth channel because it is driven by genuine customer satisfaction, it scales with the customer base, and it produces customers with higher retention and LTV than any paid channel. The failure mode is "WOM as Passive": assuming that word of mouth will happen automatically if the product is good, without designing the product and the customer experience to generate and amplify word of mouth. For investors, a startup's word of mouth is the ultimate signal of product-market fit. A company with strong, measurable word of mouth has a product that customers advocate for; a company without it has not yet built something people talk about.
+
+FRAMEWORK & MECHANICS
+
+The Word of Mouth framework operates through the "Talk Triggers" model, developed by Jay Baer and Daniel Lemin: a talk trigger is a specific, memorable aspect of the customer experience that is different from what customers expect and that they want to tell others about. The four requirements for a talk trigger: it must be Remarkable (worth making a remark about), Relevant (connected to the product or company in a meaningful way), Reasonable (not a gimmick that undermines trust), and Repeatable (delivered consistently to every customer). Examples: the DoubleTree cookie (a warm chocolate chip cookie at check-in), Chewy's customer service (sending flowers when a customer's pet dies).
+
+The operational mechanism is the "WOM Measurement System": the company measures the percentage of new customers who come from word of mouth (typically through a "How did you hear about us?" survey at sign-up), the Net Promoter Score (measuring willingness to recommend), and the customer referral rate. The mental model is "word of mouth is engineered, not accidental." The company identifies the talk trigger, ensures it is delivered consistently, and measures its impact on acquisition. The decision process: the company analyzes its customer experience to identify moments that could become talk triggers, designs and implements the trigger, and measures the word of mouth rate before and after.
+
+GROWTH EVALUATION FRAMEWORK
+
+Healthy WOM execution: a defined talk trigger that is consistently delivered; a measurable WOM acquisition rate (above 30% of new customers); a high NPS (above 50); a high customer referral rate (above 5%). Unhealthy: no talk trigger; WOM not measured; NPS below 20; low referral rate. Growth quality indicators: WOM acquisition percentage; NPS; customer referral rate. Growth sustainability indicators: the WOM acquisition trend; the diversity of talk triggers.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: WOM Acquisition Percentage. Above 30% of new customers from word of mouth is strong; above 50% is exceptional. Warning: below 10%. Benchmark 2: Net Promoter Score. Above 50 is strong. Warning: below 20. Benchmark 3: Customer Referral Rate. Above 5% of customers referring others is strong. Benchmark 4: WOM CAC. The cost per customer acquired through word of mouth should be near zero. Benchmark 5: WOM Customer LTV. WOM-acquired customers should have 20-50% higher LTV than other channels. Benchmark 6: Talk Trigger Awareness. The percentage of customers who can recall the talk trigger. Above 50% is strong.
+
+REAL-WORLD EXAMPLE
+
+Airbnb's word of mouth growth was driven by the exceptional experience of staying in a unique home in a local neighborhood. The talk trigger was not a single feature; it was the transformation of travel from a generic hotel experience to an authentic local experience. Hosts and guests told their friends about their Airbnb experiences, driving organic growth. The outcome: Airbnb's word of mouth was a primary growth driver, contributing to the company's growth to a valuation above one hundred billion dollars. The investor lesson: Airbnb's WOM was not a campaign; it was the product experience.
+
+COMMON MISTAKES
+
+The first mistake is "Assuming WOM is Automatic": believing that a good product will automatically generate word of mouth. The second mistake is "No Talk Trigger": having no specific, memorable aspect of the experience that customers want to talk about. The third mistake is "No WOM Measurement": failing to track how many customers come from word of mouth. The fourth mistake is "WOM as Marketing Campaign": treating word of mouth as a marketing campaign (referral program, influencer campaign) rather than as an outcome of the product experience. The fifth mistake is "No Amplification": generating word of mouth but not amplifying it through social proof, testimonials, and case studies.
+
+COUNTERINTUITIVE INSIGHT
+
+The best word of mouth is not about the product; it is about the customer. The customer talks about how the product made them feel, what they achieved, or the experience they had. The product is the enabler of the story; the customer is the subject of the story.
+
+INVESTOR PERSPECTIVE
+
+Positive WOM signals: a defined talk trigger; WOM acquisition above 30%; NPS above 50; WOM customer LTV above other channels. Red flags: no talk trigger; WOM not measured; NPS below 20; low referral rate. Due diligence questions: "What is your talk trigger -- what do customers tell others about your product?" "What percentage of your new customers come from word of mouth?" "What is your NPS, and how has it trended?" "How does the LTV of WOM customers compare to other channels?" "How do you amplify word of mouth?"
+
+GROWTH DIAGNOSTICS
+
+Positive Signals: Defined talk trigger; WOM acquisition above 30%; NPS above 50; WOM LTV above other channels. Warning Signals: No talk trigger; WOM not measured; NPS below 20. Critical Thresholds: WOM acquisition below 10%; NPS below 0. Leading Indicators: NPS trend, customer referral rate, talk trigger recall. Lagging Indicators: WOM acquisition percentage, WOM customer LTV. Root Causes of WOM failure: no talk trigger, poor product experience, no measurement. Corrective Actions: design a talk trigger; improve the product experience; measure WOM.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate word of mouth as the ultimate product-market fit signal. Positive Signals: Defined talk trigger; WOM above 30%; NPS above 50; WOM LTV above other channels. Warning Signals: No talk trigger; WOM not measured; NPS below 20. Scoring Signals: WOM Score based on: WOM acquisition percentage (30%), NPS (25%), talk trigger quality (25%), WOM LTV (20%). Risk Indicators: WOM below 10%; NPS below 0; no talk trigger. Growth Indicators: WOM acquisition trend; NPS trend. Distribution Indicators: WOM percentage of total acquisition. Acquisition Indicators: WOM CAC; WOM customer LTV. Retention Indicators: WOM customer retention vs. other channels.
+
+ACTIONABLE TAKEAWAYS
+
+1. Identify or design a talk trigger: a specific, memorable aspect of your customer experience that is different from expectations and worth talking about.
+2. Measure your WOM acquisition rate: ask every new customer "How did you hear about us?" and track the percentage who say "a friend, colleague, or word of mouth."
+3. Measure your NPS and track it over time. NPS is the leading indicator of word of mouth.
+4. Compare the LTV of WOM-acquired customers to other channels. If WOM customers have higher LTV, invest in amplifying WOM.
+5. Amplify word of mouth through social proof: testimonials, case studies, reviews, and customer stories.
+6. Do not assume word of mouth is automatic. Design the experience that generates it, and measure it rigorously.
+7. Train your customer-facing teams to ask for referrals at moments of customer delight.
+8. For investors: Request the WOM acquisition data, NPS trends, and talk trigger. A founder who cannot articulate what customers say about their product has not engineered word of mouth.
+
+END OF DOCUMENT

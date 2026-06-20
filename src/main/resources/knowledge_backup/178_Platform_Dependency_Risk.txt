@@ -1,0 +1,70 @@
+﻿TITLE: Platform Dependency Risk
+DOCUMENT_ID: 178
+CATEGORY: Risk, Failure & Resilience
+SUBCATEGORY: External Risks
+DIFFICULTY: Intermediate
+STAGE: All Stages
+PERSONAS: Founder, Investor, Risk Analyst
+
+CORE CONCEPT
+
+Platform Dependency Risk is the vulnerability created when a startup's business model, distribution, or technology depends on a third-party platform that can change its rules, pricing, algorithms, or access in ways that harm the startup. The core concept is that building on a platform is like building on rented land. The platform owner can change the terms at any time, and the startup has limited recourse. The failure mode is "Platform Capture": the startup becomes so dependent on the platform that the platform can extract the majority of the value or eliminate the startup's access entirely. For investors, platform dependency is one of the most important risks to evaluate for startups that build on platforms like iOS, Android, AWS, Shopify, Salesforce, or Facebook. A startup that is entirely dependent on a single platform is carrying a risk that is outside its control.
+
+FAILURE FRAMEWORK & MECHANICS
+
+The Platform Dependency framework, informed by the experiences of platform-dependent startups, operates through four dimensions: Platform Power (the degree to which the platform controls the startup's access to customers, data, or infrastructure), Platform Alignment (the degree to which the startup's interests align with the platform's -- is the startup a complement or a competitor?), Platform Diversification (the degree to which the startup's dependency is spread across multiple platforms), and Platform Substitutability (the degree to which the startup could move to an alternative platform or build its own). The framework identifies the types of platform dependency: Distribution Dependency (the platform controls access to customers -- a consumer app dependent on the App Store), Technology Dependency (the startup is built on the platform's technology -- a company built on AWS), Data Dependency (the startup depends on the platform's data -- a company built on the Facebook or Twitter API), and Revenue Dependency (the platform controls the monetization -- a creator dependent on YouTube's ad revenue sharing).
+
+The operational mechanism is the "Platform Dependency Assessment": the company evaluates each platform it depends on, assesses the risk of adverse platform action, and develops mitigation strategies. The mental model is "platforms are not partners; they are sovereigns." The platform makes the rules, and the startup must comply or leave. The decision process: the company evaluates whether to build on the platform, how to diversify across platforms, and when to migrate off the platform.
+
+RISK EVALUATION FRAMEWORK
+
+The probability of adverse platform action is elevated for startups that: compete with the platform's own products, operate in a category the platform has identified as strategic, or depend on a platform feature or API that the platform has not committed to long-term. The severity of platform dependency risk is existential: a platform can shut down a startup's access overnight. The detectability is moderate: platform risk is visible, but the timing and nature of adverse action are uncertain. The mitigation is platform diversification and, ultimately, building independent distribution and infrastructure. Recovery potential from adverse platform action depends on whether the startup has alternatives.
+
+EARLY WARNING INDICATORS
+
+Leading indicators: the platform announcing entry into the startup's category, the platform changing its terms of service or API access policies, the platform's algorithm changes affecting the startup's reach or acquisition, the platform acquiring a competitor, and the platform's public statements about the category. Lagging indicators: the platform restricting the startup's access, the platform launching a competing product, the startup's platform-driven revenue or growth declining. Hidden signals: the platform requesting detailed information about the startup's business, the platform's developer relations becoming less responsive, and the platform's executives making statements about "capturing more value" in the ecosystem. Founder signals: the founder saying "the platform would never do that to us," the founder comparing the company to other startups that survived platform changes, and the founder dismissing platform risk as "a theoretical concern."
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Platform Revenue Dependency. The percentage of revenue dependent on a single platform. Below 30% is healthy. Warning: above 50%. Critical: above 70%. Benchmark 2: Platform Diversification. The number of platforms the startup is distributed across. At least 2 platforms is healthier than 1. Warning: single platform dependency. Critical: single platform with no migration plan. Benchmark 3: Platform Alignment Score. The degree to which the startup's interests align with the platform's. High alignment: the startup makes the platform more valuable. Low alignment: the startup competes with the platform or captures value the platform wants. Warning: low alignment. Critical: direct competition with the platform. Benchmark 4: Migration Feasibility. The time and cost to migrate off the platform. Under 6 months is feasible. Warning: 6-12 months. Critical: above 12 months or impossible. Benchmark 5: Platform TOS Change Frequency. How often the platform changes its terms of service. Frequent changes indicate an unstable environment. Warning: multiple changes per year that affect the business. Benchmark 6: Platform Revenue Share. The percentage of revenue the platform takes. Warning: platform revenue share increasing. Critical: platform revenue share above 30% and increasing.
+
+REAL-WORLD EXAMPLE
+
+Zynga's platform dependency on Facebook illustrates both the opportunity and the risk. Zynga built its social gaming business on the Facebook platform, acquiring hundreds of millions of users through Facebook's social graph and distribution. At its peak, Zynga generated the majority of its revenue through Facebook. When Facebook changed its algorithm to reduce game notifications, Zynga's user acquisition and engagement declined sharply. The outcome: Zynga's stock price collapsed, and the company was forced to diversify to mobile platforms. The investor lesson: Zynga's dependence on Facebook was a known risk that materialized. The platform had all the power, and Zynga had limited alternatives.
+
+COMMON MISTAKES
+
+The first mistake is "Platform as a Permanent Foundation": building on a platform without a plan for what happens if the platform changes. The second mistake is "Single Platform Dependency": depending entirely on one platform without diversification. The third mistake is "Ignoring Platform Alignment": failing to assess whether the platform views the startup as a complement or a competitor. The fourth mistake is "No Migration Plan": having no plan for moving off the platform if necessary. The fifth mistake is "Platform Data Handover": giving the platform detailed data about the startup's business that the platform can use to compete.
+
+COUNTERINTUITIVE INSIGHT
+
+The best time to diversify off a platform is when the platform relationship is strongest. A startup that builds independent distribution and infrastructure while its platform relationship is healthy has options. A startup that tries to diversify after the platform turns against it is in crisis mode and may not have time.
+
+INVESTOR PERSPECTIVE
+
+Positive platform risk signals: revenue below 30% from any single platform; diversified across multiple platforms; high platform alignment; migration plan; platform relationship managed strategically. Red flags: revenue above 50% from a single platform; no diversification; low platform alignment; no migration plan; platform relationship unmanaged. Due diligence questions: "What percentage of your revenue depends on each platform?" "What would happen if your primary platform changed its terms of service in a way that harmed your business?" "How aligned are your interests with the platform's?" "What is your plan to diversify off the platform?" "How long would it take to migrate to an alternative?"
+
+FAILURE DIAGNOSTICS
+
+Positive Signals: Revenue below 30% per platform; diversified platforms; high alignment; migration plan. Warning Signals: Revenue above 50% per platform; single platform; low alignment; no migration plan. Critical Signals: Revenue above 70% per platform; direct competition with platform; no alternatives. Root Causes: platform dependency, failure to diversify, platform misalignment, no migration capability. Failure Probability: moderate to high if the platform is misaligned and the startup has no alternatives. Failure Severity: existential if the platform cuts off access. Failure Velocity: can be immediate if the platform changes terms.
+
+RESILIENCE & RECOVERY FRAMEWORK
+
+Recovery from adverse platform action requires: immediate assessment of the impact, activation of the migration plan, and communication with customers and investors. Turnaround indicators: the company successfully migrates to an alternative platform or builds independent distribution. Resilience signals: a company that has survived a platform change and diversified. Survival depends on: the existence of alternatives and the time available to migrate.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate platform dependency risk through platform concentration and alignment analysis. Positive Signals: Revenue below 30% per platform; diversified platforms; high alignment; migration plan. Warning Signals: Revenue above 50% per platform; single platform; low alignment; no migration plan. Risk Indicators: Revenue above 60% per platform; platform entering category; TOS changes. Failure Indicators: Revenue above 70% per platform; direct competition; platform cuts access. Recovery Indicators: Migration successful; diversification achieved. Governance Indicators: Board oversight of platform risk. Leadership Indicators: Founder recognition of platform risk. Resilience Indicators: Previous platform challenge survived. Survival Indicators: Migration feasibility; time available.
+
+ACTIONABLE TAKEAWAYS
+
+1. Map your platform dependencies: what percentage of your revenue, distribution, or technology depends on each platform?
+2. Set platform concentration limits: aim for no single platform above 30% of revenue. Build diversification plans to achieve this.
+3. Assess your alignment with each platform: are you a complement (making the platform more valuable) or a competitor (capturing value the platform wants)?
+4. Build a migration plan: how would you move off each platform if necessary? How long would it take? What would it cost?
+5. Monitor platform signals: TOS changes, algorithm changes, category entry, executive statements about your category.
+6. Do not give the platform more data about your business than necessary. Data you share can be used to compete with you.
+7. Invest in independent distribution and infrastructure. The goal is to reduce platform dependency over time.
+8. For investors: Request the platform dependency analysis and the migration plan. A founder who cannot articulate their platform risk has not managed it.
+
+END OF DOCUMENT

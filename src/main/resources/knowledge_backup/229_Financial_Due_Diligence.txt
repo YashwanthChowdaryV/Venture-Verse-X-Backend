@@ -1,0 +1,66 @@
+﻿TITLE: Financial Due Diligence
+DOCUMENT_ID: 229
+CATEGORY: Venture Capital Due Diligence & Investment Intelligence
+SUBCATEGORY: Diligence Process
+DIFFICULTY: Advanced
+STAGE: All Stages
+PERSONAS: Investor, Venture Analyst, CFO
+
+CORE CONCEPT
+
+Financial Due Diligence is the process of evaluating a startup's financial performance, unit economics, cash management, and financial controls to assess the sustainability of the business model and the quality of financial management. The core concept is that financial diligence at the venture stage is not an audit; it is an assessment of whether the company understands its unit economics, manages its cash prudently, and has the financial discipline to scale. The failure mode for investors is "Financial Diligence as a Spreadsheet Review": reviewing the company's financial model without validating the underlying assumptions or assessing the quality of financial management. For investors, financial diligence is essential at every stage. The quality of a startup's financial management is a leading indicator of the quality of its overall management.
+
+INVESTMENT FRAMEWORK & MECHANICS
+
+The Financial Due Diligence framework operates through five dimensions. Unit Economics: does the company understand its unit economics? What is the LTV, CAC, CAC payback, gross margin, and contribution margin? Are these improving or deteriorating? Cash Management: how much cash does the company have? What is the burn rate and runway? What is the burn multiple? How does the company manage its cash? Revenue Quality: is the revenue recurring, contracted, and predictable? What is the revenue concentration? What is the churn and NRR? Financial Controls: does the company have appropriate financial controls? Are the financials accurate and timely? Is there a qualified finance leader? Financial Projections: are the company's projections credible? What are the assumptions? How have past projections compared to actuals?
+
+The operational mechanism is the "Financial Health Assessment": the investor reviews the company's historical financials, unit economics data, cash flow, and projections, and interviews the finance leader. The mental model is "financial diligence is a test of management quality." A company that cannot produce accurate, timely financials or articulate its unit economics has a management problem. The decision process: the financial reviewer produces a report assessing each dimension, identifying risks, and recommending either investment (with or without conditions) or pass.
+
+DUE DILIGENCE FRAMEWORK
+
+The financial diligence process involves: historical financial review (P&L, balance sheet, cash flow statement -- at least 12 months of monthly data), unit economics analysis (CAC, LTV, payback, gross margin by product and segment), cash analysis (burn rate, runway, burn multiple, cash-out date), revenue analysis (revenue recognition, customer concentration, churn and NRR), expense analysis (cost structure, fixed vs. variable costs, headcount plan), projections review (assumptions, scenario analysis, comparison to historical accuracy), and finance team assessment (qualifications, systems, controls). Key diligence questions: "What are your unit economics, and how have they trended? What is your burn multiple? When do you project reaching breakeven? What is your revenue concentration? How accurate have your past projections been? Who manages your finances, and what systems do you use?" Conviction-building signals: accurate, timely financials, improving unit economics, disciplined cash management, credible projections.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Gross Margin. SaaS: 70-85%. Marketplace: 30-60%. Hardware: 20-50%. Warning: below category benchmarks. Benchmark 2: Burn Multiple. Below 1x is efficient; 1-2x is acceptable. Warning: above 2x. Critical: above 3x. Benchmark 3: Cash Runway. Above 18 months is healthy; 12-18 is adequate. Warning: below 12 months. Critical: below 6 months. Benchmark 4: Revenue Concentration. No single customer above 15%. Warning: above 25%. Benchmark 5: Projection Accuracy. Variance between projected and actual revenue under 10% for the current quarter. Warning: above 20%. Benchmark 6: CAC Payback Period. Under 12 months for SMB; under 24 months for enterprise. Warning: above 24 months.
+
+INVESTMENT DECISION ANALYSIS
+
+The bull case: unit economics are strong and improving, cash is managed prudently, revenue quality is high, and financial controls are appropriate. The base case: unit economics are adequate, cash is managed acceptably, and financial controls are functional. The bear case: unit economics are weak or deteriorating, cash is running low, revenue quality is poor, and financial controls are lacking. The return profile: strong financial management correlates with higher survival rates and better returns. The portfolio fit: financial risk should be explicitly assessed and priced into the investment.
+
+REAL-WORLD EXAMPLE
+
+The financial diligence that preceded a growth investment in a leading SaaS company revealed that the company's reported gross margins were inflated by excluding certain COGS components. The investor adjusted the gross margin calculation and discovered that the true gross margin was significantly lower than reported. This finding did not kill the investment but resulted in a lower valuation and a specific post-investment plan to improve gross margins. The outcome: the company improved its gross margins, and the investment generated strong returns. The investor lesson: financial diligence uncovered a material discrepancy that affected valuation and post-investment priorities.
+
+COMMON MISTAKES
+
+The first mistake is "Accepting the Company's Metrics Without Validation": using the company's CAC, LTV, and unit economics without understanding how they are calculated. The second mistake is "Ignoring the Burn Multiple": focusing on revenue growth without assessing the efficiency of that growth. The third mistake is "No Revenue Quality Assessment": treating all revenue as equal without assessing concentration, churn, and recurring vs. one-time. The fourth mistake is "Projection Optimism": accepting the company's projections without stress-testing the assumptions. The fifth mistake is "Finance Function Neglect": failing to assess whether the company has the financial talent and systems to scale.
+
+COUNTERINTUITIVE INSIGHT
+
+The most important financial diligence finding is not the current financials but the trend of the unit economics. A company with strong current unit economics that are deteriorating is a worse investment than a company with weak current unit economics that are improving. The trend is more predictive than the level.
+
+INVESTMENT COMMITTEE PERSPECTIVE
+
+Positive IC signals: improving unit economics; disciplined cash management; high revenue quality; credible projections; appropriate financial controls. Red flags: deteriorating unit economics; cash crisis looming; poor revenue quality; unrealistic projections; lack of financial controls. Questions partners ask: "What is the burn multiple, and how has it trended? When does the company run out of cash under the base case? What is the revenue concentration? How accurate have the company's projections been? Does the company have a qualified finance leader?" The evidence that changes a partner's vote: discovery of deteriorating unit economics, a cash crisis that was not disclosed, or confirmation of exceptional financial discipline.
+
+DILIGENCE DIAGNOSTICS
+
+Positive Signals: Improving unit economics; disciplined cash; high revenue quality; credible projections; financial controls. Warning Signals: Deteriorating unit economics; cash concerns; poor revenue quality; unrealistic projections; no controls. Critical Risks: Cash crisis, unit economics breakdown, revenue concentration, financial fraud. Evidence Gaps: incomplete financials, unaudited data, missing unit economics. Conviction Indicators: improving trends, cash discipline, projection accuracy, financial leadership. Deal Breakers: cash crisis without a credible solution, fraudulent financials, complete lack of financial controls.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate financial diligence on unit economics trends and cash management quality. Positive Signals: Improving unit economics; disciplined cash; high revenue quality; credible projections. Warning Signals: Deteriorating unit economics; cash concerns; poor revenue quality. Scoring Signals: Financial Quality Score based on: unit economics (30%), cash management (25%), revenue quality (25%), financial controls (20%). Founder Indicators: founder financial literacy, finance leader quality. Market Indicators: market unit economics benchmarks. Execution Indicators: burn multiple, CAC payback, projection accuracy. Risk Indicators: cash crisis risk, unit economics deterioration, revenue concentration. Return Indicators: financial sustainability, growth efficiency. Exit Indicators: financial audit readiness, quality of earnings. Investment Readiness Indicators: unit economics strength, cash discipline, financial leadership.
+
+ACTIONABLE TAKEAWAYS
+
+1. Validate the company's unit economics independently. Do not accept the company's CAC, LTV, or gross margin without understanding how they are calculated.
+2. Calculate the burn multiple. It is the single best measure of growth efficiency.
+3. Assess revenue quality. Is the revenue recurring, diversified, and contracted? Or is it one-time, concentrated, and at-risk?
+4. Stress-test the company's projections. What happens if revenue grows at half the projected rate? If churn doubles?
+5. Evaluate the finance function. Does the company have a qualified finance leader? Appropriate systems? Audit-ready financials?
+6. Monitor the trends, not just the levels. Improving unit economics with adequate current levels is better than strong current levels that are deteriorating.
+7. Require at least 12 months of monthly financial data. Quarterly or annual data is insufficient for trend analysis.
+8. For investment committees: Require a Financial Health Assessment for every investment decision. An investment made without financial diligence is a process failure.
+
+END OF DOCUMENT

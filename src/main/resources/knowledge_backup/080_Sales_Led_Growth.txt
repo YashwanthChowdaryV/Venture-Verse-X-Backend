@@ -1,0 +1,62 @@
+﻿TITLE: Sales-Led Growth
+DOCUMENT_ID: 080
+CATEGORY: Product & Customer Intelligence
+SUBCATEGORY: Growth Strategy
+DIFFICULTY: Advanced
+STAGE: Efficiency / Scale
+PERSONAS: Founder, Product Manager, Investor
+
+CORE CONCEPT
+
+Sales-Led Growth (SLG) is a go-to-market strategy where the sales team is the primary driver of customer acquisition and revenue growth, with the product serving as the fulfillment of the sales promise. In an SLG model, customers are acquired through outbound prospecting, inbound lead qualification, and a structured sales process that involves discovery calls, demos, proposals, and contract negotiation. The core concept is that SLG is appropriate when the product is complex, expensive, requires organizational buy-in, and delivers value that is not immediately self-evident. The failure mode is "SLG Without Product-Market Fit": attempting to scale a sales organization when the product has not yet been validated, resulting in a sales team selling a product that does not deliver value, generating churn and burning cash. For investors, SLG is a proven go-to-market for enterprise software, but it requires careful evaluation of unit economics (CAC, Payback Period, sales rep productivity) and the product's ability to deliver on the sales promise. A company with strong SLG has a repeatable, scalable sales process with predictable unit economics.
+
+FRAMEWORK & MECHANICS
+
+The SLG framework operates through the "Sales Funnel" stages: Prospecting (identifying and qualifying potential customers), Discovery (understanding the customer's needs and pain points), Demo (demonstrating the product's value in the context of the customer's specific use case), Proposal (presenting pricing, terms, and a business case), Negotiation (addressing objections and finalizing terms), and Close (signing the contract). The framework is supported by the "Sales Playbook": a documented, repeatable process that specifies the target customer profile, the qualification criteria (BANT: Budget, Authority, Need, Timeline), the sales stages and exit criteria for each stage, the scripts and talk tracks, the pricing and packaging, and the objection handling.
+
+The operational mechanism is the "Sales Rep Ramp": the time from a new sales rep starting to achieving full quota productivity. The ramp period includes training (product knowledge, sales process, tools), shadowing (observing experienced reps), supervised selling (selling with a manager's support), and independent selling. The mental model is "SLG is a factory for revenue." The sales organization is a production system with inputs (leads), a process (the sales funnel), and outputs (closed-won deals). The factory's efficiency is measured by the sales rep productivity, the win rate, the average deal size, and the sales cycle length. The decision process: if the sales factory is producing predictable output at a predictable cost (CAC), the company can scale the factory by adding more reps. If the factory is unpredictable -- reps are not hitting quota, win rates are volatile, sales cycles are lengthening -- the company must improve the factory before scaling it.
+
+PRODUCT EVALUATION FRAMEWORK
+
+Healthy SLG execution: a documented sales playbook that is actively used; sales reps achieving quota (above 60% of reps at quota); a predictable ramp time for new reps (under 6 months to full productivity); a win rate above 25% for enterprise; a sales cycle that is stable or shortening; a CAC Payback Period under 24 months for enterprise; strong alignment between the product roadmap and the sales team's needs. Unhealthy SLG execution: no documented sales playbook; fewer than 50% of reps at quota; ramp time above 9 months; win rate below 20%; sales cycle lengthening; CAC Payback above 24 months; a product that consistently fails to deliver on the sales promise, generating churn. PMF indicators in SLG: the win rate against the status quo (customers choosing to do nothing) is the primary PMF signal. Retention indicators: NRR and churn rate for sales-acquired customers. Customer satisfaction indicators: post-sale satisfaction surveys, NPS, and the expansion rate. Product risk indicators: the product gap between the sales promise and the delivered product; feature requests that are consistently promised but not delivered.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Sales Rep Quota Attainment. Above 60% of reps achieving quota is strong; below 40% is concerning. Benchmark 2: Ramp Time. New reps should reach full productivity in under 6 months. Warning threshold: above 9 months. Benchmark 3: Win Rate. Enterprise: 25-40% is strong; below 20% is concerning. Benchmark 4: Average Deal Size (ACV). This should be stable or growing. Warning threshold: declining ACV indicates the sales team is pursuing smaller deals. Benchmark 5: Sales Cycle Length. This should be stable or shortening. Warning threshold: lengthening 20%+ year-over-year. Benchmark 6: CAC Payback Period. Under 18 months for mid-market; under 24 months for enterprise. Warning: above 24 months.
+
+REAL-WORLD EXAMPLE
+
+Salesforce is the definitive SLG company, having built the dominant CRM platform through a world-class enterprise sales organization. Salesforce's SLG model includes: a clear ideal customer profile (segmented by company size and industry), a structured sales process with defined stages, a rigorous rep ramp program (Salesforce Trailhead), and a product that delivers measurable business value. The outcome: Salesforce scaled from  to + in revenue while maintaining predictable growth and a Rule of 40 above 30%. The lesson: Salesforce's SLG success was built on a repeatable sales playbook that could be taught to thousands of reps, not on the heroics of individual salespeople. The product and the sales process were co-designed to deliver value.
+
+COMMON MISTAKES
+
+The first mistake is "Scaling Sales Before PMF": hiring a large sales team before the product is validated, resulting in high churn and wasted CAC. The second mistake is "No Sales Playbook": expecting sales reps to develop their own process rather than providing a documented, repeatable playbook. The third mistake is "Hiring Profile Mismatch": hiring sales reps suited for a different sales motion (e.g., transactional reps for enterprise sales). The fourth mistake is "Product-Sales Disconnect": the product team building features without input from the sales team about what customers need, creating a gap between the sales promise and the product reality. The fifth mistake is "CAC Ignorance": scaling the sales team without measuring the fully loaded CAC and the Payback Period.
+
+COUNTERINTUITIVE INSIGHT
+
+The best sales hires are often not the ones from your largest competitor. Reps from dominant incumbents may have succeeded because of the brand, not because of their sales skill. Reps from slightly smaller companies where they had to sell against the dominant incumbent often have superior skills and grit.
+
+INVESTOR PERSPECTIVE
+
+Positive SLG signals: a documented sales playbook; above 60% of reps at quota; ramp time under 6 months; stable or improving win rate; CAC Payback under 24 months; strong alignment between product and sales. Red flags: no playbook; below 40% at quota; ramp above 9 months; declining win rate; CAC Payback above 24 months; product churn driven by a gap between sales promise and product reality. Due diligence questions: "What percentage of your sales reps are at quota?" "What is the ramp time for a new rep, and how has it trended?" "Show me your sales playbook -- how was it developed, and how often is it updated?" "What is your win rate against the status quo?" "How do you handle product gaps that are identified during the sales process?"
+
+PRODUCT DIAGNOSTICS
+
+Positive Signals: Documented sales playbook; high quota attainment; short ramp time; stable win rate; CAC Payback under 24 months; product-sales alignment. Warning Signals: No playbook; low quota attainment; long ramp time; declining win rate; CAC Payback above 24 months; product-sales disconnect. Critical Thresholds: fewer than 40% of reps at quota; ramp above 12 months; win rate below 15%; CAC Payback above 36 months. Leading Indicators: pipeline generation rate, pipeline coverage, sales rep activity metrics. Lagging Indicators: win rate, quota attainment, CAC Payback. Root Causes of SLG failure: product not ready for enterprise sales, wrong sales hires, no playbook, misaligned pricing. Corrective Actions: develop the sales playbook; retrain the sales team; adjust the ideal customer profile; align product roadmap with sales needs.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate SLG as a go-to-market quality signal. Positive Signals: Documented playbook; high quota attainment; short ramp; stable win rate; CAC Payback under 24 months; product-sales alignment. Warning Signals: No playbook; low quota attainment; long ramp; declining win rate; CAC Payback above 24 months. Scoring Signals: SLG Maturity Score based on: quota attainment (30%), playbook quality (25%), ramp time (20%), win rate (15%), CAC Payback (10%). Risk Indicators: Fewer than 30% of reps at quota; ramp above 12 months; win rate declining 5+ points per quarter. PMF Indicators: Win rate against the status quo. Retention Indicators: NRR for sales-acquired customers. Customer Understanding Indicators: Quality and specificity of the ideal customer profile and the sales qualification criteria.
+
+ACTIONABLE TAKEAWAYS
+
+1. Document your sales playbook: target customer profile, qualification criteria, sales stages, talk tracks, pricing, objection handling. If you cannot document it, it is not repeatable.
+2. Measure sales rep quota attainment monthly. If fewer than 60% of reps are at quota, diagnose whether the problem is the product, the playbook, or the reps.
+3. Track ramp time for new reps. If ramp exceeds 6 months, improve the training program, the shadowing process, or the lead allocation to new reps.
+4. Analyze your win/loss data systematically. For every lost deal, categorize the reason. If the top reason is "price," evaluate whether your pricing is misaligned or your value communication is insufficient.
+5. Align your product roadmap with the sales team's needs. The top 3 product gaps reported by the sales team should be on the product roadmap or explicitly deprioritized with a rationale.
+6. Calculate your CAC Payback Period for sales-acquired customers specifically. If it exceeds 24 months, reduce sales spend or improve sales efficiency.
+7. Implement a deal review process: review every deal above a certain size with the sales rep, the sales manager, and a product representative to ensure the sales promise aligns with product reality.
+8. For investors: Request the sales playbook, quota attainment data, and win/loss analysis. A founder who cannot produce these has not built a repeatable sales engine.
+
+END OF DOCUMENT

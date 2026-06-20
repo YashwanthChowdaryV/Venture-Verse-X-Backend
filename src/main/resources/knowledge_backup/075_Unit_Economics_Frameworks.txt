@@ -1,0 +1,62 @@
+TITLE: Unit Economics Frameworks
+DOCUMENT_ID: 075
+CATEGORY: Metrics & Financial Intelligence
+SUBCATEGORY: Unit Economics
+DIFFICULTY: Advanced
+STAGE: All Stages
+PERSONAS: Founder, Investor, Venture Analyst, CFO
+
+CORE CONCEPT
+
+Unit Economics Frameworks are the integrated set of metrics and analyses that decompose a startup's business model into its atomic economic unit — the customer or the transaction — to determine whether the business creates or destroys value at the unit level. The core framework integrates CAC, LTV, Payback Period, Gross Margin, Contribution Margin, and the LTV/CAC Ratio into a single analytical structure. The core concept is that aggregate financial statements (total revenue, total costs, total profit) conceal the underlying unit dynamics. A company with $10M in revenue and $2M in profit can be destroying value if each customer costs more to acquire than they generate in lifetime gross margin. The failure mode is "Aggregate-Only Thinking": evaluating the business through total revenue growth without understanding whether the unit economics are improving or deteriorating. For investors, unit economics analysis is the foundation of all venture capital diligence. A startup that cannot produce unit economic data — CAC, LTV, Payback Period, Contribution Margin, by cohort and by segment — has not reached the operational maturity required for institutional investment.
+
+FRAMEWORK & MECHANICS
+
+The Unit Economics Frameworks integrate multiple sub-frameworks into a single analytical structure, drawing from David Skok (Matrix Partners), Bill Gurley (Benchmark), and the SaaS Metrics 2.0 community. The framework operates through the "Unit Economic P&L" — a per-customer income statement that tracks revenue, variable costs, contribution margin, and the return on acquisition investment over the customer's lifetime. The Unit Economic P&L structure: Revenue Per Customer (ARPU or ARPA) minus Variable Costs (COGS, hosting, support, payment processing, any cost that scales with customer count) equals Contribution Margin Per Customer. The Contribution Margin Per Customer, aggregated over the customer's lifetime and discounted to present value, equals LTV. The LTV divided by the fully loaded CAC equals the LTV/CAC Ratio. The CAC divided by the Monthly Contribution Margin Per Customer equals the CAC Payback Period (in months).
+
+The operational mechanism is the "Unit Economics Dashboard": a single-page view that tracks the core unit economic metrics (CAC, LTV, LTV/CAC, Payback Period, Contribution Margin, Gross Margin) at the aggregate level, by cohort, and by segment. The dashboard is updated monthly and reviewed at every board meeting. The mental model is "the business is the sum of its units." If the unit economics are healthy and improving, the aggregate business will be healthy. If the unit economics are unhealthy or deteriorating, the aggregate business will eventually reflect that — even if top-line growth masks the problem temporarily. The decision process: if LTV/CAC is below 2:1, the company must either increase LTV (through retention, expansion, or pricing) or reduce CAC (through channel efficiency, organic acquisition, or sales productivity) before scaling growth spend. If LTV/CAC is above 3:1 and the Payback Period is under 12 months, the company has a capital-efficient engine and can consider increasing growth investment.
+
+METRIC INTERPRETATION FRAMEWORK
+
+A healthy unit economic profile: LTV/CAC above 3:1; CAC Payback Period under 12 months (SMB) or under 24 months (enterprise); Contribution Margin above 50% for SaaS; unit economics improving cohort-over-cohort. An unhealthy profile: LTV/CAC below 2:1; Payback Period above 24 months; Contribution Margin below 30% for SaaS; unit economics deteriorating for recent cohorts. Investors interpret unit economics as the definitive evidence of business model viability. A company with strong and improving unit economics has demonstrated that its growth is creating value. A company with weak or deteriorating unit economics has a business model problem that must be resolved, regardless of revenue growth.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: LTV/CAC Ratio. Above 3:1 is healthy for SaaS. Below 2:1 is concerning. Below 1.5:1 is a structural problem. Benchmark 2: CAC Payback Period. Under 12 months for SMB; under 24 months for enterprise. Above 24 months for any segment is concerning. Benchmark 3: Contribution Margin. Above 50% for SaaS; above 30% for marketplaces; above 20% for e-commerce. Below 30% for SaaS indicates a business model that is structurally less profitable than software peers. Benchmark 4: Unit Economics by Cohort. The LTV/CAC and Payback Period should be stable or improving for successive cohorts. Deterioration for 3+ consecutive cohorts is a critical warning. Benchmark 5: Unit Economics by Segment. Unit economics should be tracked by customer segment (SMB, mid-market, enterprise) and by acquisition channel. The segment with the best unit economics is the strategic priority for investment. Benchmark 6: Unit Economics and Growth Rate. A company with strong unit economics and high growth is an exceptional venture investment. A company with strong unit economics and low growth may be underinvesting in growth.
+
+REAL-WORLD EXAMPLE
+
+The unit economics frameworks are best illustrated through the diligence process at firms like Benchmark and Sequoia. When Sequoia evaluated Stripe, the unit economic analysis would have included: CAC (driven by developer-focused organic acquisition, resulting in a low CAC relative to enterprise software peers), LTV (driven by payment volume expansion within each customer and low churn), Contribution Margin (Stripe's take rate minus payment processing costs and infrastructure), Payback Period (short due to low CAC and rapid revenue generation from developer customers), and the cohort trend (later cohorts expanding faster as Stripe added products). The outcome: Sequoia's investment in Stripe at a $100M valuation in 2011 has appreciated to a stake worth billions at Stripe's $95B peak valuation. The lesson: the unit economics validated that Stripe's growth was creating value, not just consuming capital.
+
+COMMON MISTAKES
+
+The first mistake is "Unit Economics Without Cohort Analysis": reporting unit economics as blended averages without the cohort-level trend, masking recent deterioration. The second mistake is "Incomplete CAC": calculating CAC without the fully loaded S&M cost, producing unit economics that appear healthy but are based on incomplete data. The third mistake is "LTV Without Discounting": calculating LTV without discounting future cash flows, overstating the present value of the customer relationship. The fourth mistake is "Unit Economics as a One-Time Exercise": calculating unit economics once for a fundraising pitch without tracking them as operational metrics. The fifth mistake is "Ignoring the Interdependence": treating CAC, LTV, Payback, and Contribution Margin as independent metrics when they are interconnected — improving one often affects the others.
+
+COUNTERINTUITIVE INSIGHT
+
+A company with exceptional unit economics (LTV/CAC above 10:1, Payback under 3 months) that is growing slowly is not a venture-scale opportunity — it is a profitable small business. Venture capital requires both strong unit economics and high growth. The optimal venture profile is LTV/CAC of 3:1 to 5:1 with a Payback under 12 months and a growth rate above 100% at the early stages — efficient enough to generate returns, aggressive enough to capture the market.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: Unit economics calculated with fully loaded CAC and conservative LTV; LTV/CAC above 3:1; Payback under 12 months; unit economics improving cohort-over-cohort; unit economics tracked by segment and channel. Red flags: Unit economics below benchmarks; unit economics deteriorating; incomplete CAC or LTV; no cohort analysis; unit economics calculated only for fundraising. Due diligence questions: "Show me your unit economics by cohort for the last 12 cohorts." "Is your LTV/CAC improving or declining?" "What is your Payback Period by segment?" "How do you calculate your CAC — walk me through the fully loaded cost categories." "If your unit economics deteriorate, what is your plan to restore them?"
+
+FINANCIAL DIAGNOSTICS
+
+Positive Signals: LTV/CAC above 3:1; Payback under 12 months; Contribution Margin above 50% for SaaS; unit economics improving by cohort; segmented analysis. Warning Signals: LTV/CAC below 2:1; Payback above 24 months; Contribution Margin below 30%; unit economics deteriorating; no cohort or segment analysis. Critical Thresholds: LTV/CAC below 1.5:1; Payback above 36 months; unit economics deteriorating for 3+ cohorts. Leading Indicators: CAC trend, churn trend, expansion trend — these drive unit economics. Lagging Indicators: unit economics themselves, which reflect the cumulative effect of go-to-market and product decisions. Root Causes of unit economic deterioration: CAC increasing, churn increasing, expansion declining, pricing pressure, segment mix shift. Corrective Actions: address the specific driver.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate unit economics as the definitive framework for assessing business model viability. Positive Signals: LTV/CAC above 3:1; Payback under 12 months; Contribution Margin above 50%; improving by cohort; segmented; fully loaded CAC and conservative LTV. Warning Signals: LTV/CAC below 2:1; Payback above 24 months; deteriorating by cohort; not segmented; incomplete calculations. Scoring Signals: Unit Economics Health Score based on: LTV/CAC (25%), Payback (25%), Contribution Margin (20%), cohort trend (20%), calculation rigor (10%). Risk Indicators: LTV/CAC below 1.5:1; deteriorating for 3+ cohorts; Payback above 36 months. Growth Indicators: improving unit economics while growth accelerates. Efficiency Indicators: unit economics improving through LTV growth and CAC efficiency.
+
+ACTIONABLE TAKEAWAYS
+
+1. Build a Unit Economics Dashboard tracking CAC, LTV, LTV/CAC, Payback Period, Contribution Margin, and Gross Margin at the aggregate, cohort, and segment levels. Update monthly.
+2. Calculate all unit economic metrics with fully loaded CAC and conservative LTV (discounted, cohort-based). If your metrics are below benchmarks using conservative assumptions, you have a unit economic problem.
+3. Track unit economics by cohort: for each monthly or quarterly acquisition cohort, calculate the LTV/CAC and Payback Period. A deteriorating trend for recent cohorts is a critical warning.
+4. Track unit economics by segment (SMB, mid-market, enterprise) and by acquisition channel. Allocate growth capital to the segments and channels with the best unit economics.
+5. If LTV/CAC is below 2:1, prioritize unit economic improvement over growth investment. More customers with negative unit economics will destroy more value.
+6. Model the relationship between unit economics and cash runway. Improving unit economics (shorter payback, higher LTV/CAC) reduces the capital required to grow.
+7. Report the Unit Economics Dashboard to the board monthly. The unit economics trend is the most important operational data in the company.
+8. For investors: Request the cohort-level unit economics as the primary diligence item. A founder who cannot produce this data has not been managing the business with the required financial rigor.
+
+END OF DOCUMENT

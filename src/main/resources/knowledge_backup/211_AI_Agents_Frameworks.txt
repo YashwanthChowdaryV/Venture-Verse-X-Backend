@@ -1,0 +1,235 @@
+﻿TITLE: AI Agents Frameworks
+
+DOCUMENT_ID: 211
+
+CATEGORY: AI Startup Intelligence
+
+SUBCATEGORY: AI Agents
+
+DIFFICULTY: Advanced
+
+STAGE: Seed to Growth
+
+PERSONAS: Founder, Investor, AI Operator
+
+CORE CONCEPT
+
+AI Agents are autonomous software systems capable of planning, reasoning, executing actions, and interacting with tools to achieve objectives. Unlike traditional AI applications that generate responses, agents perform tasks. The primary evaluation signal is not autonomy itself but whether autonomous execution creates measurable business value. Investors increasingly differentiate between true agentic systems and simple workflow automations. Successful AI agent startups reduce human labor, increase productivity, and integrate deeply into operational workflows. Failed startups frequently overestimate agent reliability or underestimate supervision requirements. The most important question is whether agents create durable operational advantages that improve as models and tooling evolve.
+
+AI STARTUP FRAMEWORK & MECHANICS
+
+The Agentic Systems Framework contains five components.
+
+Reasoning Layer:
+Planning and decision making.
+
+Memory Layer:
+Short-term and long-term context.
+
+Tool Layer:
+External actions and integrations.
+
+Execution Layer:
+Task completion.
+
+Feedback Layer:
+Learning and improvement.
+
+A useful mental model is Human Labor Replacement Value.
+
+Agent Value = Work Automated x Reliability x Frequency.
+
+The strongest agents automate recurring workflows with clear economic value.
+
+Strategically, AI agents become more valuable when integrated into systems of record and operational processes.
+
+Agent businesses should focus on measurable outcomes rather than autonomous behavior alone.
+
+AI EVALUATION FRAMEWORK
+
+Agent startups should be evaluated across seven dimensions.
+
+Task Reliability:
+Accuracy and consistency.
+
+Workflow Integration:
+Operational importance.
+
+Economic Impact:
+Cost savings or revenue generation.
+
+Scalability:
+Ability to support large workloads.
+
+Model Dependency:
+Reliance on external providers.
+
+Data Advantage:
+Improvement through usage.
+
+Autonomy Value:
+Reduction in human intervention.
+
+Strong agents generate repeatable business outcomes. Weak agents create impressive demonstrations but limited operational value.
+
+KEY METRICS & BENCHMARKS
+
+Task Success Rate:
+Healthy: Above 90%
+
+Human Intervention Rate:
+Healthy: Below 10%
+
+Customer Retention:
+Healthy: Above 90%
+
+Cost Reduction:
+Healthy: Above 30%
+
+Execution Latency:
+Healthy: Below 5 Seconds
+
+Expansion Revenue:
+Healthy: Above 110% NRR
+
+Agent Accuracy:
+Healthy: Above 95%
+
+These metrics determine whether agents create sustainable business value.
+
+ECONOMIC & MOAT ANALYSIS
+
+Data moats improve agent performance.
+
+Workflow moats emerge when agents become embedded in daily operations.
+
+Distribution moats reduce acquisition costs.
+
+Platform moats develop when agents orchestrate multiple systems.
+
+Model commoditization often benefits agent businesses because better models increase reliability.
+
+Margin durability depends on reducing supervision costs.
+
+The strongest agent companies own operational workflows rather than model capabilities.
+
+REAL-WORLD EXAMPLE
+
+Harvey demonstrates the agentic approach within legal workflows.
+
+Rather than building a general-purpose assistant, Harvey focuses on legal research, drafting, and analysis.
+
+Its differentiation comes from legal workflow integration and domain specialization.
+
+As foundation models improve, Harvey benefits without rebuilding its product.
+
+The investor lesson is that vertical agents often outperform generic assistants because they own valuable workflows.
+
+COMMON MISTAKES
+
+Many founders prioritize autonomy over reliability.
+
+Others ignore workflow integration.
+
+Some underestimate supervision requirements.
+
+Many fail to measure economic impact.
+
+Investors identify these weaknesses through retention and adoption metrics.
+
+COUNTERINTUITIVE INSIGHT
+
+The best AI agents are often less autonomous than founders expect. Reliability creates more value than maximum autonomy.
+
+INVESTOR PERSPECTIVE
+
+Positive signals include workflow ownership, measurable productivity gains, strong retention, and improving reliability.
+
+Red flags include low task completion rates, weak adoption, and excessive supervision requirements.
+
+Key diligence questions include:
+
+What task is automated?
+
+How much labor is removed?
+
+How reliable is execution?
+
+Required evidence includes workflow metrics, cost savings data, and customer retention.
+
+AI STARTUP DIAGNOSTICS
+
+Positive Signals:
+Reliable execution
+Workflow integration
+
+Warning Signals:
+Low accuracy
+High supervision
+
+Leading Indicators:
+Usage growth
+Task completion
+
+Lagging Indicators:
+Revenue growth
+Retention
+
+Model Risk:
+Provider dependency
+
+Economic Risk:
+Labor replacement failure
+
+Competitive Risk:
+Workflow replication
+
+Platform Risk:
+Integration dependency
+
+VENTUREVERSE EVALUATION SIGNALS
+
+Positive Signals:
+High reliability
+Workflow ownership
+
+Warning Signals:
+Agent hallucinations
+
+Scoring Signals:
+Reliability Score
+Economics Score
+Workflow Score
+Moat Score
+
+AI Differentiation Indicators:
+Autonomous execution
+
+Distribution Indicators:
+Enterprise adoption
+
+Data Advantage Indicators:
+Performance learning
+
+Margin Indicators:
+Automation efficiency
+
+Risk Indicators:
+Failure rates
+
+Category Leadership Indicators:
+Workflow penetration
+Task success
+
+ACTIONABLE TAKEAWAYS
+
+1. Measure task success rates weekly.
+2. Prioritize reliability over autonomy.
+3. Integrate deeply into workflows.
+4. Reduce human intervention.
+5. Track labor replacement value.
+6. Improve feedback loops.
+7. Benchmark agent accuracy continuously.
+8. Focus on operational outcomes.
+
+END OF DOCUMENT

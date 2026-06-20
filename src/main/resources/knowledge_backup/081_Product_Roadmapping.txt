@@ -1,0 +1,62 @@
+﻿TITLE: Product Roadmapping
+DOCUMENT_ID: 081
+CATEGORY: Product & Customer Intelligence
+SUBCATEGORY: Product Strategy
+DIFFICULTY: Intermediate
+STAGE: All Stages
+PERSONAS: Founder, Product Manager, Investor
+
+CORE CONCEPT
+
+Product roadmapping is the process of defining, communicating, and maintaining the strategic plan for a product's evolution over time. A product roadmap is not a feature list or a project plan; it is a strategic document that communicates the problems the product will solve, the outcomes it will drive, and the rationale for prioritizing certain investments over others. The core concept is that a roadmap is a communication and alignment tool, not a delivery schedule. It aligns the product team, the executive team, the sales team, the customer success team, and investors on the product's strategic direction. The failure mode is "Roadmap as Feature List": creating a timeline of specific features with estimated delivery dates, which creates a fixed-scope, fixed-timeline commitment that eliminates the flexibility to respond to new information. For investors, a startup's roadmap is a window into the founder's strategic thinking. A roadmap organized around customer problems and business outcomes signals strategic maturity. A roadmap organized around competitor feature parity signals reactive thinking.
+
+FRAMEWORK & MECHANICS
+
+The product roadmapping framework, influenced by the work of Marty Cagan (SVPG) and Bruce McCarthy ("Product Roadmaps Relaunched"), operates through the "Theme-Based Roadmap." Instead of listing specific features with dates, the theme-based roadmap organizes product investments around strategic themes -- high-level customer problems or business outcomes -- with a time horizon of "Now," "Next," and "Later." The Now column contains themes that are currently in development. The Next column contains themes that are next in priority, with discovery underway. The Later column contains themes that are prioritized for the future but not yet resourced.
+
+The operational mechanism is the "Roadmap as a Portfolio": the roadmap allocates investment across a portfolio of product bets, balancing different types of investment. The standard portfolio allocation (from Cagan and SVPG) is: 50-60% on the core product (improving the existing experience for existing customers), 20-30% on growth (new features to acquire and activate new customers or segments), and 10-20% on innovation (bets on new products or markets). The mental model is "the roadmap is a statement of strategy, not a delivery commitment." It communicates what the product team believes is important and why, not what will be delivered on what date. The decision process: the roadmap is reviewed and updated at least quarterly, with input from customers, the sales team, the customer success team, the executive team, and the product team's own strategic judgment.
+
+PRODUCT EVALUATION FRAMEWORK
+
+Healthy roadmapping execution: a theme-based roadmap organized around customer problems and business outcomes; a clear portfolio allocation across core, growth, and innovation; the roadmap is updated at least quarterly; the roadmap is informed by customer research, data analysis, and strategic priorities; the roadmap is accessible to the entire company; features are linked to the specific problems they solve and the metrics they are expected to move. Unhealthy execution: a feature-list roadmap with delivery dates; the roadmap is driven entirely by sales requests or competitor features; the roadmap is updated less than quarterly; the roadmap is a secret document known only to the product team; features are listed without rationale or expected outcomes. PMF indicators in roadmapping: the roadmap is focused on deepening value for the high-PMF segment rather than expanding to new segments prematurely. Retention indicators: the roadmap allocates sufficient investment to the core product to maintain and improve retention. Customer satisfaction indicators: the roadmap includes customer-requested improvements that are validated by data. Product risk indicators: the roadmap allocates insufficient investment to innovation; the roadmap is overwhelmed by reactive requests.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Roadmap Portfolio Allocation. Core: 50-60% of investment. Growth: 20-30%. Innovation: 10-20%. Warning threshold: less than 10% on innovation indicates underinvestment in the future. Benchmark 2: Roadmap Update Frequency. At least quarterly. Warning threshold: roadmap unchanged for 6+ months. Benchmark 3: Roadmap Outcome Linkage. At least 80% of roadmap items should be linked to a specific expected outcome or metric. Warning threshold: items listed without expected outcomes. Benchmark 4: Roadmap Accessibility. The roadmap should be accessible to the entire company. Warning threshold: roadmap visible only to the product team. Benchmark 5: Customer-Informed Items. At least 50% of roadmap items should be directly informed by customer research or feedback. Warning threshold: items driven primarily by competitor features or internal opinion. Benchmark 6: Roadmap Stability. The Now column should be relatively stable within a quarter. The Next and Later columns can and should evolve. Warning threshold: the Now column changes more than once per quarter.
+
+REAL-WORLD EXAMPLE
+
+Notion's product roadmap illustrates theme-based roadmapping at scale. Notion's roadmap is publicly accessible and organized around themes: "Currently Working On," "Up Next," and "Later." The roadmap communicates the problem each initiative addresses and the expected outcome, without specific delivery dates. This approach aligns Notion's large user community with the product direction, manages expectations, and invites feedback. The outcome: Notion has maintained a strong product cadence while scaling to millions of users and a  valuation. The lesson: Notion's public roadmap is a strategic communication tool that builds trust with users and aligns the organization.
+
+COMMON MISTAKES
+
+The first mistake is "Feature-List Roadmap": presenting a list of features with delivery dates, creating a fixed commitment that eliminates flexibility. The second mistake is "Sales-Driven Roadmap": allowing the sales team to dictate the roadmap based on the features requested in the last 5 deals, resulting in a reactive product strategy. The third mistake is "Roadmap as Secret": keeping the roadmap confidential, missing the opportunity to align the organization and manage expectations. The fourth mistake is "No Portfolio Balance": allocating 100% of investment to the core product or to growth, neglecting innovation or product quality. The fifth mistake is "Roadmap Without Outcomes": listing features without specifying the problem they solve or the metric they are expected to move.
+
+COUNTERINTUITIVE INSIGHT
+
+A public roadmap is often less risky than a private one. When customers can see what is planned, they can provide feedback that corrects course before resources are invested. When customers cannot see the roadmap, they assume the product is stagnant or that their needs are being ignored. The transparency builds trust.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: a theme-based roadmap organized around customer problems; a clear portfolio allocation; roadmap updated quarterly; roadmap informed by customer research; roadmap accessible to the company. Red flags: a feature-list roadmap with dates; roadmap driven entirely by sales or competitor requests; roadmap unchanged for 6+ months; roadmap secret or nonexistent. Due diligence questions: "Show me your product roadmap -- walk me through the themes and the rationale." "How is your roadmap informed by customer research?" "What is your portfolio allocation across core, growth, and innovation?" "How often do you update the roadmap, and who provides input?" "How do you handle requests from the sales team for features that are not on the roadmap?"
+
+PRODUCT DIAGNOSTICS
+
+Positive Signals: Theme-based roadmap; clear portfolio allocation; updated quarterly; informed by research; accessible; outcome-linked items. Warning Signals: Feature-list roadmap; sales-driven; outdated; secret; items without outcomes. Critical Thresholds: No roadmap or a roadmap unchanged for 12+ months. Leading Indicators: customer research findings, sales feedback themes, competitive intelligence. Lagging Indicators: product delivery cadence, customer satisfaction, retention. Root Causes of roadmap dysfunction: no product strategy, reactive culture, sales dominance, insufficient customer research. Corrective Actions: adopt a theme-based roadmap format; implement a quarterly roadmap review; establish a portfolio allocation; link items to outcomes.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate product roadmapping as a signal of strategic product thinking. Positive Signals: Theme-based roadmap; clear portfolio allocation; updated quarterly; research-informed; accessible. Warning Signals: Feature-list roadmap; sales-driven; outdated; secret; items without outcomes. Scoring Signals: Roadmap Maturity Score based on: theme-based structure (30%), portfolio balance (25%), update frequency (25%), outcome linkage (20%). Risk Indicators: No roadmap; roadmap unchanged for 12+ months; 100% of investment on core with zero innovation. PMF Indicators: Roadmap focused on the high-PMF segment. Retention Indicators: Roadmap allocates sufficient investment to core product quality. Customer Understanding Indicators: Roadmap items linked to specific customer problems identified through research.
+
+ACTIONABLE TAKEAWAYS
+
+1. Convert your roadmap to a theme-based format: organize items around customer problems and business outcomes with "Now," "Next," and "Later" columns. Remove specific delivery dates.
+2. Establish a portfolio allocation: aim for 50-60% core, 20-30% growth, 10-20% innovation. Adjust based on your stage and strategy.
+3. Implement a quarterly roadmap review: the product team presents the roadmap to the executive team, the sales team, and the customer success team. Collect input, make decisions, update.
+4. For every roadmap item, document the problem it solves, the expected outcome, and the metric it is expected to move. If you cannot articulate these, the item is not ready for the roadmap.
+5. Make the roadmap accessible to the entire company. Use a tool like Notion, Coda, or Productboard that allows everyone to view the current roadmap.
+6. Do not commit to delivery dates for items in the Next and Later columns. These are intentions, not commitments. Only the Now column should have a level of certainty.
+7. When the sales team requests a feature that is not on the roadmap, do not say "no." Say "we will evaluate that against our current priorities and get back to you with a decision and rationale."
+8. For investors: Request the product roadmap and the process for updating it. A founder who cannot produce a current roadmap has not institutionalized product strategy.
+
+END OF DOCUMENT

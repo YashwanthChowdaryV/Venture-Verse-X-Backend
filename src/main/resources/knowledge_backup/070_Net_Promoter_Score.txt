@@ -1,0 +1,62 @@
+TITLE: Net Promoter Score
+DOCUMENT_ID: 070
+CATEGORY: Metrics & Financial Intelligence
+SUBCATEGORY: Customer Satisfaction
+DIFFICULTY: Intermediate
+STAGE: All Stages
+PERSONAS: Founder, Investor, Venture Analyst, CFO
+
+CORE CONCEPT
+
+Net Promoter Score (NPS) is a customer loyalty metric based on a single survey question: "How likely are you to recommend [product/company] to a friend or colleague?" on a 0-10 scale. The formula: NPS = % of Promoters (score 9-10) - % of Detractors (score 0-6). Passives (score 7-8) are excluded from the calculation. NPS ranges from -100 (all Detractors) to +100 (all Promoters). The core concept is that NPS measures the customer's willingness to put their own reputation on the line to recommend the product — the strongest possible signal of customer satisfaction. The failure mode is "NPS as a Vanity Metric": collecting NPS data without acting on it, celebrating a high score without investigating the Detractors, or using NPS as a proxy for product-market fit without the more rigorous Sean Ellis PMF survey. For investors, NPS is a useful but limited metric. A high NPS (above 50) is a positive signal; a low or declining NPS is a warning signal. However, NPS is not a substitute for retention data, cohort analysis, or revenue metrics.
+
+FRAMEWORK & MECHANICS
+
+The NPS framework was developed by Fred Reichheld, Bain & Company, and Satmetrix in 2003. The framework operates with a single survey question and a standardized methodology. Respondents are segmented into three categories: Promoters (score 9-10) — loyal enthusiasts who will fuel growth through word-of-mouth; Passives (score 7-8) — satisfied but unenthusiastic customers who are vulnerable to competitive offerings; Detractors (score 0-6) — unhappy customers who can damage the brand through negative word-of-mouth. The NPS formula subtracts the percentage of Detractors from the percentage of Promoters.
+
+The operational mechanism is the "NPS Closed Loop": the survey is administered, responses are collected, Detractors are followed up with individually (the "closed loop" process) to understand their dissatisfaction and resolve issues, and the feedback is aggregated to identify systemic improvements. The mental model is "NPS is a customer listening system, not a score." The value of NPS is not the number; it is the process of collecting feedback, understanding dissatisfaction, and improving the product. The decision process: if NPS is declining, the company must analyze the Detractor feedback to identify the root causes of dissatisfaction. If NPS is high but the company's retention or growth metrics are weak, NPS may be inflated by a biased sample (surveying only active users, not churned users).
+
+METRIC INTERPRETATION FRAMEWORK
+
+A healthy NPS: above 50 is excellent; 30-50 is good; 0-30 is acceptable; below 0 is concerning. NPS should be stable or improving. A declining NPS is a leading indicator of future retention problems. However, NPS benchmarks vary significantly by industry. Consumer software tends to have higher NPS than B2B enterprise software. NPS should be compared to the company's own historical trend and to direct competitors, not to cross-industry benchmarks. Investors interpret NPS as a supplementary signal. A high NPS combined with strong retention is a positive confirmation. A high NPS with weak retention suggests the survey sample is biased or the product has a vocal fan base but broad dissatisfaction. Founders should react to NPS feedback by prioritizing the issues raised by Detractors and by tracking the relationship between NPS and actual retention behavior.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: NPS Absolute Level. Above 50: excellent. 30-50: good. 0-30: acceptable. Below 0: concerning. Warning threshold: NPS below 0. Benchmark 2: NPS Trend. NPS should be stable or improving. A declining NPS of 10+ points over 2 quarters is a warning signal. Benchmark 3: Survey Response Rate. The percentage of surveyed customers who respond. Above 20% is strong; below 10% may indicate a biased sample. Warning threshold: response rate below 5% — the NPS may not represent the customer base. Benchmark 4: NPS by Segment. NPS should be segmented by customer size, tenure, and product usage. Detractors in the enterprise segment are more concerning than Detractors in the SMB segment. Benchmark 5: NPS and Retention Correlation. The company should measure whether Promoters actually have lower churn and Detractors have higher churn. If there is no correlation, NPS is not measuring loyalty that drives behavior. Benchmark 6: NPS and Expansion. Promoters should have higher expansion rates than Passives and Detractors. If not, NPS is not measuring the advocacy that drives revenue.
+
+REAL-WORLD EXAMPLE
+
+Apple's NPS has consistently been among the highest in consumer technology, with NPS scores in the 70s for its core products. Apple's high NPS is driven by a combination of product quality, brand loyalty, and the ecosystem lock-in that makes customers advocates. The outcome: Apple's high NPS has translated into strong customer retention, premium pricing power, and a market cap above $2T. The lesson: Apple's NPS is not just a survey score; it is the output of a systemic investment in product quality, customer experience, and brand. The NPS validates that investment; it is not a substitute for it.
+
+COMMON MISTAKES
+
+The first mistake is "NPS Without Closed Loop": collecting NPS data without following up with Detractors, missing the opportunity to resolve issues and learn from dissatisfaction. The second mistake is "NPS Biased Sample": surveying only active users or recent purchasers, producing an NPS that is inflated relative to the full customer base. The third mistake is "NPS as the Only Customer Metric": relying on NPS as the sole measure of customer satisfaction without retention, churn, and expansion metrics. The fourth mistake is "NPS Gaming": encouraging customers to give high scores or only surveying customers who are known to be satisfied. The fifth mistake is "NPS Confusion with PMF": using NPS as a substitute for the Sean Ellis Product-Market Fit survey ("How would you feel if you could no longer use the product?"). NPS measures recommend likelihood; PMF measures product essentiality.
+
+COUNTERINTUITIVE INSIGHT
+
+A very high NPS (above 80) can be a warning signal if it is driven by a small, passionate user base that is not representative of the target market. The company may be optimizing for a niche of enthusiasts while failing to serve the broader market. NPS must be evaluated alongside the size and growth of the user base, not in isolation.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: NPS above 50; NPS stable or improving; NPS correlated with retention and expansion; Detractor feedback acted upon; survey response rate above 20%. Red flags: NPS below 0; NPS declining; NPS not correlated with retention; no closed-loop process; survey response rate below 5%. Due diligence questions: "What is your NPS, and how do you administer the survey?" "How has your NPS trended, and what drives the trend?" "Do your Promoters actually have lower churn and higher expansion than your Detractors?" "How do you follow up with Detractors?" "What is your survey response rate, and who do you survey?"
+
+FINANCIAL DIAGNOSTICS
+
+Positive Signals: NPS above 50; stable or improving; correlated with retention and expansion; closed-loop process; adequate response rate. Warning Signals: NPS below 0; declining; not correlated with retention; no closed-loop; low response rate. Critical Thresholds: NPS below -10; NPS declining 20+ points over 2 quarters. Leading Indicators: Detractor feedback themes — these precede churn. Lagging Indicators: churn, which reflects the accumulated dissatisfaction measured by NPS. Root Causes of NPS decline: product quality issues, customer support failures, pricing changes, competitive entry. Corrective Actions: address the specific issues raised by Detractors; improve product quality; invest in customer support; communicate pricing changes more effectively.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate NPS as a supplementary customer satisfaction metric. Positive Signals: NPS above 50; stable or improving; correlated with retention; closed-loop process; adequate response rate. Warning Signals: NPS below 0; declining; not correlated with retention; no closed-loop; low response rate. Scoring Signals: NPS Health Score based on: absolute level (30%), trend (25%), retention correlation (25%), closed-loop process (20%). Risk Indicators: NPS below -10; declining 20+ points; no correlation with retention. Growth Indicators: NPS stable or improving while customer base grows. Efficiency Indicators: Promoters having lower CAC (through referrals) than other customer segments.
+
+ACTIONABLE TAKEAWAYS
+
+1. Implement an NPS survey with the standard question: "How likely are you to recommend [product] to a friend or colleague?" on a 0-10 scale. Survey a representative sample of your customer base.
+2. Implement a closed-loop process: follow up with every Detractor within 48 hours to understand their dissatisfaction and attempt to resolve the issue.
+3. Track the correlation between NPS and actual retention behavior. If Promoters do not have lower churn than Detractors, NPS is not measuring loyalty that drives behavior.
+4. Segment NPS by customer size, tenure, and product usage. The Detractor feedback from enterprise customers is more actionable than from SMB customers.
+5. Do not use NPS as a substitute for the Sean Ellis PMF survey or for retention cohort analysis. NPS is one signal among many.
+6. Report NPS to your board quarterly alongside the Detractor feedback themes and the actions taken to address them.
+7. If your survey response rate is below 10%, investigate whether the survey is reaching a representative sample and whether survey fatigue is suppressing responses.
+8. For investors: Request the NPS trend and the correlation between NPS and retention. A company with high NPS but poor retention has either a biased survey or a product that is liked but not essential.
+
+END OF DOCUMENT

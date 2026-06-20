@@ -1,0 +1,66 @@
+﻿TITLE: Decision Frameworks
+DOCUMENT_ID: 157
+CATEGORY: Team, Operations & Organizational Intelligence
+SUBCATEGORY: Operations
+DIFFICULTY: Intermediate
+STAGE: All Stages
+PERSONAS: Founder, Operator, Investor
+
+CORE CONCEPT
+
+Decision Frameworks are the structured processes and principles that organizations use to make decisions consistently, efficiently, and at scale. The core concept is that decision-making is the fundamental activity of an organization. Every product decision, hiring decision, strategic decision, and resource allocation decision either moves the company forward or holds it back. The failure mode is "Decision by Default": decisions are made without a clear process, by whoever happens to be in the room, based on the loudest voice or the highest-paid person's opinion (HIPPO). For investors, a startup's decision-making capability is a direct measure of organizational competence. A company that makes good decisions quickly has a compounding advantage; a company that makes slow, poor decisions will be out-executed.
+
+FRAMEWORK & MECHANICS
+
+The Decision Frameworks framework integrates the RAPID model (Bain & Company) with the Amazon "Type 1 / Type 2" framework (Jeff Bezos) and the "Disagree and Commit" principle. The RAPID model assigns five roles for each decision category: Recommend (the person who develops the proposal), Agree (the person who must approve the recommendation; has veto power), Perform (the person who will execute the decision), Input (people whose input is sought before the recommendation), and Decide (the single person who makes the final decision). Bezos's framework classifies decisions as Type 1 (one-way doors -- consequential, irreversible decisions that require deep analysis) or Type 2 (two-way doors -- reversible decisions that can be made quickly). "Disagree and Commit" is the principle that once a decision is made after input and debate, every team member commits to execution regardless of their personal view.
+
+The operational mechanism is the "Decision Rights Matrix": the company identifies the key decision categories, assigns the RAPID roles for each, and documents the matrix. The mental model is "decision velocity is a competitive advantage." A company that makes decisions faster than its competitors has a structural speed advantage. The decision process: the company classifies the decision (Type 1 or Type 2), applies the RAPID process (Type 1) or empowers the individual closest to the information (Type 2), sets a deadline, and commits to execution.
+
+ORGANIZATIONAL EVALUATION FRAMEWORK
+
+Healthy decision-making: a documented Decision Rights Matrix; decisions are classified by type and process; the Decide role is explicitly assigned to a single person; decision velocity is high (Type 2 decisions under 24 hours); the organization practices "Disagree and Commit." Unhealthy: no documented decision process; decisions are made by whoever is in the room; the Decide role is ambiguous; decision velocity is low; decisions are re-litigated after they are made. Execution quality indicators: decision velocity, decision quality (percentage of decisions that are later reversed or regretted), decision escalation rate. Leadership quality indicators: the clarity of decision rights, the willingness to commit after disagreement. Organizational maturity indicators: the evolution from founder-makes-all-decisions to distributed decision-making.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Decision Velocity. Type 2 decisions should be made within 24-72 hours. Type 1 decisions should be made within 1-4 weeks. Warning: Type 2 decisions taking more than 1 week. Benchmark 2: Decision Rights Clarity. Above 80% of employees can articulate who makes which decisions in their area. Warning: below 50%. Benchmark 3: Decision Escalation Rate. The percentage of decisions that reach the CEO. Should decline as the company scales. Below 20% at 100+ employees is healthy. Warning: above 40%. Benchmark 4: Decision Reversal Rate. The percentage of decisions that are reversed within 6 months. 10-20% is healthy (indicates willingness to correct course). Warning: above 30% (poor decision quality) or below 5% (unwillingness to admit mistakes). Benchmark 5: Meeting Decision Rate. The percentage of meetings that produce a decision, not just discussion. Above 80% is strong. Warning: below 50%. Benchmark 6: Post-Decision Commitment. The percentage of team members who commit to execution after a decision, even if they disagreed. Above 90% is strong.
+
+OPERATING MODEL IMPLICATIONS
+
+Decision frameworks directly determine how the organization operates. A company with clear decision rights and fast decision velocity can respond to market changes, competitive moves, and internal challenges faster than competitors. The leadership implication: the CEO must be the architect of the decision system, not the decision-maker for every decision. The team implication: teams with clear decision rights have higher autonomy, engagement, and velocity. The governance implication: the board should monitor decision quality and velocity as indicators of organizational health. The scalability implication: the founder-makes-all-decisions model breaks at approximately 50 employees. The company must transition to distributed decision-making before this point. The execution implication: execution velocity is a function of decision velocity. Slow decisions create slow execution.
+
+REAL-WORLD EXAMPLE
+
+Amazon's decision-making culture, defined by Jeff Bezos's 2015 shareholder letter, is a benchmark for decision frameworks. Amazon distinguishes between Type 1 decisions (one-way doors) and Type 2 decisions (two-way doors), empowers individuals to make Type 2 decisions without escalation, and practices "Disagree and Commit." The outcome: Amazon's decision culture has enabled it to move faster than competitors, enter new markets aggressively, and sustain innovation at massive scale, achieving a market cap above one trillion dollars. The investor lesson: Amazon's decision framework is not a process document; it is a cultural operating system that enables speed at scale.
+
+COMMON MISTAKES
+
+The first mistake is "CEO as Default Decide": the CEO retaining all decision rights, creating a bottleneck. The second mistake is "Consensus Requirement": requiring everyone to agree before a decision is made, conflating Input with Agree. The third mistake is "Decision Drift": decisions that are made but not documented, communicated, or tracked. The fourth mistake is "Type Confusion": treating Type 2 decisions with Type 1 analysis rigor. The fifth mistake is "No Post-Decision Commitment": allowing team members to sabotage decisions they disagreed with.
+
+COUNTERINTUITIVE INSIGHT
+
+The fastest decision-makers are not the ones who process information fastest but the ones who know what information is not needed. A leader who can say "we have enough data to make this decision; additional data would not change the answer" demonstrates decision maturity. The skill is identifying the point of diminishing information returns.
+
+INVESTOR PERSPECTIVE
+
+Positive decision signals: documented Decision Rights Matrix; Type 1/Type 2 classification; fast decision velocity; clear Decide roles; Disagree and Commit practice. Red flags: no decision process; CEO makes all decisions; slow velocity; ambiguous roles; decisions re-litigated. Due diligence questions: "How do you make decisions in your organization?" "What is your Decision Rights Matrix?" "How do you distinguish between reversible and irreversible decisions?" "What is the average time to make a significant product decision?" "How do you handle disagreement after a decision is made?"
+
+OPERATIONAL DIAGNOSTICS
+
+Positive Signals: Documented matrix; Type classification; fast velocity; clear roles; Disagree and Commit. Warning Signals: No process; CEO bottleneck; slow velocity; ambiguous roles; re-litigation. Critical Thresholds: Decision rights clarity below 50%; escalation rate above 40%; reversal rate above 30%. Leading Indicators: decision velocity, escalation rate, meeting decision rate. Lagging Indicators: decision quality, organizational velocity, employee engagement. Root Causes of decision failure: no framework, CEO bottleneck, consensus culture, poor documentation. Corrective Actions: implement RAPID; classify decisions; delegate Type 2; document decisions.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate decision frameworks as the organizational operating system. Positive Signals: Documented matrix; Type classification; fast velocity; clear roles; Disagree and Commit. Warning Signals: No process; CEO bottleneck; slow velocity; ambiguous roles. Scoring Signals: Decision Score based on: rights clarity (25%), velocity (25%), Type classification (25%), commitment practice (25%). Risk Indicators: Rights clarity below 50%; escalation above 40%; reversal above 30%. Leadership Indicators: CEO delegation of decisions. Execution Indicators: Decision velocity; organizational speed. Talent Indicators: Employee autonomy and engagement. Governance Indicators: Board monitoring of decision quality. Operational Maturity Indicators: Distributed decision-making.
+
+ACTIONABLE TAKEAWAYS
+
+1. Build a Decision Rights Matrix: identify the key decision categories in your company and assign the RAPID roles for each.
+2. Classify decisions as Type 1 (irreversible) or Type 2 (reversible). Push Type 2 decisions to the lowest possible level.
+3. Set decision deadlines. A decision without a deadline will drift. Type 2 decisions should have a default 24-hour deadline.
+4. Practice Disagree and Commit. Once a decision is made, every team member must commit to execution.
+5. Document decisions and their rationale. A decision log prevents re-litigation and enables learning.
+6. Measure decision velocity and escalation rate. If the CEO is the Decide for more than 20% of decisions, the organization is bottlenecked.
+7. Kill consensus culture. Input is valuable; consensus is not required. The Decide role makes the decision.
+8. For investors: Request the Decision Rights Matrix and the decision velocity data. A founder who cannot articulate how decisions are made has not built a decision system.
+
+END OF DOCUMENT

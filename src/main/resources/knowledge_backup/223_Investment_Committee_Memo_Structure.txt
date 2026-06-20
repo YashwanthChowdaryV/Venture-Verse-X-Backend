@@ -1,0 +1,66 @@
+﻿TITLE: Investment Committee Memo Structure
+DOCUMENT_ID: 223
+CATEGORY: Venture Capital Due Diligence & Investment Intelligence
+SUBCATEGORY: Investment Process
+DIFFICULTY: Advanced
+STAGE: All Stages
+PERSONAS: Investor, Venture Analyst, Investment Partner
+
+CORE CONCEPT
+
+An Investment Committee Memo is the formal document that presents an investment opportunity to a venture capital firm's partnership for a decision. The core concept is that the memo is not a summary of diligence; it is an argument for (or against) investment. It must present the evidence, analyze the risks, and make a clear recommendation. The failure mode for investment memos is "Memo as Report": presenting a comprehensive description of the company without a clear analytical framework, a recommendation, or an honest assessment of risks. For investors, the investment memo is the most important document in the investment process. It forces the sponsor to articulate the thesis, it provides the partnership with the information needed to make a decision, and it becomes the institutional record of why the investment was made.
+
+INVESTMENT FRAMEWORK & MECHANICS
+
+The Investment Memo framework, synthesized from the practices of Sequoia, Benchmark, and a16z, operates through a standard structure. Executive Summary (one page -- what the company does, the investment thesis, the recommendation, the key terms), Founder and Team (who the founders are, why they are exceptional, what the team looks like, what references say), Market and Opportunity (the TAM, the market structure, the timing, why this market is attractive), Product and Technology (what the product does, why it is differentiated, what the technology moat is), Traction and Metrics (the key metrics, the trends, the evidence of product-market fit and go-to-market efficiency), Competition and Defensibility (who the competitors are, why the company wins, what the moats are), Financials and Unit Economics (the revenue, the burn, the unit economics, the runway), Risks and Mitigants (the key risks, the probability and severity of each, the mitigation strategies), Return Analysis (the expected return, the scenarios, the portfolio fit), and Recommendation (invest or pass, at what terms, with what conviction).
+
+The operational mechanism is the "Memo as Decision Tool": the memo is structured so that a partner can read it in 15-20 minutes and have the information needed to vote. The mental model is "the memo is the sponsor's best argument for investment." If the sponsor cannot make a compelling case in the memo, the investment should not be made. The decision process: the sponsor writes the memo, circulates it to the partnership before the IC meeting, presents the investment at the meeting, and the partnership votes.
+
+DUE DILIGENCE FRAMEWORK
+
+The memo must be supported by rigorous diligence. The evidence required includes: founder references (8-15 calls summarized in the memo), customer references (5-10 calls with customers, including some who churned), market analysis (bottom-up TAM, market growth rate, competitive landscape), product and technology assessment (technical diligence if applicable, product demo, architecture review), financial analysis (historical financials, unit economics, projections with assumptions), and legal diligence (cap table, IP assignments, material contracts). The memo must clearly state what diligence was conducted, what was found, and what gaps remain. Conviction-building signals for the memo: consistent evidence across multiple diligence workstreams, a clear and compelling thesis, honest assessment of risks, and a credible return analysis.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Memo Length. 10-20 pages (excluding appendices). Warning: above 30 pages (too long, partners will not read) or below 5 pages (insufficient depth). Benchmark 2: Diligence Coverage. All major diligence workstreams completed (founder, customer, market, product, financial, legal). Warning: significant workstreams incomplete. Benchmark 3: Risk Assessment Quality. Each major risk identified, probability and severity assessed, and mitigation strategy articulated. Warning: risks dismissed or ignored. Benchmark 4: Return Analysis. Bull, base, and bear case scenarios with specific exit assumptions. Warning: only bull case presented. Benchmark 5: Recommendation Clarity. Clear invest or pass recommendation with specific terms. Warning: ambiguous or hedged recommendation. Benchmark 6: Reference Summary. Key quotes and themes from founder and customer references included. Warning: references summarized as "positive" without specifics.
+
+INVESTMENT DECISION ANALYSIS
+
+The investment memo must present a clear investment thesis: why this company, why now, why this team, at this valuation. The bull case: the company executes, the market develops as expected, and the investment generates a 10x+ return. The base case: the company executes reasonably, the market develops adequately, and the investment generates a 3-5x return. The bear case: the company encounters significant challenges, the market disappoints, and the investment returns 0-1x. The return profile is analyzed in the context of the fund's return requirements: a Seed investment requires a 10x+ expected return to compensate for the high failure rate; a Growth investment requires a 3-5x expected return. The portfolio fit: how does this investment fit within the fund's portfolio construction strategy? Does it provide exposure to a thesis area? Does it diversify concentration risk?
+
+REAL-WORLD EXAMPLE
+
+The Sequoia investment memo for YouTube's Series A in 2005 (led by Roelof Botha) is legendary within the firm. The memo identified YouTube as a bet on the shift to user-generated video, recognized the founders' product instincts, and acknowledged the significant risks (copyright liability, bandwidth costs, uncertain monetization). The memo recommended investment despite the risks, arguing that the market opportunity and founder quality justified the risk. The outcome: Sequoia invested, and YouTube was acquired by Google for 1.65 billion dollars less than a year later. The investor lesson: a great investment memo acknowledges the risks honestly and argues why the opportunity justifies them. It does not pretend the risks do not exist.
+
+COMMON MISTAKES
+
+The first mistake is "Memo as Marketing Document": writing the memo to sell the investment rather than to analyze it honestly. The second mistake is "Risk Avoidance": minimizing or ignoring risks rather than addressing them directly. The third mistake is "Diligence Gaps": presenting a memo with incomplete diligence, hoping the partnership will not notice. The fourth mistake is "No Return Analysis": presenting an investment opportunity without modeling the expected return. The fifth mistake is "Hedged Recommendation": failing to take a clear position on whether the partnership should invest.
+
+COUNTERINTUITIVE INSIGHT
+
+The best investment memos are not the ones that make the strongest case for investment. They are the ones that present the most honest assessment. A memo that acknowledges the risks and explains why they are acceptable is more persuasive than one that pretends the risks do not exist. The partnership trusts the sponsor who tells the whole truth.
+
+INVESTMENT COMMITTEE PERSPECTIVE
+
+Positive IC signals: the memo is clear, well-structured, and supported by rigorous diligence; the risks are honestly assessed; the recommendation is clear and compelling. Red flags: the memo is confusing, disorganized, or unsupported; risks are ignored or dismissed; the recommendation is hedged or absent. Questions partners ask: "What did the references we did not talk to say? What is the single biggest risk to this investment, and why is it acceptable? If this investment fails, what will be the reason? What is the expected return, and how does it compare to our fund's requirements?" The evidence that changes a partner's vote: new information that was not in the memo, a compelling presentation by the sponsor that addresses the partnership's concerns, or a realization that the risks are greater or smaller than the memo suggested.
+
+DILIGENCE DIAGNOSTICS
+
+Positive Signals: Clear thesis; rigorous diligence; honest risk assessment; clear recommendation; credible return analysis. Warning Signals: Confusing thesis; incomplete diligence; risk avoidance; hedged recommendation; no return analysis. Critical Risks: Incomplete diligence, misrepresented metrics, hidden risks, conflicted references. Evidence Gaps: Missing reference calls, incomplete market analysis, unvalidated financials. Conviction Indicators: Consistent evidence, clear thesis, honest risks, credible returns. Deal Breakers: Integrity issues discovered during diligence, fundamental misrepresentation of metrics, undisclosed risks.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate investment memos on diligence quality and analytical rigor. Positive Signals: Clear thesis; rigorous diligence; honest risks; clear recommendation; credible returns. Warning Signals: Confusing thesis; incomplete diligence; risk avoidance; hedged recommendation. Scoring Signals: Memo Quality Score based on: thesis clarity (20%), diligence rigor (30%), risk assessment (25%), return analysis (25%). Founder Indicators: quality of founder references, founder transparency. Market Indicators: TAM analysis quality, market timing assessment. Execution Indicators: metric trends, go-to-market evidence. Risk Indicators: risk identification completeness, mitigation credibility. Return Indicators: scenario analysis quality, expected return relative to fund requirements. Exit Indicators: exit path analysis, comparable exits. Investment Readiness Indicators: diligence completeness, thesis clarity, partnership alignment.
+
+ACTIONABLE TAKEAWAYS
+
+1. Structure every investment memo with a clear thesis, rigorous diligence, honest risk assessment, and specific recommendation.
+2. Complete all major diligence workstreams before presenting to the IC. A memo with incomplete diligence undermines the sponsor's credibility.
+3. Present the bull, base, and bear cases. A memo that only presents the bull case is a marketing document, not an analytical one.
+4. Include specific quotes and themes from references. "References were positive" is not sufficient.
+5. Make a clear recommendation. If you cannot decide whether to invest, you have not completed your diligence.
+6. Write the memo so a partner can read it in 20 minutes and vote. Clarity and concision are as important as depth.
+7. Update the memo if new information emerges during the IC process. The partnership should have the most current information.
+8. For investment committees: Require a standardized memo structure for every investment decision. A consistent format enables consistent decision-making.
+
+END OF DOCUMENT

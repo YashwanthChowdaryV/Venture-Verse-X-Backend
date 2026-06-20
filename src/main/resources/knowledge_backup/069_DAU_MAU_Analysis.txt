@@ -1,0 +1,62 @@
+TITLE: DAU MAU Analysis
+DOCUMENT_ID: 069
+CATEGORY: Metrics & Financial Intelligence
+SUBCATEGORY: Engagement Metrics
+DIFFICULTY: Intermediate
+STAGE: Validation / Efficiency
+PERSONAS: Founder, Investor, Venture Analyst, CFO
+
+CORE CONCEPT
+
+DAU/MAU is the ratio of Daily Active Users to Monthly Active Users, a measure of user engagement frequency that captures how often users return to a product. The formula: DAU/MAU Ratio = Daily Active Users / Monthly Active Users. The ratio ranges from 0 to 1.0 (or 0% to 100%), with higher values indicating more frequent engagement. A DAU/MAU of 0.5 (50%) means the average monthly user uses the product 15 days per month. The core concept is that DAU/MAU measures the "stickiness" of a product — the degree to which it is embedded in users' daily habits. A product with high DAU/MAU (above 0.5 for consumer social, above 0.2 for B2B SaaS) has become a habit; a product with low DAU/MAU (below 0.1) is used episodically and is vulnerable to churn. The failure mode is "DAU/MAU Without Context": comparing DAU/MAU across different product categories without accounting for the natural usage frequency of each category. A messaging app with a 0.7 DAU/MAU is normal; a tax filing app with a 0.7 DAU/MAU is impossible. The benchmark must be category-specific. For investors, DAU/MAU is a leading indicator of retention. A product with high and stable DAU/MAU is likely to have strong retention; a product with declining DAU/MAU is likely to see churn increase.
+
+FRAMEWORK & MECHANICS
+
+The DAU/MAU framework operates with three primary definitions that must be consistently applied. Active User Definition: what constitutes an "active" user? Is it opening the app, performing a specific action, or any engagement? The definition must be consistent and aligned with the product's value proposition. Daily Active Users (DAU): the number of unique users who meet the active definition on a given day. Monthly Active Users (MAU): the number of unique users who meet the active definition in a given 30-day period. DAU is a subset of MAU.
+
+The operational mechanism is the "DAU/MAU Trend Analysis": the metric is tracked daily (DAU) and monthly (MAU), and the ratio is analyzed over time. A declining DAU/MAU means users are engaging less frequently — a leading indicator of churn. A stable or increasing DAU/MAU means the product is becoming more embedded in users' habits. The mental model is "DAU/MAU is the frequency dial of the product." A product can increase DAU/MAU by adding features that drive daily engagement (notifications, content feeds, social interactions) or by improving the core experience so users return more often. The decision process: if DAU/MAU is below the category benchmark, the company must invest in features and experiences that increase engagement frequency. If DAU/MAU is above the benchmark but declining, the company must diagnose the cause — is the product becoming less relevant, are notifications driving users away, or is a competitor capturing user attention?
+
+METRIC INTERPRETATION FRAMEWORK
+
+A healthy DAU/MAU is category-specific. Consumer social/messaging: 0.5-0.7 (50-70%). Consumer content/entertainment: 0.3-0.5. B2B SaaS (daily-use tools like email, Slack): 0.2-0.5. B2B SaaS (weekly-use tools like project management): 0.1-0.2. B2B SaaS (monthly-use tools like accounting): 0.05-0.1. The DAU/MAU should be stable or increasing. An unhealthy DAU/MAU is declining over time, below the category benchmark, or driven by notifications rather than organic engagement. Investors interpret DAU/MAU as a measure of product stickiness and a leading indicator of retention. A consumer social product with a 0.7 DAU/MAU is deeply embedded in users' daily lives and is likely to have strong retention. A product with a 0.2 DAU/MAU in a category where the benchmark is 0.5 is underperforming and likely to have retention challenges.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: DAU/MAU by Category. Consumer social/messaging: 0.5-0.7. Consumer content: 0.3-0.5. B2B daily-use tools: 0.2-0.5. B2B weekly-use tools: 0.1-0.2. B2B monthly-use tools: 0.05-0.1. Warning threshold: DAU/MAU below the category median. Benchmark 2: DAU/MAU Trend. The ratio should be stable or increasing. A declining DAU/MAU for 3+ months is a warning signal. Benchmark 3: DAU Growth vs. MAU Growth. If DAU is growing faster than MAU, DAU/MAU is increasing — a positive signal. If MAU is growing faster than DAU, the company is adding users who engage less frequently — potentially diluting engagement. Benchmark 4: DAU/MAU by Cohort. The DAU/MAU for each user cohort should be stable or increasing over time as users form habits. A declining DAU/MAU for older cohorts means users are losing interest. Benchmark 5: DAU/MAU and Revenue. For ad-supported products, DAU/MAU directly drives ad impressions and revenue. A higher DAU/MAU means more daily active users generating more ad impressions.
+
+REAL-WORLD EXAMPLE
+
+Facebook's DAU/MAU ratio has consistently been above 0.65 (65%) for its core app, meaning nearly two-thirds of monthly users return daily. This exceptionally high DAU/MAU is a function of the product's core loop — the News Feed provides a constantly updating stream of content that drives daily engagement, and notifications pull users back into the app. The outcome: Facebook's high DAU/MAU has sustained its advertising business through multiple competitive threats, because the daily engagement generates the ad impressions that drive revenue. The lesson: Facebook's DAU/MAU is not a passive metric; it is the result of continuous investment in the engagement loop — content algorithms, notification systems, and social features — that maintain daily habit formation.
+
+COMMON MISTAKES
+
+The first mistake is "DAU/MAU Without Category Context": comparing a B2B accounting tool's DAU/MAU to a consumer messaging app's, drawing incorrect conclusions. The second mistake is "Active User Definition Inflation": defining an "active" user so broadly (e.g., receiving a push notification) that the DAU/MAU is inflated beyond the user's actual engagement. The third mistake is "DAU/MAU Without Cohort Analysis": reporting a blended DAU/MAU without tracking it by cohort, masking a decline in engagement among newer or older users. The fourth mistake is "DAU/MAU as the Only Engagement Metric": relying on DAU/MAU without measuring session duration, session frequency, and feature-level engagement. The fifth mistake is "DAU/MAU Optimized Through Spam": increasing DAU/MAU through aggressive notifications that drive short-term engagement but increase long-term churn.
+
+COUNTERINTUITIVE INSIGHT
+
+A DAU/MAU that is too high for the product category can indicate that the product is demanding too much user attention, leading to burnout and eventual churn. A productivity tool with a 0.8 DAU/MAU may be creating notification fatigue that will eventually cause users to disengage entirely. The optimal DAU/MAU is one that reflects sustainable, value-driven engagement, not maximum possible engagement.
+
+INVESTOR PERSPECTIVE
+
+Positive signals: DAU/MAU at or above the category benchmark; DAU/MAU stable or increasing; DAU growing at least as fast as MAU; DAU/MAU stable or improving by cohort; active user definition aligned with value. Red flags: DAU/MAU below the category benchmark; DAU/MAU declining for 3+ months; MAU growing faster than DAU; DAU/MAU declining for older cohorts; active user definition inflated. Due diligence questions: "How do you define an active user?" "What is your DAU/MAU, and how has it trended?" "How does your DAU/MAU compare to the category benchmark?" "Is your DAU growing faster or slower than your MAU?" "How does DAU/MAU vary by user cohort?"
+
+FINANCIAL DIAGNOSTICS
+
+Positive Signals: DAU/MAU at or above category benchmark; stable or increasing; DAU growth aligned with MAU growth; stable by cohort; definition aligned with value. Warning Signals: DAU/MAU below category benchmark; declining; MAU growing faster than DAU; declining by cohort; inflated definition. Critical Thresholds: DAU/MAU declining 0.1+ over 6 months; DAU/MAU below half the category benchmark. Leading Indicators: notification opt-in rate, session frequency, feature adoption — these drive DAU/MAU. Lagging Indicators: DAU/MAU itself, which reflects the cumulative effect of engagement features and user habit formation. Root Causes of DAU/MAU decline: product is losing relevance; notifications are being tuned out; a competitor is capturing user attention; new users are lower quality and engage less. Corrective Actions: improve the core engagement loop; optimize notification strategy; improve new user onboarding to drive habit formation.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate DAU/MAU as a measure of product stickiness and engagement frequency. Positive Signals: DAU/MAU at or above category benchmark; stable or increasing; DAU growth aligned with MAU; stable by cohort. Warning Signals: DAU/MAU below category benchmark; declining; MAU growth exceeding DAU; declining by cohort. Scoring Signals: DAU/MAU Health Score based on: absolute level vs. category (40%), trend (30%), cohort stability (20%), definition quality (10%). Risk Indicators: DAU/MAU declining 0.1+ over 6 months; MAU growing while DAU is flat. Growth Indicators: DAU and MAU both growing with stable or increasing ratio. Efficiency Indicators: CAC declining as DAU/MAU increases (more organic engagement).
+
+ACTIONABLE TAKEAWAYS
+
+1. Define your active user precisely, aligned with the product's value proposition. Document the definition and apply it consistently.
+2. Calculate your DAU/MAU monthly and track the trend. Compare to the category benchmark for your product type.
+3. If DAU/MAU is declining, determine whether DAU is declining (existing users engaging less) or MAU is growing faster (new users less engaged).
+4. Track DAU/MAU by user cohort. A decline for older cohorts is a retention risk; a decline for newer cohorts is an onboarding or product quality issue.
+5. Invest in the engagement loop: notifications, content feeds, social features, and personalization that drive daily or frequent engagement.
+6. Avoid inflating DAU/MAU through spam notifications. Measure notification opt-out rates alongside DAU/MAU to ensure engagement is sustainable.
+7. Report DAU/MAU to your board monthly alongside the DAU and MAU trends.
+8. For investors: Request the active user definition and the DAU/MAU trend by cohort. A declining DAU/MAU is a leading indicator of future retention problems.
+
+END OF DOCUMENT

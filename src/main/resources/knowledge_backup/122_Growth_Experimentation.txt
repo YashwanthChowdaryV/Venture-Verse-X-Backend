@@ -1,0 +1,62 @@
+﻿TITLE: Growth Experimentation
+DOCUMENT_ID: 122
+CATEGORY: Growth & Go-To-Market
+SUBCATEGORY: Optimization
+DIFFICULTY: Advanced
+STAGE: Efficiency to Scale
+PERSONAS: Founder, Growth Leader, Investor
+
+CORE CONCEPT
+
+Growth Experimentation is the systematic process of testing hypotheses about how to improve growth metrics through controlled experiments, measuring the results with statistical rigor, and scaling the winning experiments. The core concept is that growth experimentation replaces opinion-driven growth decisions with evidence-driven decisions. Instead of debating which acquisition channel to invest in, the team runs experiments. Instead of arguing about onboarding design, the team A/B tests. The failure mode is "Random Testing": running experiments without a strategic framework, testing low-impact variables, and ending experiments early when results look promising. For investors, a startup's experimentation capability is a signal of growth maturity. A company that runs systematic, rigorous experiments has a learning engine that compounds; a company that makes decisions by intuition is leaving growth to chance.
+
+FRAMEWORK & MECHANICS
+
+The Growth Experimentation framework operates through the "Experiment Lifecycle": Ideation (generate experiment ideas from data analysis, user research, competitive analysis, and team brainstorming), Prioritization (score each experiment idea on potential impact, confidence in the hypothesis, and ease of implementation -- the ICE framework: Impact, Confidence, Ease), Design (define the hypothesis, the target metric, the variant, the sample size, and the experiment duration), Execution (launch the experiment, monitor for bugs, do not peek at results before the predetermined duration), Analysis (evaluate the results for statistical significance -- typically p-value below 0.05 -- and practical significance), and Decision (ship the winning variant, iterate on the learning, or discard the hypothesis).
+
+The operational mechanism is the "Experiment Dashboard": the company tracks all active experiments, their status, their results, and the decisions they produced. The dashboard enables the team to learn from the aggregate of experiments, not just individual wins. The mental model is "every growth decision is a hypothesis to be tested." The growth team should default to testing changes rather than shipping them on intuition, especially for changes to high-traffic surfaces. The decision process: the growth team maintains an experiment backlog, prioritizes experiments using ICE, runs experiments to completion, and documents the learning from every experiment.
+
+GROWTH EVALUATION FRAMEWORK
+
+Healthy experimentation execution: a documented experiment process; an experiment backlog prioritized by ICE; experiments run to completion with statistical rigor; an experiment dashboard tracking cumulative impact; the team learns from both winning and losing experiments. Unhealthy: no experiment process; random testing; experiments ended early; no statistical rigor; no cumulative impact measurement; only testing surface-level changes. Growth quality indicators: experiment velocity (number of experiments per month); experiment win rate; cumulative impact of experiments on the North Star metric. Growth sustainability indicators: the quality of experiment hypotheses; the team's understanding of user behavior.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Experiment Velocity. Above 10 experiments per month is strong for a growth-stage company. Warning: below 5. Benchmark 2: Experiment Win Rate. 10-30% is typical. Warning: above 50% (testing only sure things) or below 5% (hypotheses disconnected from user behavior). Benchmark 3: Cumulative Experiment Impact. The aggregate improvement in the North Star metric from experimentation over 12 months. Above 20% is strong. Benchmark 4: Experiment Completion Rate. The percentage of experiments that reach the predetermined sample size and duration. Above 90% is strong. Warning: below 70%. Benchmark 5: Experiment Cycle Time. From ideation to decision. Under 2 weeks is strong. Warning: above 4 weeks. Benchmark 6: ICE Score Distribution. The experiment backlog should have a healthy mix of high-impact, high-confidence bets and lower-confidence explorations.
+
+REAL-WORLD EXAMPLE
+
+Booking.com's experimentation culture is the benchmark for growth experimentation. The company runs thousands of experiments simultaneously on every element of the user experience. Every PM, designer, and engineer is empowered to test their ideas. The experimentation platform is the company's operating system for product decisions. The outcome: Booking.com's experimentation has produced a conversion rate optimization engine that is best-in-class and has contributed to the company's dominant market position. The investor lesson: Booking.com's experimentation is not a process; it is the culture.
+
+COMMON MISTAKES
+
+The first mistake is "Testing Without a Hypothesis": running A/B tests without a clear hypothesis about why the change will improve the metric. The second mistake is "Peeking and Early Stopping": ending experiments when results look good, inflating false positives. The third mistake is "Testing Low-Impact Changes": optimizing button colors when the onboarding flow is broken. The fourth mistake is "No Cumulative Measurement": running experiments without tracking the aggregate impact on the business. The fifth mistake is "No Learning Documentation": moving on from experiments without documenting what was learned.
+
+COUNTERINTUITIVE INSIGHT
+
+A failed experiment is more valuable than a successful one because it teaches you something you did not know. A negative result eliminates a hypothesis and prevents you from shipping a harmful change. The learning from negative experiments compounds into better hypotheses over time.
+
+INVESTOR PERSPECTIVE
+
+Positive experimentation signals: a documented process; ICE-prioritized backlog; statistical rigor; cumulative impact measurement; learning documentation. Red flags: no process; random testing; experiments ended early; no statistical rigor; no cumulative measurement. Due diligence questions: "What is your experimentation process?" "How many experiments do you run per month?" "What is your experiment win rate, and what has been the cumulative impact?" "How do you prioritize experiment ideas?" "Show me an experiment that failed -- what did you learn?"
+
+GROWTH DIAGNOSTICS
+
+Positive Signals: Documented process; ICE backlog; statistical rigor; cumulative measurement; learning documentation. Warning Signals: No process; random testing; no rigor; no measurement. Critical Thresholds: No experimentation; experiments ended early; no statistical significance. Leading Indicators: experiment velocity, hypothesis quality, experiment cycle time. Lagging Indicators: experiment win rate, cumulative impact, North Star metric trend. Root Causes of experimentation failure: no process, no rigor, testing low-impact changes. Corrective Actions: establish a process; implement ICE prioritization; enforce statistical rigor; measure cumulative impact.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate growth experimentation as a learning engine. Positive Signals: Documented process; ICE backlog; statistical rigor; cumulative measurement; learning documentation. Warning Signals: No process; random testing; no rigor; no measurement. Scoring Signals: Experimentation Score based on: velocity (25%), process quality (25%), statistical rigor (25%), cumulative impact (25%). Risk Indicators: No experimentation; experiments ended early; no statistical significance. Growth Indicators: Experiment velocity trend; cumulative impact trend. Distribution Indicators: Experiment impact by channel. Acquisition Indicators: Experiment-driven CAC improvements. Retention Indicators: Experiment-driven retention improvements.
+
+ACTIONABLE TAKEAWAYS
+
+1. Establish an experimentation process: ideation, prioritization (ICE), design, execution, analysis, decision. Document every experiment.
+2. Build an experiment backlog and prioritize it using the ICE framework: Impact, Confidence, Ease. High ICE experiments get prioritized.
+3. Never end an experiment early. Set the sample size and duration before launching, and let the experiment run to completion.
+4. Require statistical significance (p-value below 0.05 or Bayesian equivalent) before making decisions based on experiment results.
+5. Measure the cumulative impact of experimentation on your North Star metric. Individual experiment wins are meaningless without aggregate impact.
+6. Document the learning from every experiment, whether it wins, loses, or is inconclusive. The learning compounds.
+7. Test high-impact changes, not just surface-level optimizations. The biggest wins come from testing fundamental assumptions.
+8. For investors: Request the experiment dashboard, the ICE backlog, and the cumulative experiment impact. A founder who cannot produce these has not built an experimentation capability.
+
+END OF DOCUMENT

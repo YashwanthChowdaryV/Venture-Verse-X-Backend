@@ -1,0 +1,233 @@
+﻿TITLE: Open Source vs Closed Models
+
+DOCUMENT_ID: 213
+
+CATEGORY: AI Startup Intelligence
+
+SUBCATEGORY: Model Strategy
+
+DIFFICULTY: Advanced
+
+STAGE: Seed to Growth
+
+PERSONAS: Founder, Investor, AI Operator
+
+CORE CONCEPT
+
+Open Source vs Closed Models is one of the most important strategic decisions facing AI startups. Open-source models provide flexibility, cost control, customization, and independence. Closed models provide performance, reliability, and rapid access to frontier capabilities. The primary evaluation signal is whether model strategy creates sustainable business advantages. Investors increasingly view model selection as an economic and strategic decision rather than a purely technical one. Successful startups choose the model strategy that maximizes customer value while minimizing platform risk. Failed startups frequently become dependent on external providers or overinvest in infrastructure without achieving differentiation. The strongest companies treat models as components of a larger business system rather than the business itself.
+
+AI STARTUP FRAMEWORK & MECHANICS
+
+The Model Strategy Framework contains four dimensions.
+
+Performance:
+Capability and accuracy.
+
+Control:
+Customization and ownership.
+
+Economics:
+Cost structure and scalability.
+
+Risk:
+Platform dependency and strategic exposure.
+
+Open-source models offer greater flexibility and lower dependency.
+
+Closed models often provide stronger out-of-the-box performance.
+
+A useful mental model is Strategic Dependence Ratio.
+
+The more critical a model becomes to business success, the more dangerous provider concentration becomes.
+
+The strongest companies maintain model flexibility and avoid becoming tied to a single provider.
+
+AI EVALUATION FRAMEWORK
+
+Model strategy should be evaluated across seven dimensions.
+
+Performance:
+Capability quality.
+
+Cost:
+Economic efficiency.
+
+Flexibility:
+Ability to customize.
+
+Vendor Risk:
+External dependency.
+
+Scalability:
+Support for growth.
+
+Data Control:
+Ownership of information.
+
+Competitive Advantage:
+Business differentiation.
+
+Strong businesses remain adaptable regardless of which model provider leads the market. Weak businesses become dependent on external innovation cycles.
+
+KEY METRICS & BENCHMARKS
+
+Inference Cost:
+Healthy: Below 15% Revenue
+
+Vendor Concentration:
+Healthy: Diversified
+
+Gross Margin:
+Healthy: Above 70%
+
+Migration Complexity:
+Healthy: Low
+
+System Availability:
+Healthy: Above 99.9%
+
+Performance Stability:
+Healthy: Consistent
+
+Customization Capability:
+Healthy: High
+
+These metrics determine strategic flexibility and economic durability.
+
+ECONOMIC & MOAT ANALYSIS
+
+Open-source models reduce platform risk but may require additional infrastructure investment.
+
+Closed models accelerate product development but increase dependency.
+
+Data moats remain valuable regardless of model strategy.
+
+Workflow moats often outweigh model selection advantages.
+
+Distribution moats remain independent of technology choices.
+
+Model commoditization reduces the long-term value of proprietary model access.
+
+Margin durability improves when businesses maintain flexibility across providers.
+
+The strongest AI startups own customer relationships rather than model technology.
+
+REAL-WORLD EXAMPLE
+
+Perplexity demonstrates a hybrid strategy.
+
+The company leverages multiple models while focusing on product experience, retrieval quality, and user value.
+
+Its advantage comes from search workflows and information delivery rather than ownership of a foundation model.
+
+As models improve, Perplexity benefits from increased performance.
+
+The investor lesson is that adaptability often creates more value than exclusivity.
+
+COMMON MISTAKES
+
+Many founders assume the best model guarantees success.
+
+Others become dependent on a single provider.
+
+Some underestimate infrastructure costs.
+
+Many ignore switching complexity.
+
+Investors detect these weaknesses through concentration risk and economic analysis.
+
+COUNTERINTUITIVE INSIGHT
+
+The most valuable AI companies often care less about which model they use and more about the workflows they own. Models change rapidly. Customer relationships endure.
+
+INVESTOR PERSPECTIVE
+
+Positive signals include model flexibility, diversified providers, strong economics, and workflow ownership.
+
+Red flags include single-vendor dependency and model-centric differentiation.
+
+Key diligence questions include:
+
+Can the company switch providers?
+
+What happens if model costs change?
+
+What advantage exists beyond the model?
+
+Required evidence includes cost data, migration plans, and retention metrics.
+
+AI STARTUP DIAGNOSTICS
+
+Positive Signals:
+Model flexibility
+Workflow ownership
+
+Warning Signals:
+Provider concentration
+
+Leading Indicators:
+Cost efficiency
+Performance gains
+
+Lagging Indicators:
+Revenue growth
+Margins
+
+Model Risk:
+Vendor dependency
+
+Economic Risk:
+Cost inflation
+
+Competitive Risk:
+Commoditization
+
+Platform Risk:
+API changes
+
+VENTUREVERSE EVALUATION SIGNALS
+
+Positive Signals:
+Diversified strategy
+Strong economics
+
+Warning Signals:
+Single-model dependence
+
+Scoring Signals:
+Flexibility Score
+Economics Score
+Risk Score
+Moat Score
+
+AI Differentiation Indicators:
+Workflow ownership
+
+Distribution Indicators:
+Customer reach
+
+Data Advantage Indicators:
+Proprietary information
+
+Margin Indicators:
+Cost efficiency
+
+Risk Indicators:
+Provider exposure
+
+Category Leadership Indicators:
+Adaptability
+Market adoption
+
+ACTIONABLE TAKEAWAYS
+
+1. Avoid dependence on one provider.
+2. Build model-switching capability.
+3. Track infrastructure economics.
+4. Prioritize workflow ownership.
+5. Reduce platform risk.
+6. Monitor model performance regularly.
+7. Evaluate migration complexity.
+8. Build advantages beyond models.
+
+END OF DOCUMENT

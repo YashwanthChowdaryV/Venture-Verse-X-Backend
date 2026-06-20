@@ -1,0 +1,66 @@
+﻿TITLE: Portfolio Construction Strategy
+DOCUMENT_ID: 234
+CATEGORY: Venture Capital Due Diligence & Investment Intelligence
+SUBCATEGORY: Portfolio Management
+DIFFICULTY: Advanced
+STAGE: All Stages
+PERSONAS: Investor, Venture Analyst, Fund Manager
+
+CORE CONCEPT
+
+Portfolio Construction Strategy is the discipline of selecting and sizing investments to maximize the probability of achieving the fund's return objectives while managing risk. The core concept is that venture capital returns follow a power-law distribution: a small number of investments generate the vast majority of returns. The failure mode for investors is "Portfolio as a Collection": treating the portfolio as a collection of individual investments rather than as a system where the interactions between investments determine the overall outcome. For investors, portfolio construction is as important as individual investment selection. A well-constructed portfolio of good investments can outperform a poorly constructed portfolio of great investments.
+
+INVESTMENT FRAMEWORK & MECHANICS
+
+The Portfolio Construction framework operates through several principles. Power-Law Awareness: the portfolio must be constructed to capture extreme outcomes. Avoiding losses is less important than capturing winners. Diversification within Concentration: the portfolio should be diversified across sectors, stages, and geographies, but concentrated enough that each investment can move the fund's returns. The typical Seed fund makes 25-35 investments; the typical Series A fund makes 15-25. Position Sizing: initial check size should be calibrated to the fund's size and strategy. Follow-on reserves should be allocated to support winners. Stage Allocation: the portfolio should be allocated across stages based on the fund's strategy. A Seed fund allocates 100% to Seed; a multi-stage fund allocates across Seed, Series A, and Growth. Sector Allocation: the portfolio should be diversified across sectors to reduce correlation risk, but concentrated enough in thesis areas to develop domain expertise.
+
+The operational mechanism is the "Portfolio Construction Model": the fund models its expected returns under different portfolio construction strategies, accounting for failure rates, loss rates, and the distribution of outcomes. The mental model is "the portfolio is a system designed to capture power-law returns." The decision process: the fund establishes its portfolio construction parameters, monitors the portfolio against those parameters, and adjusts as the portfolio evolves.
+
+DUE DILIGENCE FRAMEWORK
+
+The portfolio construction diligence process involves: portfolio analysis (assessing the current portfolio's composition, concentration, and expected returns), investment sizing (determining the appropriate check size based on the fund's strategy and the portfolio's needs), follow-on strategy (determining the reserve strategy for follow-on investments), and portfolio monitoring (tracking the portfolio's performance against the construction parameters). Key questions: "How does this investment fit within the portfolio? Does it increase or decrease concentration risk? Does it provide exposure to a thesis area? Is the position size appropriate given the fund's strategy?" Conviction-building signals: the investment improves the portfolio's diversification, provides thesis exposure, and is sized appropriately.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Portfolio Size. Seed fund: 25-35 investments. Series A fund: 15-25. Growth fund: 10-20. Warning: above 40 (over-diversified, cannot support all companies) or below 10 (under-diversified, single failure is too impactful). Benchmark 2: Initial Check Size. Seed: 5-10% of fund size. Series A: 8-15%. Growth: 10-20%. Warning: above 15% at Seed (over-concentration) or below 2% (cannot move returns). Benchmark 3: Follow-On Reserves. 40-60% of fund capital reserved for follow-on investments. Warning: below 30% (insufficient to support winners). Benchmark 4: Sector Concentration. No single sector above 30% of the portfolio. Warning: above 40%. Benchmark 5: Stage Concentration. Aligned with fund strategy. Warning: stage drift (Seed fund doing Growth deals). Benchmark 6: Expected Loss Rate. 50-70% of Seed investments return less than 1x. 30-50% of Series A investments. The portfolio must be constructed to withstand these loss rates.
+
+INVESTMENT DECISION ANALYSIS
+
+The bull case: the portfolio is well-constructed, diversified within concentration, and positioned to capture power-law outcomes. The base case: the portfolio is adequately constructed with some concentration or diversification issues. The bear case: the portfolio is poorly constructed, over-concentrated or over-diversified, and unlikely to achieve the fund's return objectives. The return profile: a well-constructed portfolio of good investments can generate top-quartile returns. The portfolio fit: each investment should be evaluated for its contribution to the portfolio, not just its individual merits.
+
+REAL-WORLD EXAMPLE
+
+The portfolio construction strategy of a leading Seed fund illustrates the principles. The fund makes 25-30 investments per fund, with initial checks of 5-8% of fund size. It reserves 50% of capital for follow-on investments, concentrating reserves on the top-performing companies. It diversifies across sectors but concentrates within its thesis areas (enterprise SaaS, infrastructure, AI). The outcome: the fund has consistently generated top-quartile returns. The investor lesson: the fund's portfolio construction -- not just its investment selection -- is a key driver of its returns.
+
+COMMON MISTAKES
+
+The first mistake is "Over-Diversification": making too many investments, diluting the impact of winners and overwhelming the ability to support portfolio companies. The second mistake is "Under-Diversification": making too few investments, where a single failure is too impactful. The third mistake is "No Follow-On Reserves": deploying all capital in initial investments, leaving no capital to support winners. The fourth mistake is "Stage Drift": a Seed fund doing Growth deals or vice versa, misaligning the portfolio with the fund's strategy and LP expectations. The fifth mistake is "Sector Concentration": over-concentrating in a single sector, exposing the portfolio to sector-specific risk.
+
+COUNTERINTUITIVE INSIGHT
+
+The best portfolio is not the one with the most winners. It is the one with the biggest winners. A portfolio where 5 companies return 0x, 5 return 1x, 5 return 2x, and 1 returns 50x will outperform a portfolio where 15 companies return 2x. The power law means that a single exceptional outcome can make the fund.
+
+INVESTMENT COMMITTEE PERSPECTIVE
+
+Positive IC signals: the investment improves portfolio diversification; provides thesis exposure; sized appropriately; reserves adequate. Red flags: the investment increases concentration risk excessively; does not fit the fund's strategy; oversized or undersized; reserves insufficient. Questions partners ask: "How does this investment fit within the portfolio? What is the portfolio's current composition, and how does this change it? Is the position size appropriate? Do we have adequate reserves for follow-on?" The evidence that changes a partner's vote: a portfolio analysis showing the investment would create excessive concentration, or confirmation that the investment fills a portfolio gap.
+
+DILIGENCE DIAGNOSTICS
+
+Positive Signals: Diversification within concentration; appropriate sizing; adequate reserves; strategy alignment. Warning Signals: Excessive concentration; inappropriate sizing; insufficient reserves; strategy drift. Critical Risks: Portfolio that cannot achieve fund return objectives, excessive concentration in a failing sector, insufficient reserves to support winners. Evidence Gaps: no portfolio analysis, no reserve strategy. Conviction Indicators: portfolio improves diversification, appropriate sizing, adequate reserves. Deal Breakers: investment that would create excessive concentration, investment that cannot move returns at the proposed size.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate portfolio construction on diversification, concentration, and return potential. Positive Signals: Diversified within concentration; appropriate sizing; adequate reserves; strategy alignment. Warning Signals: Excessive concentration; inappropriate sizing; insufficient reserves. Scoring Signals: Portfolio Fit Score based on: diversification impact (25%), concentration assessment (25%), sizing appropriateness (25%), reserve adequacy (25%). Founder Indicators: not applicable (portfolio-level). Market Indicators: sector exposure, market correlation. Execution Indicators: portfolio support capacity. Risk Indicators: concentration risk, correlation risk, reserve risk. Return Indicators: portfolio expected return, power-law capture probability. Exit Indicators: portfolio exit potential. Investment Readiness Indicators: portfolio fit, sizing appropriateness, reserve availability.
+
+ACTIONABLE TAKEAWAYS
+
+1. Construct your portfolio explicitly, not passively. Define your target portfolio size, sector allocation, stage allocation, and reserve strategy before deploying capital.
+2. Size initial investments to be meaningful (can move returns if the company is a massive winner) but not so large that they create excessive concentration.
+3. Reserve 40-60% of fund capital for follow-on investments. The ability to support your winners is critical to capturing returns.
+4. Diversify within your thesis areas. Do not bet the fund on a single sector, no matter how compelling the thesis.
+5. Monitor your portfolio composition continuously. Concentration can creep as certain investments outperform.
+6. Do not drift from your stated strategy. LPs expect you to execute the strategy they invested in.
+7. Model your expected returns under different portfolio construction scenarios. Understand the relationship between portfolio construction and fund returns.
+8. For investment committees: Require a Portfolio Fit Assessment for every investment decision. An investment made without understanding its portfolio impact is a process failure.
+
+END OF DOCUMENT

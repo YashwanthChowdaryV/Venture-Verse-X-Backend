@@ -1,0 +1,66 @@
+﻿TITLE: Commercial Due Diligence
+DOCUMENT_ID: 228
+CATEGORY: Venture Capital Due Diligence & Investment Intelligence
+SUBCATEGORY: Diligence Process
+DIFFICULTY: Advanced
+STAGE: All Stages
+PERSONAS: Investor, Venture Analyst, Strategy Analyst
+
+CORE CONCEPT
+
+Commercial Due Diligence is the process of evaluating a startup's market positioning, go-to-market strategy, customer relationships, competitive dynamics, and revenue quality to assess whether the business can achieve sustainable, profitable growth. The core concept is that commercial diligence validates the company's claims about its market, customers, and competitive position through independent investigation. The failure mode for investors is "Commercial Diligence as a Pitch Deck Review": accepting the company's own description of its market position and customer satisfaction without independent verification. For investors, commercial diligence is the most important diligence workstream after founder evaluation. The best commercial diligence reveals the gap between what the company says and what the market actually believes.
+
+INVESTMENT FRAMEWORK & MECHANICS
+
+The Commercial Due Diligence framework operates through five dimensions. Customer Validation: do customers actually value the product? Would they be "very disappointed" without it? Would they recommend it? This is validated through independent customer interviews, not the company's reference list. Market Validation: is the market real, large, and growing? Is the company's market positioning credible? This is validated through market analysis, expert interviews, and customer research. Competitive Position: how does the company compare to competitors? Why do customers choose the company? Why do they choose competitors? This is validated through win/loss analysis, customer interviews, and competitive research. Go-to-Market Effectiveness: is the go-to-market engine efficient and scalable? What is the CAC by channel? What is the sales rep productivity? This is validated through unit economics analysis and sales team interviews. Revenue Quality: is the revenue recurring, diversified, and high-margin? What is the revenue concentration? What is the churn rate? This is validated through financial analysis and customer interviews.
+
+The operational mechanism is the "Customer Reference Call Program": the investor conducts 5-15 independent customer interviews, including current customers, churned customers, and prospects who chose a competitor. The mental model is "the company's customers know more about the company than the company does." The decision process: the commercial diligence findings are synthesized into an assessment of the company's market position, competitive strength, and growth sustainability.
+
+DUE DILIGENCE FRAMEWORK
+
+The commercial diligence process involves: customer interviews (5-15 calls with a mix of current, churned, and lost prospects), expert interviews (industry analysts, former executives of competitors, channel partners), competitive analysis (independent assessment of the competitive landscape), win/loss analysis (review of recent deals won and lost), and go-to-market analysis (review of sales and marketing metrics, interviews with sales and marketing leaders). Key diligence questions for customers: "What problem does this product solve for you? How would you feel if you could no longer use it? What alternatives did you consider? Why did you choose this product? What is the product's biggest weakness? Would you recommend it to a peer?" Conviction-building signals: customers describe the product as a "must-have," the company wins deals on product quality rather than price, churned customers acknowledge the product's value, and the competitive position is validated by independent research.
+
+KEY METRICS & BENCHMARKS
+
+Benchmark 1: Customer "Very Disappointed" Rate. Above 40% is strong product-market fit. Warning: below 25%. Benchmark 2: Customer Reference Willingness. Above 50% of customers are willing to be references. Warning: below 20%. Benchmark 3: Win Rate Against Primary Competitor. Above 40% is strong. Warning: below 20%. Benchmark 4: Organic Acquisition Percentage. Above 30% is strong. Warning: below 10%. Benchmark 5: Revenue Concentration. No single customer above 15% of revenue. Warning: above 25%. Benchmark 6: Churned Customer Feedback. Churned customers who acknowledge the product's value but left for other reasons (price, fit, budget) is acceptable. Churned customers who say the product did not deliver value is concerning.
+
+INVESTMENT DECISION ANALYSIS
+
+The bull case: customers love the product, the market is large and growing, the competitive position is strong, and the go-to-market engine is efficient. The base case: customers value the product, the market is adequate, the competitive position is defensible, and the go-to-market engine is functional. The bear case: customer satisfaction is overstated, the market is smaller than claimed, the competitive position is weaker than presented, and the go-to-market engine is inefficient. The return profile: strong commercial diligence findings correlate with lower churn, higher NRR, and better investment outcomes.
+
+REAL-WORLD EXAMPLE
+
+The commercial diligence that preceded Sequoia's investment in ServiceNow exemplified effective commercial assessment. Sequoia's customer calls revealed that ServiceNow's product was mission-critical for IT departments, that switching costs were high, and that the competitive alternatives (legacy on-premise systems) were deeply unsatisfactory. The commercial diligence confirmed that ServiceNow was not just another IT tool but a platform that enterprises were building their IT operations around. The outcome: Sequoia invested, and ServiceNow became one of the most successful enterprise SaaS companies, with a market cap above one hundred fifty billion dollars. The investor lesson: the customer calls revealed the depth of ServiceNow's product-market fit and the weakness of the competitive alternatives.
+
+COMMON MISTAKES
+
+The first mistake is "Reference List Only": talking only to customers provided by the company, who are the happiest customers. The second mistake is "No Churned Customer Calls": failing to interview customers who left, who have the most honest feedback. The third mistake is "Superficial Questions": asking customers if they like the product rather than probing for specific value and weaknesses. The fourth mistake is "Ignoring Competitive Losses": failing to analyze why the company loses deals. The fifth mistake is "No Independent Validation": accepting the company's market analysis without independent research.
+
+COUNTERINTUITIVE INSIGHT
+
+The most valuable customer interviews are with the customers who churned. They have no reason to be polite, and their feedback reveals the product's weaknesses, the competitive alternatives, and the reasons customers leave. Five churned customer interviews are worth more than twenty current customer interviews.
+
+INVESTMENT COMMITTEE PERSPECTIVE
+
+Positive IC signals: customers describe the product as a "must-have"; the company wins on product, not price; churned customers acknowledge value; competitive position is strong. Red flags: customers are lukewarm; the company wins on price; churned customers say the product did not deliver; competitive position is weak. Questions partners ask: "What did the customers we talked to say? What did the churned customers say? Why do customers choose this product over competitors? What is the product's biggest weakness? If this product disappeared tomorrow, what would customers do?" The evidence that changes a partner's vote: customer feedback that is significantly different from the company's claims, discovery of a competitive threat, or confirmation of exceptional product-market fit.
+
+DILIGENCE DIAGNOSTICS
+
+Positive Signals: Customers love the product; strong win rates; churned customers acknowledge value; efficient go-to-market. Warning Signals: Customers are lukewarm; weak win rates; churned customers cite product failure; inefficient go-to-market. Critical Risks: No product-market fit, competitive displacement, revenue concentration, go-to-market failure. Evidence Gaps: no customer interviews, no churned customer calls, no competitive analysis. Conviction Indicators: consistent customer enthusiasm, competitive strength, go-to-market efficiency. Deal Breakers: customers do not value the product, competitive position is unsustainable, revenue is concentrated and fragile.
+
+VENTUREVERSE EVALUATION SIGNALS
+
+VentureVerse agents must evaluate commercial diligence on independent customer validation and competitive analysis. Positive Signals: Strong customer love; competitive strength; efficient GTM; diversified revenue. Warning Signals: Lukewarm customers; weak competition; inefficient GTM; concentrated revenue. Scoring Signals: Commercial Quality Score based on: customer validation (30%), competitive position (25%), GTM effectiveness (25%), revenue quality (20%). Founder Indicators: founder understanding of customers and competition. Market Indicators: market validation, competitive dynamics. Execution Indicators: GTM efficiency, sales productivity. Risk Indicators: customer concentration, competitive threats, revenue quality issues. Return Indicators: growth sustainability, market share potential. Exit Indicators: market position at exit, customer base quality. Investment Readiness Indicators: customer validation, competitive strength, GTM maturity.
+
+ACTIONABLE TAKEAWAYS
+
+1. Conduct 5-15 customer interviews for every investment, including current customers, churned customers, and lost prospects.
+2. Do not rely on the company's reference list. Find and interview customers independently.
+3. Ask customers specific questions: "What problem does this product solve? How would you feel without it? What alternatives did you consider? Why did you choose this product? What is its biggest weakness?"
+4. Interview churned customers. They provide the most honest and valuable feedback.
+5. Analyze the company's win/loss data. Why do they win? Why do they lose? The loss reasons are more revealing than the win reasons.
+6. Validate the company's market claims independently. Do not accept the company's TAM analysis or competitive positioning without verification.
+7. Assess revenue quality. Is the revenue recurring, diversified, and high-margin? Or is it one-time, concentrated, and low-margin?
+8. For investment committees: Require customer reference call summaries for every investment decision. An investment made without customer validation is a process failure.
+
+END OF DOCUMENT
